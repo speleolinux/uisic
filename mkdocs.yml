@@ -1,0 +1,37 @@
+# mkdocs main configuration file.
+
+site_name: "UISIC Pages"
+site_url: ""
+repo_url: https://github.com/speleolinux/uisic/
+use_directory_urls: false
+
+markdown_extensions:
+  - tables
+  - smarty
+  - toc:
+      toc_depth: 3
+      permalink: True
+      separator: "_"
+
+# Docs for mkdocs macros: https://mkdocs-macros-plugin.readthedocs.io/en/latest/
+# You will need to either disable the search plugin, i.e. "- search".
+plugins:
+    - macros
+
+# Themes available with mkDocs are: mkdocs readthedocs
+# To use the material theme: "pip install mkdocs-material".
+theme:
+  #logo: images/uts_logo.png
+  name: material
+  features:  
+    - navigation.instant
+    - navigation.top        # Creates a back-to-top "arrow icon" at bottom RHS.
+    #- navigation.tabs      # Top-level sections are rendered in a menu layer below the header.
+    #- navigation.expand     # Left sidebar will expand all collapsible subsections by default.
+
+extra_css: [css/extra.css]
+
+nav:
+  - 'Home Page': README.md
+  - 'About this Site': about.md   
+
