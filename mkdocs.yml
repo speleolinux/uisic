@@ -16,7 +16,7 @@ markdown_extensions:
 # Docs for mkdocs macros: https://mkdocs-macros-plugin.readthedocs.io/en/latest/
 # You will need to either disable the search plugin, i.e. "- search".
 plugins:
-    - macros
+  - macros
 
 # Themes available with mkDocs are: mkdocs readthedocs
 # To use the material theme: "pip install mkdocs-material".
