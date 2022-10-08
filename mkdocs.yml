@@ -1,8 +1,7 @@
 # mkdocs main configuration file.
 
 site_name: "UISIC Pages"
-site_url: ""
-#site_url: "https://github.com/speleolinux/uisic/"
+site_url: "https://speleolinux.github.io/uisic/"
 repo_url: https://github.com/speleolinux/uisic/
 use_directory_urls: false
 
