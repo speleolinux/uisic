@@ -33,5 +33,6 @@ theme:
 
 nav:
   - 'Home Page': README.md
+  - 'Cavers Dictionary': dictionary.md   
   - 'About this Site': about.md   
 
