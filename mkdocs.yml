@@ -3,7 +3,7 @@
 site_name: "UISIC Pages"
 site_url: "https://speleolinux.github.io/uisic/"
 repo_url: https://github.com/speleolinux/uisic/
-use_directory_urls: false
+use_directory_urls: true
 
 markdown_extensions:
   - tables
