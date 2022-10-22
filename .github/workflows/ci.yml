@@ -5,13 +5,13 @@ name: Deploy Site
 
 on:
   # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+  #workflow_dispatch:
   push:
     branches:
       - main
       - gh-pages
-  paths:
-      - '.github/workflows/ci.yml'
+#  paths:
+#      - '.github/workflows/ci.yml'
 
 jobs:
   build:
