@@ -1,8 +1,8 @@
 # mkdocs main configuration file.
 
-site_name: "UISIC Pages"
+site_name: "UIS Informatics Commission"
 site_url: "https://speleolinux.github.io/uisic/"
-repo_url: "https://github.com/speleolinux/uisic/"
+#repo_url: "https://github.com/speleolinux/uisic/"
 use_directory_urls: true
 
 markdown_extensions:
