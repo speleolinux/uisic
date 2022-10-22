@@ -1,6 +1,6 @@
 # UISIC Test Repo
 
-This is just a test repo for UISIC projects.
+This is just a test repo for UISIC projects
 
 There is a CI job file here: `.github/workflows/ci.yml`.
 
