@@ -17,6 +17,7 @@ markdown_extensions:
 # You will need to either disable the search plugin, i.e. "- search".
 plugins:
   - macros
+  - search
 
 # Themes available with mkDocs are: mkdocs readthedocs
 # To use the material theme: "pip install mkdocs-material".
@@ -25,15 +26,16 @@ theme:
   #name: readthedocs
   name: material
   features:  
-    #- navigation.instant
+    - navigation.instant
     - navigation.top        # Creates a back-to-top "arrow icon" at bottom RHS.
     #- navigation.tabs      # Top-level sections are rendered in a menu layer below the header.
     #- navigation.expand     # Left sidebar will expand all collapsible subsections by default.
 
-#extra_css: [css/extra.css]
+extra_css: [css/extra.css]
 
 nav:
   - 'Home Page': README.md
   - 'Cavers Dictionary': dictionary.md   
   - 'About this Site': about.md   
   - 'Debugging': debug.md
+

@@ -1,0 +1,33 @@
+/* Extra CSS to override some defaults in the Material theme. */
+
+body { }
+
+/* Reduce space underneath h1. Margin values are top right bottom left. */
+.md-typeset h1 { margin: 0 0 1ex 0ex; }
+
+/* Reduce space above h2. */
+.md-typeset h2 { margin:0px; margin-top:8px; }
+
+/* Within a H1 any code, i.e. within Markdown's ``, needs to be a bit smaller. */
+.md-typeset h1 code { font-size:80%; }
+
+/* Within the body code needs to be normal sized, default is too small. */
+.md-typeset code { font-size:100%; }
+
+/* This reduces the space between table rows. */
+.md-typeset table:not([class]) td { padding: .1rem .8rem; }
+
+/* This ups the font size a bit as its too small. */
+.md-typeset table:not([class]) td { font-size: 110%; }
+
+/* This widens the entire content as default is too narrow. */
+.md-grid { max-width: 72rem; }
+
+/* Just add a bit more color to the plain tables. */
+table th { color: white; background-color: #4051b5; }
+
+/* Hide the Edit button. */
+.md-content__button {
+  display: none;
+}
+
