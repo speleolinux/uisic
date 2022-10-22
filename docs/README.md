@@ -1,6 +1,6 @@
 This is the UISIC site
 
-See [About](about/) 
+See [About](about/)
 
 {{ macros_info() }}
 
