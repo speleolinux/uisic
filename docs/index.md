@@ -1,6 +1,6 @@
 # UIS Informatics Commission
 
-This is the UISIC Site
+This is the UISIC site for the caver's dictionary and the speleologist's glossary. 
 
 See [About](about/)
 

@@ -26,7 +26,7 @@ theme:
   favicon: images/favicon.ico
   name: material
   #name: material
-  features:  
+  features:
     - navigation.instant
     - navigation.top        # Creates a back-to-top "arrow icon" at bottom RHS.
     - navigation.tabs      # Top-level sections are rendered in a menu layer below the header.
@@ -36,7 +36,9 @@ extra_css: [css/extra.css]
 
 nav:
   - 'Home Page': index.md
-  - 'Cavers Dictionary': dictionary.md   
-  - 'About this Site': about.md   
+  - 'Cavers Dictionary': dictionary.md
+  - 'Cavers Glossary': glossary.md
+  - 'About this Site': about.md
+  - 'Recipe Demo': recipe_demo.md
   - 'Debugging': debug.md
 
