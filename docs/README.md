@@ -1,4 +1,4 @@
-This is the UISIC site
+This is the UISIC Site
 
 See [About](about/)
 
