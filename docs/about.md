@@ -6,7 +6,7 @@ Date via now is {{ now().year }}
 
 Date using strftime {{ now().strftime("%d %B, %Y at %H:%M %p") }}
 
-Date via git is {{ git.date.strftime("%d %B, %Y at %H:%M") }}
+Date via git is {{ git.date.strftime("%d %B, %Y at %H:%M %p") }}
 
 Mike Lake     
 October 2022
