@@ -22,8 +22,8 @@ plugins:
 # To use the material theme: "pip install mkdocs-material".
 theme:
   #logo: images/uts_logo.png
-  name: readthedocs
-  #name: material
+  #name: readthedocs
+  name: material
   features:  
     #- navigation.instant
     - navigation.top        # Creates a back-to-top "arrow icon" at bottom RHS.
