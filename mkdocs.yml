@@ -22,19 +22,20 @@ plugins:
 # Themes available with mkDocs are: mkdocs readthedocs
 # To use the material theme: "pip install mkdocs-material".
 theme:
-  #logo: images/uts_logo.png
-  #name: readthedocs
+  logo: images/uis_logo.jpg
+  favicon: images/favicon.ico
   name: material
+  #name: material
   features:  
     - navigation.instant
     - navigation.top        # Creates a back-to-top "arrow icon" at bottom RHS.
-    #- navigation.tabs      # Top-level sections are rendered in a menu layer below the header.
-    #- navigation.expand     # Left sidebar will expand all collapsible subsections by default.
+    - navigation.tabs      # Top-level sections are rendered in a menu layer below the header.
+    - navigation.expand     # Left sidebar will expand all collapsible subsections by default.
 
 extra_css: [css/extra.css]
 
 nav:
-  - 'Home Page': README.md
+  - 'Home Page': index.md
   - 'Cavers Dictionary': dictionary.md   
   - 'About this Site': about.md   
   - 'Debugging': debug.md
