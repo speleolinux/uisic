@@ -33,6 +33,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install mkdocs mkdocs-material mkdocs-macros-plugin
 
-#      - name: Publish docs
-#        run: mkdocs gh-deploy
+      - name: Publish docs
+        run: mkdocs gh-deploy
 
