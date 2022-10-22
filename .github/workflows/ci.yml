@@ -34,5 +34,5 @@ jobs:
           pip install mkdocs mkdocs-material mkdocs-macros-plugin
 
       - name: Publish docs
-        run: mkdocs gh-deploy
+        run: mkdocs gh-deploy --force
 
