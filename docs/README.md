@@ -2,7 +2,7 @@ This is the UISIC site
 
 See [About](about/)
 
-Debugging:
+Debugging: 
 
 {{ macros_info() }}
 
