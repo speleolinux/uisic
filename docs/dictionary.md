@@ -24,6 +24,8 @@ Then press submit.
 
 ## Malcolm Field's Lexicon
 
+This is just an initial draft uploaded to enable myself others to find any issues. 
+
 | Concept Number | Term | Definition |
 | -------------- | ---- | ---------- |
 | 1 | abîme. | (French.)  1. An abyss.  2. A wide, deep shaft, in limestone, the walls of which are vertical or overhanging[10].  |
