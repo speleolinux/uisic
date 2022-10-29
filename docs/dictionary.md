@@ -1,3 +1,8 @@
+---
+# YAML header
+ignore_macros: true
+---
+
 # Cavers Dictionary
 
 This is the caver's dictionary,
@@ -19,7 +24,9 @@ Then press submit.
 
 ## Malcolm Field's Lexicon
 
-| Concept Number | Term | Definition || -------------- | ---- | ---------- || 1 | abîme. | (French.)  1. An abyss.  2. A wide, deep shaft, in limestone, the walls of which are vertical or overhanging[10].  |
+| Concept Number | Term | Definition |
+| -------------- | ---- | ---------- |
+| 1 | abîme. | (French.)  1. An abyss.  2. A wide, deep shaft, in limestone, the walls of which are vertical or overhanging[10].  |
 | 2 | ablation. | The wearing away of ice or snow through the process of evaporation[16].  |
 | 3 | abney level. | Type of clinometer with a bubble tube used in cave survey to determine vertical angles[25].  |
 | 4 | abris sous roche. | (French.)  See rock shelter.  |
