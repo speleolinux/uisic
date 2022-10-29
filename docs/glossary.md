@@ -13,5 +13,5 @@ having N glossaries.
   <option value="fr">French</option>
   <option value="gr">German</option>
 </select> &nbsp; 
-<input type="button" value="Submit"> 
+<input type="button" value="Submit"> Does not work, just shows what we could do.
 
