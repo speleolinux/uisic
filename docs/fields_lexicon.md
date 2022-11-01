@@ -23,7 +23,7 @@ common environmental terms are defined in such a way as to specifically
 reference karstic phenomena. The purpose of this document is to serve as a
 technical guide to regional offices and the public in general who must read the
 karst literature or hold discussions with karst researchers.     
-Short URL: https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=10004TDR.txt
+Short URL: <https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=10004TDR.txt>
 
 The document above has been converted to this HTML page. This is just an
 initial draft uploaded to enable myself others to find any issues. 

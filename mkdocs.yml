@@ -38,7 +38,7 @@ nav:
   - 'Home Page': index.md
   - 'Cavers Dictionary': dictionary.md
   - 'Cave and Karst Glossary': glossary.md
-  - 'Malcolm Field's Lexicon': fields_lexicon.md  
+  - "Malcolm Field's Lexicon": fields_lexicon.md  
   - 'About this Site': about.md
   #- 'Recipe Demo': recipe_demo.md
   #- 'Debugging': debug.md
