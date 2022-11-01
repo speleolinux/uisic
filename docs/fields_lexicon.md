@@ -12,8 +12,8 @@ The contents of his Lexicon has been converted to this HTML page. This is just a
 initial draft uploaded to enable myself others to find any issues. 
 We are in the early stages of our plan to link the terms and definitions here
 into to the Caver's Multi-lingual Dictionary. See the 
-[Cavers Multi-Lingual Dictionary Development](/uisic/dictionary) page on this 
-site and the current [Multi-Lingual Dictionary](https://uisic.uis-speleo.org/lexuni.html)
+[Cavers Multi-lingual Dictionary Development](/uisic/dictionary) page on this 
+site and the current [Cavers Multi-lingual Dictionary](https://uisic.uis-speleo.org/lexuni.html)
 at the UISIC site.
 
 ## Malcolm Field's Lexicon

@@ -1,4 +1,4 @@
-# Cave and Karst Glossary
+# Cave and Karst Glossary Development
 
 Currently the UISIC's Cave and Karst Glossary project is available at 
 <https://uisic.uis-speleo.org/lexgloss.html>
