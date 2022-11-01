@@ -6,7 +6,7 @@ ignore_macros: true
 # Cavers Multi-lingual Dictionary Development
 
 Currently the UISIC's Caver's Multi-lingual Dictionary is available at 
-<https://uisic.uis-speleo.org/lexuni.html>. This page is a development site 
+<https://uisic.uis-speleo.org/lexuni.html>. This page is a **development** site 
 to experiment with alternate ways to present this information.
 
 To compare the terms across languages you can enter your language, 
