@@ -1,4 +1,4 @@
-# UIS Informatics Commission Test Site
+# UIS Informatics Commission Development Site
 
 This is a test and development site for the UISIC to experiment with 
 alternate underlying formats and user presentation of the UISIC's Caver's
