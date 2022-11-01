@@ -5,7 +5,18 @@ ignore_macros: true
 
 # Malcolm Field's Lexicon
 
+## Overview
+
 The content here is from Malcolm Field's Lexicon of Cave and Karst Terminology.
+The contents of his Lexicon has been converted to this HTML page. This is just an
+initial draft uploaded to enable myself others to find any issues. 
+We are in the early stages of our plan to link the terms and definitions here
+into to the Caver's Multi-lingual Dictionary. See the 
+[Cavers Multi-Lingual Dictionary Development](/uisic/dictionary) page on this 
+site and the current [Multi-Lingual Dictionary](https://uisic.uis-speleo.org/lexuni.html)
+at the UISIC site.
+
+## Malcolm Field's Lexicon
 
 Title: A Lexicon of Cave and Karst Terminology with Special Reference to Environmental Karst Hydrology    
 Author: Field, Malcolm S.    
@@ -25,8 +36,6 @@ technical guide to regional offices and the public in general who must read the
 karst literature or hold discussions with karst researchers.     
 Short URL: <https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=10004TDR.txt>
 
-The document above has been converted to this HTML page. This is just an
-initial draft uploaded to enable myself others to find any issues. 
 
 | Term Number | Term | Definition |
 | ----------- | ---- | ---------- |
