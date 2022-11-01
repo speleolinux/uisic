@@ -1,8 +1,12 @@
-# UIS Informatics Commission
+# UIS Informatics Commission Test Site
 
-This is the UISIC site for the caver's dictionary and the speleologist's glossary. 
+This is a test and development site for the UISIC to experiment with 
+alternate underlying formats and user presentation of the UISIC's Caver's
+Dictionary, UISIC Cave and Karst Glossary and Malcolm Field's Lexicon of
+Cave and Karst Terminology.
 
-See [About](about/)
+For further information go to the UISIC's current website at
+<https://uisic.uis-speleo.org/index.html>
 
 Mike Lake      
 October 2022
