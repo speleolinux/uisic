@@ -12,7 +12,6 @@ The contents of his Lexicon has been converted to this HTML page. This is just a
 initial draft uploaded to enable us to find any issues. 
 We are in the early stages of our [Glossary Project](https://www.uisic.uis-speleo.org/lexgloss.html) 
 to link the terms and definitions here into to the Caver's Multi-lingual Dictionary. 
-This lexgloss web page is intended to be the master summary of the project.
 
 See the [Cavers Multi-lingual Dictionary Development](/uisic/dictionary) page on this 
 site and the current [Cavers Multi-lingual Dictionary](https://uisic.uis-speleo.org/lexuni.html)
