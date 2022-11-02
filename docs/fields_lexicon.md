@@ -18,21 +18,7 @@ at the UISIC site.
 
 ## Malcolm Field's Lexicon
 
-Title: A Lexicon of Cave and Karst Terminology with Special Reference to Environmental Karst Hydrology    
-Author: Field, Malcolm S.    
-Corporate Author: Environmental Protection Agency, Washington, DC. National
-Center for Environmental Assessment.    
-Publisher: National Center for Environmental Assessment--Washington Division,
-Office of Research and Development, U.S. Environmental Protection Agency.    
-Year Published: 2002, 2nd edition
-Abstract: This document is a glossary of most terms that have some
-relationship to the field of environmental karst, as well as specific-karst
-terms. It includes many foreign terms because much karst research is conducted
-in foreign countries and published using local terminology. In many instances,
-common environmental terms are defined in such a way as to specifically
-reference karstic phenomena. The purpose of this document is to serve as a
-technical guide to regional offices and the public in general who must read the
-karst literature or hold discussions with karst researchers.     
+"A Lexicon Of Cave And Karst Terminology With Special Reference To Environmental Karst Hydrology (2002 Edition)"     
 Reference: https://cfpub.epa.gov/ncea/risk/recordisplay.cfm?deid=54964
 
 
