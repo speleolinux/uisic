@@ -2,7 +2,8 @@
 
 Currently the UISIC's Cave and Karst Glossary project is available at 
 <https://uisic.uis-speleo.org/lexgloss.html>
-This page is a **development** site to experiment with alternate ways
+
+This page here is a **development** site to experiment with alternate ways
 to present this information.
 
 To view a glossary of Karst terms in your language please enter your language
