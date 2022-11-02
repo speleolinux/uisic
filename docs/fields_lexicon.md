@@ -9,7 +9,7 @@ ignore_macros: true
 
 The content here is from Malcolm Field's Lexicon of Cave and Karst Terminology.
 The contents of his Lexicon has been converted to this HTML page. This is just an
-initial draft uploaded to enable myself others to find any issues. 
+initial draft uploaded to enable us to find any issues. 
 We are in the early stages of our plan to link the terms and definitions here
 into to the Caver's Multi-lingual Dictionary. See the 
 [Cavers Multi-lingual Dictionary Development](/uisic/dictionary) page on this 
@@ -24,8 +24,7 @@ Corporate Author: Environmental Protection Agency, Washington, DC. National
 Center for Environmental Assessment.    
 Publisher: National Center for Environmental Assessment--Washington Division,
 Office of Research and Development, U.S. Environmental Protection Agency.    
-Year Published: 1999    
-OCLC Number: 42644330    
+Year Published: 2002, 2nd edition
 Abstract: This document is a glossary of most terms that have some
 relationship to the field of environmental karst, as well as specific-karst
 terms. It includes many foreign terms because much karst research is conducted
@@ -34,7 +33,7 @@ common environmental terms are defined in such a way as to specifically
 reference karstic phenomena. The purpose of this document is to serve as a
 technical guide to regional offices and the public in general who must read the
 karst literature or hold discussions with karst researchers.     
-Short URL: <https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=10004TDR.txt>
+Reference: https://cfpub.epa.gov/ncea/risk/recordisplay.cfm?deid=54964
 
 
 | Term Number | Term | Definition |
