@@ -10,9 +10,11 @@ ignore_macros: true
 The content here is from Malcolm Field's Lexicon of Cave and Karst Terminology.
 The contents of his Lexicon has been converted to this HTML page. This is just an
 initial draft uploaded to enable us to find any issues. 
-We are in the early stages of our plan to link the terms and definitions here
-into to the Caver's Multi-lingual Dictionary. See the 
-[Cavers Multi-lingual Dictionary Development](/uisic/dictionary) page on this 
+We are in the early stages of our [Glossary Project](https://www.uisic.uis-speleo.org/lexgloss.html) 
+to link the terms and definitions here into to the Caver's Multi-lingual Dictionary. 
+This lexgloss web page is intended to be the master summary of the project.
+
+See the [Cavers Multi-lingual Dictionary Development](/uisic/dictionary) page on this 
 site and the current [Cavers Multi-lingual Dictionary](https://uisic.uis-speleo.org/lexuni.html)
 at the UISIC site.
 
