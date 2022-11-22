@@ -9,7 +9,7 @@ on:
   push:
     branches:
       - main
-      - gh-pages
+      #- gh-pages
 #  paths:
 #      - '.github/workflows/ci.yml'
 
@@ -19,19 +19,19 @@ jobs:
     steps:
       -  uses: actions/checkout@v3
 
-      - name: Install Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: 3.8
+      #- name: Install Python
+      #  uses: actions/setup-python@v4
+      #  with:
+      #    python-version: 3.8
 
       #- name: Display Python version
       #  run: python -c "import sys; print('Python Version=', sys.version)"
 
-      - name: Install MkDocs
-        run: | 
-          python -m pip install --upgrade pip
-          pip install mkdocs mkdocs-material mkdocs-macros-plugin
+      #- name: Install MkDocs
+      #  run: | 
+      #    python -m pip install --upgrade pip
+      #    pip install mkdocs mkdocs-material mkdocs-macros-plugin
 
-      - name: Deploy MkDocs
-        run: mkdocs gh-deploy --force
+      #- name: Deploy MkDocs
+      #  run: mkdocs gh-deploy --force
 
