@@ -8,14 +8,14 @@
       
       
       
-        <link rel="canonical" href="https://speleolinux.github.io/uisic/glossary/">
+        <link rel="canonical" href="https://speleolinux.github.io/uisic/recipe_demo/">
       
       <link rel="icon" href="../images/favicon.ico">
       <meta name="generator" content="mkdocs-1.3.1, mkdocs-material-8.3.9">
     
     
       
-        <title>Cave and Karst Glossary - UIS Informatics Commission Development Site</title>
+        <title>Recipe demo - UIS Informatics Commission Development Site</title>
       
     
     
@@ -64,7 +64,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#cave_and_karst_glossary_development" class="md-skip">
+        <a href="#todo" class="md-skip">
           Skip to content
         </a>
       
@@ -96,7 +96,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Cave and Karst Glossary
+              Recipe demo
             
           </span>
         </div>
@@ -192,12 +192,10 @@
         
   
   
-    
-  
 
 
   <li class="md-tabs__item">
-    <a href="./" class="md-tabs__link md-tabs__link--active">
+    <a href="../glossary/" class="md-tabs__link">
       Cave and Karst Glossary
     </a>
   </li>
@@ -306,21 +304,11 @@
 
   
   
-    
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../glossary/" class="md-nav__link">
         Cave and Karst Glossary
       </a>
-      
     </li>
   
 
@@ -372,8 +360,28 @@
   
   
   
-    
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#todo" class="md-nav__link">
+    TODO
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#accessing_json-ld_data_via_javascript" class="md-nav__link">
+    Accessing JSON-LD data via JavaScript
+  </a>
+  
+</li>
+      
+    </ul>
   
 </nav>
                   </div>
@@ -385,32 +393,172 @@
             <article class="md-content__inner md-typeset">
               
                 
-  <a href="https://github.com/speleolinux/uisic/edit/master/docs/glossary.md" title="Edit this page" class="md-content__button md-icon">
+  <a href="https://github.com/speleolinux/uisic/edit/master/docs/recipe_demo.md" title="Edit this page" class="md-content__button md-icon">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25Z"/></svg>
   </a>
 
 
 
-<h1 id="cave_and_karst_glossary_development">Cave and Karst Glossary Development<a class="headerlink" href="#cave_and_karst_glossary_development" title="Permanent link">&para;</a></h1>
-<p>Currently the UISIC&rsquo;s Cave and Karst Glossary project is available at 
-<a href="https://uisic.uis-speleo.org/lexgloss.html">https://uisic.uis-speleo.org/lexgloss.html</a></p>
-<p>This page here is a <strong>development</strong> site to experiment with alternate ways
-to present this information.</p>
-<p>To view a glossary of Karst terms in your language please enter your language
-and press submit.</p>
-<p><em>Note for developer: For languages where we have very few entries we might wish 
-to display the following notice showing the number &ldquo;N&rdquo; of terms in that language.</em></p>
-<p>There are N glossary items for your language. Perhaps you might 
-wish to look at the English or French glossaries as they are complete,
-having N glossaries.</p>
-<p><input type="text" id=language name=language>
-<select id="language" name="language">
-<br />
-<option value="en">English</option></p>
-<option value="fr">French</option>
-<option value="gr">German</option>
-<p></select> &nbsp; 
-<input type="button" value="Submit"> Does not work, just shows what we could do.</p>
+  <h1>Recipe demo</h1>
+
+<script type="application/ld+json" id="datablock1">
+{
+ "@context": {
+   "gs1": "http://vocab.gs1.org/v1#",
+   "schema": "http://schema.org/",
+   "gr": "http://purl.org/goodrelations/v1#",
+   "xsd": "http://www.w3.org/2001/XMLSchema#",
+
+   "retailer": "http://id.tesco.com/gtin/",
+   "brandowner": "http://id.nestle.com/gtin/",
+
+   "gtin13": {"@id":"gs1:gtin13", "@type": "xsd:string" },
+   "ingredientpercentage": {"@id":"gs1:ingredientContentPercentage","@type":"xsd:float"},
+   "ingredientseq": {"@id":"gs1:ingredientSequence","@type":"xsd:integer"},
+   "ingredientname": {"@id":"gs1:ingredientName","@language":"en"},
+   "value": {"@id":"gs1:measurementValue","@type":"xsd:float"},
+   "unit": {"@id":"gs1:measurementUnitCode","@type":"xsd:string"},
+   "dv": {"@id":"gs1:dailyValueIntakePercent","@type":"xsd:float"},
+
+   "Ingredient":  "gs1:FoodAndBeverageIngredientDetail",
+   "Measurement": "gs1:MeasurementType",
+
+   "gs1:offeringDescription": { "@language": "en" },
+   "gs1:tradeItemDescription": { "@language": "en" },
+   "gs1:healthClaimDescription": { "@language": "en" },
+   "gs1:allergenStatement": { "@language": "en" },
+   "gs1:image": { "@type": "@id"},
+   "gs1:price": { "@type": "xsd:float" },
+   "gs1:priceTypeCode": { "@type": "xsd:string" },
+   "gs1:measurementUnitCode": { "@type": "xsd:string" }
+  },
+
+ "@id": "retailer:05011476100885",
+ "@type": "gs1:Offering",
+ "gtin13": "5011476100885",
+ "gs1:offeringDescription": "Nestle Cheerios Cereal 600G",
+ "gs1:image": "http://www.tesco.com/Groceries/pi/885/5011476100885/IDShot_225x225.jpg",
+ "gs1:hasPrice": {
+   "gs1:price": "2.00",
+   "gs1:priceTypeCode": "GBP",
+   "@type": "gs1:Price"
+ },
+ "gs1:includes": {
+   "@id": "brandowner:05011476100885",
+   "gtin13": "5011476100885",
+   "@type": [ "gs1:TradeItem"],
+   "gs1:tradeItemDescription": "Deliciously crunchy Os, packed with 4 whole grains. Say Yes to Cheerios",
+   "gs1:healthClaimDescription": "8 Vitamins & Iron, Source of Calcium & High in Fibre",
+   "gs1:hasAllergenRelatedInformation": {"@type": "gs1:AllergenRelatedInformation","gs1:allergenStatement":"May contain nut traces"},
+   "gs1:hasIngredients": {"@type": "gs1:FoodAndBeverageIngredient","gs1:hasIngredientDetail":[
+{"@type":"Ingredient","ingredientseq":"1","ingredientname":"Cereal Grains","ingredientpercentage":"77.5"},
+{"@type":"Ingredient","ingredientseq":"2","ingredientname":"Whole Grain OATS","ingredientpercentage":"38.0"},
+{"@type":"Ingredient","ingredientseq":"3","ingredientname":"Whole Grain WHEAT","ingredientpercentage":"18.6"},
+{"@type":"Ingredient","ingredientseq":"4","ingredientname":"Whole Grain BARLEY","ingredientpercentage":"12.8"},
+{"@type":"Ingredient","ingredientseq":"5","ingredientname":"Whole Grain Rice","ingredientpercentage":"5.5"},
+{"@type":"Ingredient","ingredientseq":"6","ingredientname":"Whole Grain Maize","ingredientpercentage":"2.6"},
+{"@type":"Ingredient","ingredientseq":"7","ingredientname":"Sugar"},
+{"@type":"Ingredient","ingredientseq":"8","ingredientname":"Wheat Starch"},
+{"@type":"Ingredient","ingredientseq":"9","ingredientname":"Partially Inverted Brown Sugar Syrup"},
+{"@type":"Ingredient","ingredientseq":"10","ingredientname":"Salt"},
+{"@type":"Ingredient","ingredientseq":"11","ingredientname":"Tripotassium Phosphate"},
+{"@type":"Ingredient","ingredientseq":"12","ingredientname":"Sunflower Oil"},
+{"@type":"Ingredient","ingredientseq":"13","ingredientname":"Colours: Caramel, Annatto, Carotene"},
+{"@type":"Ingredient","ingredientseq":"14","ingredientname":"Antioxidant: Tocopherals"},
+{"@type":"Ingredient","ingredientseq":"15","ingredientname":"Vitamin C"},
+{"@type":"Ingredient","ingredientseq":"16","ingredientname":"Niacin"},
+{"@type":"Ingredient","ingredientseq":"17","ingredientname":"Pantothenic Acid"},
+{"@type":"Ingredient","ingredientseq":"18","ingredientname":"Thiamin (B1)"},
+{"@type":"Ingredient","ingredientseq":"19","ingredientname":"Vitamin B6"},
+{"@type":"Ingredient","ingredientseq":"20","ingredientname":"Riboflavin (B2)"},
+{"@type":"Ingredient","ingredientseq":"21","ingredientname":"Folic Acid (Folacin)"},
+{"@type":"Ingredient","ingredientseq":"22","ingredientname":"Vitamin B12"},
+{"@type":"Ingredient","ingredientseq":"23","ingredientname":"Calcium Carbonate"},
+{"@type":"Ingredient","ingredientseq":"24","ingredientname":"Iron"}
+]},
+   "gs1:nutrientBasisQuantity":{"@type":"Measurement","value":"100","unit":"GRM"},
+   "gs1:energyPerNutrientBasis":
+[{"@type":"Measurement","value":"1615","unit":"KJO"},{"@type":"Measurement","value":"382","unit":"E14"}],
+   "gs1:proteinPerNutrientBasis":{"@type":"Measurement","value":"8.6","unit":"GRM"},
+   "gs1:carbohydratesPerNutrientBasis":{"@type":"Measurement","value":"74.3","unit":"GRM"},
+   "gs1:sugarsPerNutrientBasis":{"@type":"Measurement","value":"21.4","unit":"GRM"},
+   "gs1:fatPerNutrientBasis":{"@type":"Measurement","value":"4.0","unit":"GRM"},
+   "gs1:saturatedFatPerNutrientBasis":{"@type":"Measurement","value":"1.0","unit":"GRM"},
+   "gs1:fibrePerNutrientBasis":{"@type":"Measurement","value":"7.1","unit":"GRM"},
+   "gs1:sodiumPerNutrientBasis":{"@type":"Measurement","value":"0.41","unit":"GRM"},
+   "gs1:saltPerNutrientBasis":{"@type":"Measurement","value":"1.04","unit":"GRM"},
+   "gs1:vitaminCPerNutrientBasis":{"@type":"Measurement","value":"71.0","unit":"MGM","dv":"89"},
+   "gs1:thiaminPerNutrientBasis":{"@type":"Measurement","value":"1.24","unit":"MGM","dv":"113"},
+   "gs1:riboflavinPerNutrientBasis":{"@type":"Measurement","value":"1.10","unit":"MGM","dv":"79"},
+   "gs1:niacinPerNutrientBasis":{"@type":"Measurement","value":"14.0","unit":"MGM","dv":"88"},
+   "gs1:vitaminB6PerNutrientBasis":{"@type":"Measurement","value":"1.20","unit":"MGM","dv":"86"},
+   "gs1:folicAcidPerNutrientBasis":{"@type":"Measurement","value":"200","unit":"MC","dv":"100"},
+   "gs1:vitaminB12PerNutrientBasis":{"@type":"Measurement","value":"1.90","unit":"MC","dv":"76"},
+   "gs1:pantothenicAcidPerNutrientBasis":{"@type":"Measurement","value":"4.40","unit":"MGM","dv":"73"},
+   "gs1:calciumPerNutrientBasis":{"@type":"Measurement","value":"460","unit":"MGM","dv":"58"},
+   "gs1:ironPerNutrientBasis":{"@type":"Measurement","value":"14.7","unit":"MGM","dv":"105"}
+ }
+}
+</script>
+
+<h2 id="todo">TODO<a class="headerlink" href="#todo" title="Permanent link">&para;</a></h2>
+<p>The search function does not work when the list is loadded via js. Can this be fixed?</p>
+<h2 id="accessing_json-ld_data_via_javascript">Accessing JSON-LD data via JavaScript<a class="headerlink" href="#accessing_json-ld_data_via_javascript" title="Permanent link">&para;</a></h2>
+<p>This demo page is related to another JSON-LD demo page
+that shares the same block of JSON-LD structured data using the draft GS1
+vocabulary.
+The data below is populated by some JavaScript and JQuery code that accesses
+the JSON-LD block in the page.</p>
+<p>GTIN:  <input type="text" id="gtin13">
+Price: <input type="text" id="price"></p>
+<p>Ingredients</p>
+<ol id="ingredients">
+</ol>
+
+<p>To make this work, we added an <code>id</code> attribute to the script block
+that contains the JSON-LD data, so we can access it more easily from
+JavaScript.</p>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>
+
+    // get the contents of the element with id="datablock1"
+    var data = $("#datablock1").html();
+
+    // parse the contents as a JSON object
+    var json = JSON.parse(data);
+
+    // set the value of the input text field with id="gtin13"
+    // to the value of the gtin13 key of the JSON object
+    $('#gtin13').val(json.gtin13);
+
+    // set the value of the input text field with id="price" to the price
+    // currency code and price value extracted from the JSON object.
+    // note that when we use CURIEs instead of local keys, we cannot use the 
+    // dot (.) notation to navigate through the JSON object
+    $('#price').val(json["gs1:hasPrice"]["gs1:priceTypeCode"]+" "+json["gs1:hasPrice"]["gs1:price"]);
+
+    // navigate to the part of the JSON object that contains the ingredient details
+    var ingredientdetails = json["gs1:includes"]["gs1:hasIngredients"]["gs1:hasIngredientDetail"];
+
+    // iterate through each ingredient in sequence
+    for (i=0; i<=ingredientdetails.length-1; i++) {
+
+        // extract the name and percentage contribution of the ingredients
+        var name=json["gs1:includes"]["gs1:hasIngredients"]["gs1:hasIngredientDetail"][i]["ingredientname"];
+        var percent=json["gs1:includes"]["gs1:hasIngredients"]["gs1:hasIngredientDetail"][i]["ingredientpercentage"];
+
+        // if the percentage is defined, display it, otherwise don't display it
+        if (percent > 0) {
+            var percentage = " ("+percent+"%)";
+        } else {
+            var percentage = "";
+        }
+
+        // append a <li> list item to the ordered list of ingredients
+        // with the name and percentage of each ingredient
+        $('#ingredients').append("<li>"+name+percentage+"</li>");
+    }
+</script>
 
               
             </article>
@@ -426,42 +574,6 @@ having N glossaries.</p>
       </main>
       
         <footer class="md-footer">
-  
-    
-    <nav class="md-footer__inner md-grid" aria-label="Footer" >
-      
-        
-        <a href="../dictionary/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Cavers Multi-lingual Dictionary" rel="prev">
-          <div class="md-footer__button md-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
-          </div>
-          <div class="md-footer__title">
-            <div class="md-ellipsis">
-              <span class="md-footer__direction">
-                Previous
-              </span>
-              Cavers Multi-lingual Dictionary
-            </div>
-          </div>
-        </a>
-      
-      
-        
-        <a href="../fields_lexicon/" class="md-footer__link md-footer__link--next" aria-label="Next: Malcolm Field&#39;s Lexicon" rel="next">
-          <div class="md-footer__title">
-            <div class="md-ellipsis">
-              <span class="md-footer__direction">
-                Next
-              </span>
-              Malcolm Field's Lexicon
-            </div>
-          </div>
-          <div class="md-footer__button md-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
-          </div>
-        </a>
-      
-    </nav>
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
