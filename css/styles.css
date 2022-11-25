@@ -19,6 +19,7 @@ h1 {
 }
 
 th { text-align: left; }
+td { vertical-align: top }
 tr { background-color: #F5F5F5; }
 
 /* From: https://html.com/attributes/tr-bgcolor/ */
