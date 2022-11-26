@@ -15,6 +15,18 @@ This is just a test repo for UISIC projects.
 | docs/                 | Contains pages for the MkDocs site.        |
 | mkdocs_ci.yml         | A CI job to build the MkDocs site.         |
 
+## Translating the Language Files
+
+Each language is in a separate file under the directory `languages`. The file
+naming follows the ISO 639-1 codes. Those wishing to translate glossary terms
+and definitions just need to edit their own language file.
+
+## Miscellaneous Notes
+
+Each language glossary will need to have the entries ordered by the character
+ordering i.e.collation of the language code used. This is set by the `LC_COLLATE`
+variable.
+
 ## This Projects Github Page(s)
 
 The projects page(s) are at: <https://speleolinux.github.io/uisic/>.
