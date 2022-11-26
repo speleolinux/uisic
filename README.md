@@ -6,11 +6,14 @@ This is just a test repo for UISIC projects.
 
 | File                  | Description |
 | ----                  | ----------- |
-| LICENSE               | Copy of the GNU GPL 3 License.    |
-| test_glossary.jsonld  | A JSON-LD file to play with.      |
-| mkdocs.yml            | Main file for a MkDocs site.      |
-| docs/                 | Contains pages for a MkDocs site. |
-| mkdocs_ci.yml         | A CI job to build a MkDocs site.  |
+| LICENSE               | Copy of the GNU GPL 3 License.             |
+| test_glossary.jsonld  | A JSON-LD file to play with.               |
+| languages/Contents.md | Contents page with links to languages.     |
+| languages/en.md       | Test of an English language Markdown file. |
+| languages/fr.md       | Test of a French language Markdown file.   |
+| mkdocs.yml            | Main file for a MkDocs site.               |
+| docs/                 | Contains pages for the MkDocs site.        |
+| mkdocs_ci.yml         | A CI job to build the MkDocs site.         |
 
 ## This Projects Github Page(s)
 
