@@ -11,6 +11,7 @@ This is just a test repo for UISIC projects.
 | languages/Contents.md | Contents page with links to languages.     |
 | languages/en.md       | Test of an English language Markdown file. |
 | languages/fr.md       | Test of a French language Markdown file.   |
+| lextables/            | Contains test language CSV files.          |
 | mkdocs.yml            | Main file for a MkDocs site.               |
 | docs/                 | Contains pages for the MkDocs site.        |
 | mkdocs_ci.yml         | A CI job to build the MkDocs site.         |
@@ -29,8 +30,9 @@ variable.
 
 ## This Projects Github Page(s)
 
-The projects page(s) are at: <https://speleolinux.github.io/uisic/>.
-There is a `gh-pages` branch for this.
+A TEST projects page(s) is at: <https://speleolinux.github.io/uisic/>.
+This is just to test how in the future it could be auto generated from
+the data in this repo. There is a `gh-pages` branch for this.
 
 ### To Use a Single Page
 
