@@ -12,6 +12,12 @@ This is just a test repo for UISIC projects.
 | languages/en.md       | Test of an English language Markdown file. |
 | languages/fr.md       | Test of a French language Markdown file.   |
 | lextables/            | Contains test language CSV files.          |
+| mfield_data/          | Contains CSV & Markdown of some Malcolm Field data. | 
+
+This is just for building a MkDocs demo website:
+
+| File                  | Description |
+| ----                  | ----------- |
 | mkdocs.yml            | Main file for a MkDocs site.               |
 | docs/                 | Contains pages for the MkDocs site.        |
 | mkdocs_ci.yml         | A CI job to build the MkDocs site.         |
