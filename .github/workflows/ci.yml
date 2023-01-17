@@ -37,7 +37,7 @@ jobs:
           echo "<p>Test</p>" > docs/index.html
           echo "<p>${today}</p>" >> docs/index.html
           git add docs/index.html
-          git co -m 'test'
+          git commit -m 'test'
           git push
           #git checkout main
       - name: which pandoc  
