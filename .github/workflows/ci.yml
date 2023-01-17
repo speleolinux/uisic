@@ -35,11 +35,11 @@ jobs:
       #    echo "</body></html" >> docs/index.html
       - name: Build
         run: |
-          today=$(date +"%A, %d %B %Y")
+          today=$(date +"%A, %d %B %Y at %H:%M %P")
           echo "<html><body>" > docs/index.html
           echo "<h1>Test</h1>" >> docs/index.html
           pandoc mfield_data/epa_mfield_2002_utf8_short.md >> docs/index.html
-          echo "<p>${today}</p>" >> docs/index.html
+          echo "<p>This page updated on ${today}</p>" >> docs/index.html
           echo "</body></html>" >> docs/index.html
           git config user.email "noreplay@localhost"
           git config user.name "GIT CI"
