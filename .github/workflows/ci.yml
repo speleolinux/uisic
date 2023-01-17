@@ -1,0 +1,45 @@
+# This is Mikes CI working copy.
+
+name: Publish Glossary
+run-name: ${{ github.actor }} running a test
+
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  push:
+    branches:
+      # Here you can limit the trigger branch to be "main" etc.
+      # - '*'
+      - main
+
+# A job is a set of steps in a workflow
+jobs:
+  publish_glossary:
+    name: Publishing glossary
+    runs-on: ubuntu-latest
+    # Steps are executed in order and are dependent on each other.
+    steps:
+      - name: Check out
+        uses: actions/checkout@v3
+      - name: Install pandoc
+        run: sudo apt-get install -y pandoc
+      #- name: Generate your content
+      #  run: |
+      #    echo "Optional placeholder. Put your project's static website generator command here."
+      #    echo "<html><body><h1>C & K Test</h1>" > docs/index.html
+      #    pandoc mfield_data/epa_mfield_2002_utf8_short.md >> docs/index.html
+      #    echo "</body></html" >> docs/index.html
+      - name: Build
+        run: |
+          git checkout gh-pages
+          today=$(date +"%A, %d %B %Y") 
+          echo "<p>Test</p>" > index.html
+          echo "<p>${today}</p>" >> index.html
+          git add index.html
+          git co -m 'test'
+          git push
+          git checkout main
+      - name: which pandoc  
+        run: |
+          which pandoc
+
