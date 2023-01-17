@@ -32,14 +32,16 @@ jobs:
       #    echo "</body></html" >> docs/index.html
       - name: Build
         run: |
-          #git checkout gh-pages
+          ###git checkout gh-pages
           today=$(date +"%A, %d %B %Y") 
           echo "<p>Test</p>" > docs/index.html
           echo "<p>${today}</p>" >> docs/index.html
+          git config user.email "noreplay@localhost"
+          git config user.name "GIT CI"
           git add docs/index.html
           git commit -m 'test'
           git push
-          #git checkout main
+          ###git checkout main
       - name: which pandoc  
         run: |
           which pandoc
