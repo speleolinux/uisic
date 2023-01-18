@@ -24,26 +24,36 @@ jobs:
         uses: actions/checkout@v3
       - name: Install pandoc
         run: sudo apt-get install -y pandoc
-      - name: which pandoc  
-        run: |
-          which pandoc
+      #- name: which pandoc  
+      #  run: which pandoc
       #- name: Generate your content
       #  run: |
       #    echo "Optional placeholder. Put your project's static website generator command here."
       #    echo "<html><body><h1>C & K Test</h1>" > docs/index.html
       #    pandoc mfield_data/epa_mfield_2002_utf8_short.md >> docs/index.html
       #    echo "</body></html" >> docs/index.html
-      - name: Build
+#      - name: Build
+#        run: |
+#          today=$(date +"%A, %d %B %Y at %H:%M %P")
+#          echo "<html><body>" > docs/index.html
+#          echo "<h1>Test</h1>" >> docs/index.html
+#          pandoc mfield_data/epa_mfield_2002_utf8_short.md >> docs/index.html
+#          echo "<p>This page updated on ${today}</p>" >> docs/index.html
+#          echo "</body></html>" >> docs/index.html
+#          git config user.email "noreplay@localhost"
+#          git config user.name "GIT CI"
+#          git add docs/index.html
+#          git commit -m 'Update by CI'
+#          git push
+
+      - name: Build2
         run: |
-          today=$(date +"%A, %d %B %Y at %H:%M %P")
-          echo "<html><body>" > docs/index.html
-          echo "<h1>Test</h1>" >> docs/index.html
-          pandoc mfield_data/epa_mfield_2002_utf8_short.md >> docs/index.html
-          echo "<p>This page updated on ${today}</p>" >> docs/index.html
-          echo "</body></html>" >> docs/index.html
+          make_html.sh
+          cp epa_mfield_2002_utf8_short.html docs/index.html
           git config user.email "noreplay@localhost"
           git config user.name "GIT CI"
           git add docs/index.html
           git commit -m 'Update by CI'
           git push
+
 
