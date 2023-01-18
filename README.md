@@ -4,7 +4,9 @@ This is just a test repo for UISIC projects.
 
 [![Publish Glossary](https://github.com/speleolinux/uisic/actions/workflows/ci.yml/badge.svg)](https://github.com/speleolinux/uisic/actions/)
 &nbsp; &nbsp; 
+<!--
 ![Github Pages](https://github.com/speleolinux/uisic/actions/workflows/ci.yml/badge.svg?branch=gh-pages)
+-->
 
 
 ## Description of Files & Directories
