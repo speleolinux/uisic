@@ -9,7 +9,7 @@ footer="assets/footer.html"
 output="epa_mfield_2002_utf8_short.html"
 tmp="tmp.txt"
 
-today=$(date +"%A, %d %B %Y")
+today=$(date +"%A, %d %B %Y at %H:%M %p")
 
 cat $header > $output
 echo '<style type="text/css">' >> $output
