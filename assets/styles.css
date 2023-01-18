@@ -1,0 +1,15 @@
+/* Styles for the UISIC Glossary */
+body { 
+  margin: 0px 10% 0px 10%; 
+  background-color: #F5F5F5; 
+  font-family: arial, helvetica, sans-serif;
+}
+h1 { color: #E65C00 ; font-size: 140%; }
+h2 { font-size: 120% }
+table { border-collapse: collapse; }
+table { table-layout: fixed; } /* Speeds up displaying the start of a long table. */	
+table, th, td { border: 1px solid black; }
+th { background-color: lightgrey; }
+th, td { padding: 4px; }
+td { vertical-align: top; padding-bottom: 1ex; }
+tr:nth-child(even) { background-color: lightgrey; }
