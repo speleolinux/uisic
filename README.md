@@ -2,7 +2,8 @@
 
 This is just a test repo for UISIC projects.
 
-![Glossary Status](https://github.com/speleolinux/uisic/actions/workflows/ci.yml/badge.svg)
+[![Build Status](https://github.com/speleolinux/uisic/actions/workflows/ci.yml/badge.svg)](https://github.com/speleolinux/uisic/actions/)
+
 
 ## Description of Files & Directories
 
