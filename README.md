@@ -25,10 +25,20 @@ contents of that directory.
 | lextables/            | Contains some language CSV files from the Cavers Multi-lingual Dictionary. |
 | mfield_data/          | Contains CSV & Markdown of some of Malcolm Field's lexicon. | 
 
-## Continuous Integration Notes
+## Continuous Integration & Github Pages
 
 There is a CI file `.github/workflows/ci.yml`. At present just read that.
 I'll put more details here shortly. 
+
+Basically the CI will trigger when the file VERSION is updated. It will run the
+script `make_html.sh` which will build the a HTML format glossary from Malcolm
+Field's markdown format.
+
+This HTML page will then be published from the  `gh-pages` branch to the Github
+pages site here: <https://speleolinux.github.io/uisic/>.
+
+This is just to test how in the future it could be auto generated from
+the data in this repo.
 
 ## Miscellaneous Notes
 
@@ -41,12 +51,6 @@ and definitions would just need to edit their own language file.
 Each language dictionary or glossary will need to have the entries ordered by
 the character ordering i.e.collation of the language code used. This is set by
 the `LC_COLLATE` variable.
-
-## This Projects Github Page(s)
-
-A TEST projects page(s) is at: <https://speleolinux.github.io/uisic/>.
-This is just to test how in the future it could be auto generated from
-the data in this repo. There is a `gh-pages` branch for this.
 
 ## External Resources
 
