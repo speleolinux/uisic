@@ -42,6 +42,12 @@ the data in this repo.
 
 ## Miscellaneous Notes
 
+### Build Issues
+
+If you have made commits and the CI has run the merge will not succeed 
+as the gh-pages branch has been changed. You then need to do a `git pull -rebase`
+to fix the issue. How can we get rid of this issue for those not familiar with git?
+
 ### Language Files
 
 Each language is in a separate file under the directory `languages`. The file
