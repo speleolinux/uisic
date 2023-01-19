@@ -1,4 +1,4 @@
-[Contents](Contents.md)
+[Contents](README.md)
 
 ## English Glossary
 

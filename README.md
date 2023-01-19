@@ -13,20 +13,21 @@ continuous intergartion (CI)
 
 ## Description of Files & Directories
 
+Each directory contains a README.md file describing in more details the
+contents of that directory.
+
 | File                  | Description |
 | ----                  | ----------- |
-| LICENSE               | Copy of the GNU GPL 3 License.             |
-| languages/Contents.md | Contents page with links to each language example. |
-| languages/en.md       | Test of a English language Markdown file. |
-| languages/fr.md       | Test of a French language Markdown file.   |
+| LICENSE               | Copy of the GNU GPL 3 License.                            |
+| languages/            | Contains short extracts from Malcolm Field's lexicon.     |
 | lextables/            | Contains some language CSV files from the Cavers Multi-lingual Dictionary. |
-| mfield_data/          | Contains CSV & Markdown of some Malcolm Field data. | 
+| mfield_data/          | Contains CSV & Markdown of some of Malcolm Field's lexicon. | 
 
-## Translating the Language Files
+## Translating Language Files
 
 Each language is in a separate file under the directory `languages`. The file
 naming follows the ISO 639-1 codes. Those wishing to translate glossary terms
-and definitions just need to edit their own language file.
+and definitions would just need to edit their own language file.
 
 ## Miscellaneous Notes
 
