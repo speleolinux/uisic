@@ -2,8 +2,8 @@
 
 ## French Glosssary
 
-Notes: This is just a test of a few French terms extracted from the English
-text with the literal text "(French.)" removed.
+Notes: This is just a test of a few French terms extracted from Malcolm Field's
+lexicon with the literal text "(French.)" removed.
 
 | Term Number | Term | Definition |
 | ----------- | ---- | ---------- |

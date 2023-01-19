@@ -2,8 +2,8 @@
 
 ## English Glossary
 
-Notes: This is just a test of a few terms extracted from the full English text
-but with French terms removed.
+Notes: This is just a test of a few English terms extracted from Malcolm Field's
+lexicon.
 
 | Term Number | Term | Definition |
 | ----------- | ---- | ---------- |
