@@ -1,4 +1,4 @@
-# README
+# Contents
 
 The files in here are short versions of glossaries derived from Malcolm field's 
 lexicon.

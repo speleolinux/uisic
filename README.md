@@ -3,13 +3,11 @@
 This is just a test repo for UISIC projects. Currently its being used to test a
 continuous intergartion (CI)
 
-
 [![Publish Glossary](https://github.com/speleolinux/uisic/actions/workflows/ci.yml/badge.svg)](https://github.com/speleolinux/uisic/actions/)
 &nbsp; &nbsp; 
 <!--
 ![Github Pages](https://github.com/speleolinux/uisic/actions/workflows/ci.yml/badge.svg?branch=gh-pages)
 -->
-
 
 ## Description of Files & Directories
 
@@ -28,13 +26,13 @@ contents of that directory.
 There is a CI file `.github/workflows/ci.yml`. At present just read that.
 I'll put more details here shortly. 
 
-## Translating Language Files
+## Miscellaneous Notes
+
+### Language Files
 
 Each language is in a separate file under the directory `languages`. The file
 naming follows the ISO 639-1 codes. Those wishing to translate glossary terms
 and definitions would just need to edit their own language file.
-
-## Miscellaneous Notes
 
 Each language dictionary or glossary will need to have the entries ordered by
 the character ordering i.e.collation of the language code used. This is set by
