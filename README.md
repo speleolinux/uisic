@@ -17,6 +17,10 @@ contents of that directory.
 | File                  | Description |
 | ----                  | ----------- |
 | LICENSE               | Copy of the GNU GPL 3 License.                            |
+| VERSION               | Update this version file to trigger the CI build.         |
+| make_html.sh          | bash script used by the CI build.                         |
+| assets/               | Contains HTML code and styles for the CI build.           |
+| docs/                 | Contains the generated HTML index from the CI build.      |
 | languages/            | Contains short extracts from Malcolm Field's lexicon.     |
 | lextables/            | Contains some language CSV files from the Cavers Multi-lingual Dictionary. |
 | mfield_data/          | Contains CSV & Markdown of some of Malcolm Field's lexicon. | 
