@@ -16,10 +16,10 @@ continuous intergartion (CI)
 | File                  | Description |
 | ----                  | ----------- |
 | LICENSE               | Copy of the GNU GPL 3 License.             |
-| languages/Contents.md | Contents page with links to languages.     |
-| languages/en.md       | Test of an English language Markdown file. |
+| languages/Contents.md | Contents page with links to each language example. |
+| languages/en.md       | Test of a English language Markdown file. |
 | languages/fr.md       | Test of a French language Markdown file.   |
-| lextables/            | Contains test language CSV files to test how they appear in Github. |
+| lextables/            | Contains some language CSV files from the Cavers Multi-lingual Dictionary. |
 | mfield_data/          | Contains CSV & Markdown of some Malcolm Field data. | 
 
 ## Translating the Language Files
