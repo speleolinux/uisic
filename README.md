@@ -23,6 +23,11 @@ contents of that directory.
 | lextables/            | Contains some language CSV files from the Cavers Multi-lingual Dictionary. |
 | mfield_data/          | Contains CSV & Markdown of some of Malcolm Field's lexicon. | 
 
+## Continuous Integration Notes
+
+There is a CI file `.github/workflows/ci.yml`. At present just read that.
+I'll put more details here shortly. 
+
 ## Translating Language Files
 
 Each language is in a separate file under the directory `languages`. The file
