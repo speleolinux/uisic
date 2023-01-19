@@ -1,7 +1,7 @@
 # UISIC Test Repo
 
 This is just a test repo for UISIC projects. Currently its being used to test a
-continuous intergartion (CI)
+continuous integration (CI) build of a glossary.
 
 [![Publish Glossary](https://github.com/speleolinux/uisic/actions/workflows/ci.yml/badge.svg)](https://github.com/speleolinux/uisic/actions/)
 &nbsp; &nbsp; 
