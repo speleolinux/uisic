@@ -10,9 +10,8 @@ The raw data is stored in Markdown format which is easy to edit and view.
 The Markdown data is transformed to the web page [Cave and Karst Glossary](https://speleolinux.github.io/uisic/)
 whenever the raw data and the file `VERSION` in this repository is updated.
 
+This status image shows if the build of the Markdown data to the web page job has passed OK.    
 [![Publish Glossary](https://github.com/speleolinux/uisic/actions/workflows/ci.yml/badge.svg)](https://github.com/speleolinux/uisic/actions/)
-&nbsp; &nbsp; 
-This status image shows if the transformation of the Markdown data to the web page job has suceeded OK.
 
 <!--
 ![Github Pages](https://github.com/speleolinux/uisic/actions/workflows/ci.yml/badge.svg?branch=gh-pages)
@@ -41,7 +40,7 @@ I'll put more details here shortly.
 
 Basically the CI will trigger when the file VERSION is updated. It will run the
 script `make_html.sh` which will build the a HTML format glossary from Malcolm
-Field's markdown format.
+Field's Markdown format.
 
 This HTML page will then be published from the  `gh-pages` branch to the Github
 pages site here: <https://speleolinux.github.io/uisic/>.
@@ -52,6 +51,10 @@ the data in this repo.
 ## Miscellaneous Notes
 
 ### Build Issues
+
+Any commit to main triggers a github pages build. This is not needed.
+Also this build seems to try to use Jekyll even though I have a `.nojekyll` 
+file in the main and gh-pages branches.
 
 If you have made commits and the CI has run the merge will not succeed 
 as the gh-pages branch has been changed. You then need to do a `git pull -rebase`
