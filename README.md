@@ -50,16 +50,6 @@ the data in this repo.
 
 ## Miscellaneous Notes
 
-### Build Issues
-
-Any commit to main triggers a github pages build. This is not needed.
-Also this build seems to try to use Jekyll even though I have a `.nojekyll` 
-file in the main and gh-pages branches.
-
-If you have made commits and the CI has run the merge will not succeed 
-as the gh-pages branch has been changed. You then need to do a `git pull -rebase`
-to fix the issue. How can we get rid of this issue for those not familiar with git?
-
 ### Language Files
 
 Each language is in a separate file under the directory `languages`. The file
