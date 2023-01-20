@@ -1,10 +1,19 @@
 # UISIC Test Repo
 
-This is just a test repo for UISIC projects. Currently its being used to test a
-continuous integration (CI) build of a glossary.
+This is a test repo for some UISIC projects. Currently its being used to test a
+continuous integration (CI) build of a cave science glossary.
+
+
+Here is the [Cave and Karst Glossary](https://speleolinux.github.io/uisic/) test web page. 
+The raw data for this page comes from the directory `mfield_data/epa_mfield_2002_utf8_short.md` in this repository.
+The raw data is stored in Markdown format which is easy to edit and view. 
+The Markdown data is transformed to the web page [Cave and Karst Glossary](https://speleolinux.github.io/uisic/)
+whenever the raw data and the file `VERSION` in this repository is updated.
 
 [![Publish Glossary](https://github.com/speleolinux/uisic/actions/workflows/ci.yml/badge.svg)](https://github.com/speleolinux/uisic/actions/)
 &nbsp; &nbsp; 
+This status image shows if the transformation of the Markdown data to the web page job has suceeded OK.
+
 <!--
 ![Github Pages](https://github.com/speleolinux/uisic/actions/workflows/ci.yml/badge.svg?branch=gh-pages)
 -->
