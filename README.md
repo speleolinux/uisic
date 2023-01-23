@@ -5,7 +5,8 @@ continuous integration (CI) build of a cave science glossary.
 
 
 Here is a [Cave and Karst Glossary](https://speleolinux.github.io/uisic/) test web page. 
-The raw data for this page comes from the directory `mfield_data/epa_mfield_2002_utf8_short.md` in this repository.
+The raw data for this page comes from the directory `mfield_data/epa_mfield_2002_utf8_short.md`
+in this repository.
 The raw data is stored in Markdown format which is easy to edit and view. 
 The Markdown data is transformed to this Cave and Karst Glossary test web page
 whenever the raw data and the file `VERSION` in this repository is updated.
@@ -39,8 +40,7 @@ There is a CI file `.github/workflows/ci.yml`. At present just read that.
 I'll put more details here shortly. 
 
 Basically the CI will trigger when the file VERSION is updated. It will run the
-script `make_html.sh` which will build the a HTML format glossary from Malcolm
-Field's Markdown format.
+script `make_html.sh` which will build the a HTML format glossary from the Markdown format.
 
 This HTML page will then be published from the  `gh-pages` branch to the Github
 pages site here: <https://speleolinux.github.io/uisic/>.
