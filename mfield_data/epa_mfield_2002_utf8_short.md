@@ -13,7 +13,7 @@
 | 11 | acclivity. | Ascending a slope[16].  |
 | 12 | accretion. | Land addition by sediment deposition of a stream[16].  |
 | 13 | accumulation. | Building of new land by addition of sedimentary deposits[16].  |
-| 14 | acetylene. | An inflammable hydrocarbon gas, C2H2, produced by water reacting with calcium carbide. When burned, yields carbon dioxide as well as light[25].  |
+| 14 | acetylene. | An inflammable hydrocarbon gas, C₂H₂, produced by water reacting with calcium carbide. When burned, yields carbon dioxide as well as light[25].  |
 | 15 | acid. | Any chemical compound containing hydrogen capable of being replaced by positive elements or radicals to form salts. In terms of dissociation theory, it is a compound which, on dissociation in solution, yields excess hydrogen ions. Acids lower the pH. Examples of acids or acidic substances are hydrochloric acid, tannic acid, and sodium acid pyrophosphate[6].  |
 | 16 | acidity. | The property of water having a pH below 4.5 that is caused by the presence of mineral acids. Usually expressed in equivalent amounts of calcium carbonate[16]. See also alkalinity; pH.  |
 | 17 | acid mine drainage. | Acid waters originating from surface or underground mine workings[16].  |
