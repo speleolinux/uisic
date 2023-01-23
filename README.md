@@ -13,7 +13,6 @@ whenever the raw data and the file `VERSION` in this repository is updated.
 
 This status image shows if the build of the Markdown data to the web page job has passed OK.    
 [![Publish Glossary](https://github.com/speleolinux/uisic/actions/workflows/ci.yml/badge.svg)](https://github.com/speleolinux/uisic/actions/)
-at ${{ github.event.repository.updated_at}}
 
 <!--
 ![Github Pages](https://github.com/speleolinux/uisic/actions/workflows/ci.yml/badge.svg?branch=gh-pages)
