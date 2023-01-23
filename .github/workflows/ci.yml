@@ -8,10 +8,10 @@ on:
   workflow_dispatch:
   push:
     paths: VERSION
-    #branches:
+    branches:
       # Here you can limit the trigger branch to be "main" etc.
       # - '*'
-      #- main
+      - main
 
 # A job is a set of steps in a workflow
 jobs:
