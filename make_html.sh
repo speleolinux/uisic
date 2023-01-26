@@ -8,6 +8,7 @@ header="assets/header.html"
 footer="assets/footer.html"
 output="epa_mfield_2002_utf8_short.html"
 
+export TZ="Australia/Sydney"
 today=$(date +"%A, %d %B %Y at %H:%M %p")
 
 cat $header > $output
