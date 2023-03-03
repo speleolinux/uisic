@@ -2566,138 +2566,137 @@
 | 2564 | upper confining bed | An impermeable bed overlying an aquifer[16]. |
 | 2565 | upside-down channel | See ceiling channel. |
 | 2566 | urkarst | See buried karst. |
-| 2567 | uvala | 1. A multi-coned closed depression; now little-used term of Croat, Serb or Bulgarian origin. The term was introduced to describe features assumed to be the second step in a 3-stage process of polje development, in which dolines were supposed to coalesce into uvalas.  This mechanism is no longer accepted and the term uvala has fallen into disuse[9].  2. Large closed depression formed by the coalescence of several dolines which have enlarged towards each other. Typically, the floor is irregular, being a combination of doline floors and degraded slopes of the individual hollows[19].  3. A Yugoslavian term for an elongated closed depression in karst that is commonly dry or with periodical small sinking streams or inundations.  They are generally a few hundred meters long and may be considered as a small polje[20].  Synonyms: (American) com- |
-| 2568 | pound doline; (French) cuvala; (German) Uvala; (Greek) ouvala; (Italian) avvalamento carsico, uvala; (Russian) uvala; (Spanish) uvala; (Turkish) koyak; kokurdan; (Yugoslavian) draga | See also canyon; karst valley; valley sink.  Related to polje. |
-| 2569 | vadose cave | 1. A cave that underwent most of its development above the water table.  Within the vadose zone, drainage is free-flowing under gravity, and cave passages therefore have air above any water surface.  The gravitational control of vadose flow means that all vadose cave passages drain downslope, they exist in the upper part of a karst aquifer, and they ultimately drain into the phreatic zone or out to the surface.  Active stream caves, explorable by non-diving cavers, are by definition vadose (though they generally have phreatic origins).  Characteristics of vadose caves are uneroded ceilings (except for immature phreatic features pre-dating the vadose conditions) and continuous downhill gradients (unless interrupted by short perched sumps).  The main passage forms are canyons, with meanders and potholes, broken by sub-cylindrical, spray- corroded shafts that may demonstrate waterfall retreat.  Some of the caves of Monte Canin, Italy, are spectacularly long and deep vadose systems[9].  2. Older, higher cave passages found in the vadose zone; usually vadose caves have been abandoned by the ground water except in times of extreme aquifer recharge.  Passages are usually appear as canyons and keyholes. |
-| 2570 | vadose flow | Water flowing in free-surface streams in caves[25]. |
-| 2571 | vadose seepage | See percolation, percolation water. |
-| 2572 | vadose shaft | A vertical tube in the vadose zone that may be a few inches to several feet in diameter and may be a few feet deep to hundreds and over a thousand of feet deep.  They commonly occur as complexes.  A drain hole is usually evident at their base.  See also vertical shaft. |
-| 2573 | vadose water | 1. That part of the underground water in a karst limestone which circulates freely under gravity above the level of saturation - the vadose zone.  Caves formed by flowing water are said to be vadose caves[19].  2. Water in the zone of aeration; water above the zone of saturation[10]. |
-| 2574 | vadose zone | 1. The zone between the land surface and the water table[22].  2. The zone between the land surface and the deepest water table which includes the capillary fringe.  Generally, water in this zone is under less than atmospheric pressure, and some of the voids may contain air or other gases at atmospheric pressure.  Beneath flooded areas or in perched water bodies the water pressure locally may be greater than atmospheric[22].  When discussing a karst setting, it is preferable to use the term, vadose zone, so as to avoid confusion regarding chemical saturation. Synonym: unsaturated zone.  See also zone of aeration. |
-| 2575 | valley fill | Unconsolidated debris accumulated on a valley bottom[16]. |
-| 2576 | valley sink | (American) An elongated closed depression or series of interconnecting depressions forming a valley-like depression.  Compare karst valley; uvala[10]. |
-| 2577 | valley spring | See spring, valley. |
-| 2578 | vanadinite | A cave mineral — Pb5(VO4)3Cl[11]. |
-| 2579 | vaporization | The process by which liquid or solid water changes into the gaseous state[16]. |
-| 2580 | variable-temperature zone | The area of a cave where air temperature fluctuates with the seasons. See also zonation. |
-| 2581 | variance | The square of the standard deviation[16]. |
-| 2582 | variscite | A cave mineral — AlPO4·2H2O[11]. |
-| 2583 | varve | The alternating of coarse and fine grained layers in glacial lake sediments[16]. |
-| 2584 | vasque | A large, shallow solution pan formed in the intertidal zone of warm seas by the action of brine and marine organisms[19]. |
-| 2585 | vauclusian spring; vauclusian rising | See spring, vauclusian. |
-| 2586 | vegetation cover | The cover living vegetation on top of the upper soil horizon[16]. |
-| 2587 | vein | A mineral filled fracture cutting through a host rock.  The mineral filling may be derived from the host rock, as is the case with many calcite veins in limestone (e.g. at Marble Showers in Ogof Ffynnon Ddu) or derived from other, generally deeper, sources, such as the many veins containing lead and zinc ore minerals in the Derbyshire Peak District, England[9]. |
-| 2588 | velocity, average interstitial | The average rate of ground-water flow in interstices expressed as the product of hydraulic conductivity and hydraulic gradient divided by the effective porosity. Synonymous with average linear ground-water velocity or effective velocity. |
-| 2589 | vermiculation | Pattern of thin, worm-shaped coatings of clay or silt on cave surfaces[25]. |
-| 2590 | vertebrate | An animal with a backbone.  The group includes fishes, amphibians, reptiles, birds, and mammals.  Some amphibians and fishes live permanently in caves.  See also invertebrate. |
-| 2591 | vertical angle | The angle in a vertical plane between a line of sight and the horizontal, positive above the horizontal and negative below[25]. |
-| 2592 | vertical cave | A vertical passage within a cave system, formed along joints by which underground watercourses are transferred from a higher to a lower bedding plane[19].  They may become transformed into vertical shafts by sufficiently uniform dissolution as to create a rounded vertical passage.  See also fissure cave; vertical shaft. |
-| 2593 | vertical shaft | These are formed by underground water dripping of flowing straight downward through the limestone along vertical cracks.  Uniformly distributed dissolution of the rock results in a silo- or well-shaped passage so that most of them appear roughly circular in cross section when viewed straight up and down.  They form above active tubular passages although they may intersect a limited number of passages along their length.  At Mammoth Cave, they range in size from 30 feet across to 200 feet from top to bottom[15].  Synonym: dome-pit.  See also canyon passage; fissure cave; keyhole passage; passage; tubular passage; vadose shaft; vertical cave. |
-| 2594 | vertical caver | A caver who enjoys and is competent doing vertical caving[13].  See also vertical caving. |
-| 2595 | vertical caving | Caving that includes a lot of ascending and descending[13].  See also vertical caver. |
-| 2596 | very fine sand | Grain particles with diameters ranging from 0.05 to 0.1 mm[16]. |
-| 2597 | vesicular | Containing small circular cavities[16]. |
-| 2598 | victor tube | The single phreatic sub-conduit among the many that potentially exist on a given bedding plane (or fracture plane) that is the first to reach a diameter capable of establishing turbulent-flow conditions.  Following this breakthrough the victor tube tends to enlarge more rapidly than other branching or sub-parallel alternatives and eventually captures much of the drainage within its field of influence[9]. |
-| 2599 | virgin flow | Flow unaffected by artificial diversions, impoundments, or channels[16]. |
-| 2600 | virgin passage | A cave passage that has not previously been entered; a new discovery[13]. |
-| 2601 | viscosity | 1. The resistance of liquid to flow[16].  2. The property of a real fluid creating shear forces between two fluid elements and giving rise to fluid friction[16].  Specifically, it is the ratio of the shear stress to the rate of shear strain[6]. |
-| 2602 | void | See interstice. |
-| 2603 | void ratio | The ratio of (a) the volume of void space to (b) the volume of solid particles in a given soil mass[22]. |
-| 2604 | volatiles | Substances with relatively large vapor pressures.  Many organic substances are almost insoluble in water so that they occur primarily in a gas phase in contact with water, even though their vapor pressure may be very small[22]. |
-| 2605 | volumetric flowmeter | Apparatus designed to measure a volume flow rate[16]. |
-| 2606 | volumetric moisture content | The concentration of water in soil by volume[16]. |
-| 2607 | vrulje | (Yugoslavian) See submarine spring. |
-| 2608 | vug | A small cavity in rock usually lined with crystals.  Adjective, vuggy[10].  See also geode. |
-| 2609 | vugular pore space | Void space due to solution cavities of small size[16]. |
-| 2610 | vulcanokarst | An area comprised of tubular caves within lava flows and shows evidence of mechanical collapse of the roof into them.  See also lava cave; pseudokarst. |
-| 2611 | wading measurement | Discharge measurement during which a hydrographer takes readings while standing in a river[16]. |
-| 2612 | wall block | A roughly cubical joint-controlled large block of limestone or dolomite, which has rotated outward from a cave wall[10].  See also cave breakdown; wall slab. |
-| 2613 | wall karren | These are found on vertical walls as a result of water flowing down the walls without any area-wide moistening although area-wide sprinkling occasionally influences their development[3].  See also meandering karren; humus-water grooves. |
-| 2614 | wall pocket | See pocket. |
-| 2615 | wall slab | A thin but large block of rock, which has fallen outward from the wall of a cave in limestone in which the dip is nearly vertical[10].  See also cave breakdown. |
-| 2616 | wang | (Malaysian) Polje[10]. |
-| 2617 | wash | A small ravine due to outwash by flow in desert regions[16]. |
-| 2618 | wash load | The incoming load of suspended sediment passing through a river network without deposition[16]. |
-| 2619 | waste load | The content of wastes by weight of volume transported by or discharged into a river[16]. |
-| 2620 | waste water | Water containing sewage and waste products[16]. |
-| 2621 | water-balance | An instrument designed to measure evaporation by gravimetry[16]. |
-| 2622 | water-bearing | Containing water[16]. |
-| 2623 | water-borne disease | Disease spread by organic contaminants contained in the water supply[16]. |
-| 2624 | water budget | The quantitative accounting of water volumes involved in the hydrologic cycle[16]. |
-| 2625 | water catchment | The intake of water from an aquifer or a surface reservoir[16]. |
-| 2626 | water conservation | All measures to reduce the quantitative of qualitative spoilage of water[16]. |
-| 2627 | water content | The amount of water lost from the soil after drying it to constant weight at 105◦C, expressed either as the weight of water per unit weight of dry soil or as the volume of water per unit bulk volume of soil[22].  See moisture content. |
-| 2628 | water course | Any channel conveying water[16]. |
-| 2629 | water equivalent | The depth of water resulting from the melting of snow[16]. |
-| 2630 | water hammer | An abnormally high pressure rise in a pipe when sudden changes in flow occur[16]. |
-| 2631 | water-holding capacity | See specific retention. |
-| 2632 | water invasion | The sudden invasion of water into a well or borehole[16]. |
-| 2633 | water level | The level of free surface of a water body or water column[16]. |
-| 2634 | water logged | Water saturated[16]. |
-| 2635 | water logging | Water accumulation on top of soil where the water table and ground surface coincide[16]. |
-| 2636 | water of constitution | Chemically bound water[16]. |
-| 2637 | water of crystallization | Water embodied in crystal structure[16]. |
-| 2638 | water of dehydration | Water freed from hydrous minerals by chemical changes[16]. |
-| 2639 | water pot | See kamenica, solution pan. |
-| 2640 | water quality | The physical, chemical, and biological characteristics of water[16]. |
-| 2641 | water requirement | The quantity of water needed for crops regardless of the source[16]. |
-| 2642 | water resources | The total supply of surface, ground, and reclaimed water that can be used[16]. |
-| 2643 | water stage | The height of the water level[16]. |
-| 2644 | water table | 1. The top surface of a body of slowly moving ground water that fills the pore spaces within a rock mass.  Above it lies the freely draining vadose zone, and below it lies the permanently saturated phreas.  In uniform aquifers, such as sandstone, the water table is a smoothly contoured surface intersecting the ground at rivers and lakes, but in limestone it is more complex.  Individual cave conduits may be above or below the water table, and therefore either vadose or phreatic, and the water table cannot normally be related to them.  The water table concept does, however, apply to the diffuse drainage of percolation water in the micro- fissure network of limestone, but its detailed structure may be complicated by the presence of conduits.  The water-table slope (hydraulic gradient) is low in limestone due to the high permeability, and the level is controlled by outlet springs or local geological features.  High flows create steeper hydraulic gradients and hence rises in the water level away from the spring. In France’s Grotte de la Luire, the water level in the cave (and therefore the local water table) fluctuates by 450m[9].  2. The upper surface of a zone of saturation except where that surface is formed by a confining unit[22].  3. The upper surface of the zone of saturation on which the water pressure in the porous medium equals atmospheric pressure[22].  4. The upper boundary of an unconfined zone of saturation, along which the hydrostatic pressure is equal to the atmospheric pressure[10].  See also potentiometric surface. |
-| 2645 | water-table aquifer | See unconfined aquifer. |
-| 2646 | water-table cave | In theory the water table offers the prime environment for cave development as it provides the shortest route through the phreas and is potentially more active chemically due to the presence of the air/water interface.  However, geological factors determine the details of cave inception and enlargement, and passages most commonly form just below the water table as a shallow phreatic variety of cave development.  Development of this type is believed to be responsible for the "levels" of cave passage found in some areas, as in the flint Mammoth Cave System, Kentucky.  True water-table caves are rare except on a limited scale as extensions to cliff foot notches margined to tropical swamps.  Also under these conditions, the water table may adjust down to the level of a mature phreatic cave and then modify the passage with horizontal dissolution notches — as is common in the caves of Mulu and Niah, Sarawak[9]. |
-| 2647 | water-table divide | See divide. |
-| 2648 | water-table map | A map showing the upper surface of the phreatic zone of a water-table aquifer by means of contour lines[1].  See also phreatic zone; potentiometric-surface map; water-table aquifer. |
-| 2649 | water tracing | Underground drainage links through unexplored caves confirmed by labeling input water and identifying it at points downstream.  The common labeling techniques involve the use of fluorescent dyes (fluorescein, rhodamine, leucophor, pyranine etc.), lycopodium spores, or chemicals such as common salt.  Detection of dye downstream may be purely visual, but if the dye is used at a subvisible (environmentally acceptable) dilution, suitable detectors must be placed in all potential risings and collected for subsequent fluorometric examination (although water samples are more desirable and beneficial).  Lycopodium spores are usually collected in fine nets, along with other stream-borne sediment, and must then be identified under the microscope.  If chemical tracers are used, regular water samples must be collected for subsequent analysis, or the resurgent waters must be monitored with suitable electronic detectors and recorders.  Flowpaths can also be confirmed by transmission of artificial or natural flood pulses, which provide additional data on the nature of conduits, as a pulse is transmitted instantaneously through flooded passages. The longest successful water trace was from Beysehir Golu to the Manavgat springs, in Turkey, over a distance of 130km; 390kg of fluorescein was used and the dye reappeared after 366 days[9]. |
-| 2650 | water trap, watertrap | A place where the roof of a chamber or passage of a cave dips under water but lifts again farther on[10].  Synonym: trap. |
-| 2651 | water works | A plant where water is treated and prepared for municipal consumption[16]. |
-| 2652 | water year | A 12 month period for streamflow computation[16]. |
-| 2653 | waterlogged | Water saturated. |
-| 2654 | waterlogging | Water accumulation on top of soil where the water table and ground surface coincide. |
-| 2655 | watershed | 1. A drainage basin[16].  2. A divide separating one drainage basin from another[16]. |
-| 2656 | waterway | An artificial or natural watercourse fit for navigation. |
-| 2657 | wave karren | Wavy karren surfaces that appear similar to corrugated tin.  When denuded they are a disposition for the formation of Rinnenkarren[3].  See also covered karren; Rinnenkarren; root karren. |
-| 2658 | wayboard | One of many thin beds of volcanic clay that occur at intervals within the Carboniferous carbonate succession of the Peak District, England; a term formerly used by lead miners (see toadstone).  Wayboards have potential significance during speleogenesis when they may act as local aquicludes, inception horizons or providers of strong acid formed by oxidation of sulfide minerals[9]. |
-| 2659 | weathering | The process of disintegration and decomposition as a consequence of exposure to the atmosphere, to chemical action and to the action of frost, water and heat. |
-| 2660 | wedge storage | 1. Water storage in the form of a wedge overlying a prism[16].  2. storage in a flooded river segment[16]. |
-| 2661 | weir | A dam across a water course to control, raise, or measure water flow[16]. |
-| 2662 | weir coefficient | A coefficient used in transforming water depths into discharge volumes in weir measurements[16]. |
-| 2663 | well | 1. A shaft or hole sunk into the earth to obtain water, oil, gas, or minerals[10].  2. A deep vertical rounded hole or shaft in the floor of a cave or at the bottom of a closed depression[10].  3. A bored, drilled or driven shaft, or a dug hole, whose depth is greater than the largest surface dimension[22]. |
-| 2664 | well function | An exponential integral as used in Theis’ nonequilibrium equation[16]. |
-| 2665 | well hydrograph | A graph of water level fluctuations in a well[16]. |
-| 2666 | well loss | Head loss caused by flow through a screen and inside a well[16]. |
-| 2667 | well-sorted grains | An assortment of grains having the same diameter[16]. |
-| 2668 | well yield | The volume of water discharged from a well in gallons per minute or cubic meters per day. |
-| 2669 | wet line | That portion of line of submerged under water in stream measurements[16]. |
-| 2670 | wet suit | A diving garment of foam neoprene designed to insulate the diver from the cold but which allows a thin film of water to penetrate between the suit and the body[25]. |
-| 2671 | wetland | A general term used for a group of wet habitats, in common use by specialists in wildlife management.  It includes areas that are permanently wet and/or intermittently water-covered, especially coastal marshes, tidal swamps and flats, and associated pools, sloughs, and bayous[1]. |
-| 2672 | wettability | The property of a solid substance to be wetted by a liquid such as water[16]. |
-| 2673 | wetted area | The cross sectional area of that portion of a channel that is filled with water[16]. |
-| 2674 | wetted perimeter | The perimeter over which flowing water is in actual contact with the channel walls and bottom[16]. |
-| 2675 | wetting period | The period of contact between a liquid and a solid surface during which wetting occurs[16]. |
-| 2676 | whaletail | A descender consisting of an aluminium block with slots, knobs and a safety gate[25]. |
-| 2677 | whitlockite | A cave mineral — Ca9(Mg,Fe)H(PO4)7[11]. |
-| 2678 | width of contribution | The width of the contributing region between the ground-water divide from which water enters a well.  This usually occurs with an inclined piezometric surface[16]. |
-| 2679 | wilt, to | The shrinking of cell walls due to loss in turgor as a result of water deficiency in the plant[16]. |
-| 2680 | wilting coefficient, wilting point | The soil moisture content at which plants wilt[16]. |
-| 2681 | wind factor | The factor containing a monthly mean wind velocity in evaporation[16]. |
-| 2682 | wind field | The air velocity field above ground due to wind action[16]. |
-| 2683 | window | 1. In speleology, a natural opening above the floor of a passage or a room, giving access to an adjoining cavity or to the surface; larger and less symmetrical than a porthole.  2. The opening under the arch of a small natural bridge[10].  See karst window. |
-| 2684 | windypit | Open fissure, widened by landslip, common in valley side situations where limestone overlies weaker rocks such as clays or shales.  The term is commonly used to describe gulls and tectonic caves in the Jurassic limestones of north-east Yorkshire, England[9]. |
-| 2685 | withdraw, to | To draw water from an aquifer or reservoir[16]. |
-| 2686 | workover | The reworking of a well that has declined in yield[16]. |
-| 2687 | yield | The quantity of water discharged from an aquifer[16] (e.g spring or well.) See also well yield. |
-| 2688 | zadernovannyĭ karst | (Russian) See subsoil karst. |
-| 2689 | zakrytyĭ karst, skrytyĭ karst | (Russian) See closed karst. |
-| 2690 | zanjón | (Spanish) In Puerto Rico, solution trench in limestone.  Zanjónes range from a few centimeters to about 8 meters in width and from about 1 to 4 meters in depth.  Apparently they form by the widening and deepening of joints by solution[10].  See also bogaz; corridor; struga. |
-| 2691 | zero adjustment | The adjustment of a scale or a measuring circuit to an original point of departure[16]. |
-| 2692 | zonal soil profile | The normal horizontal distribution of soil zone[16]. |
-| 2693 | zonation | The organization of a habitat into a more or less orderly series of distinctive plant and animal associations as a result of variations in environmental conditions.  Zones in a cave are the twilight zone, the variable-temperature zone, and the constant-temperature zone[23]. |
-| 2694 | zone of accumulation | The second horizon of a soil profile (B), usually the zone of clay accumulation subjacent to zone (A)[16]. |
-| 2695 | zone of aeration | The zone in permeable soil or rock that is above the zone saturated with water; the zone of vadose water[10].  See also vadose zone. |
-| 2696 | zone of investigation | The zone over which a given measuring device is able to obtain information[16]. |
-| 2697 | zone of leaching | The top horizon of a soil profile (A) that is most intensely weathered[16]. |
-| 2698 | zone of saturation | The zone in permeable soil or rock that is saturated with water; the phreatic zone[10].  See also phreatic zone. |
-| 2699 | zones of karstification | Cvijič (1926, 1960) distinguishes three zones of karstification: (1) dry zone in the upper part of the karst with caves almost completely dry; (2) transition zone where water flows downstream almost permanently; and (3) deep zone with slow downstream flow and local siphons[20].  Synonyms: (French) zones de karstification; (German) Zone der Verkarstung; (Greek) zoni karstikopiiseos; (Italian) zone idrogeologiche; (Spanish) zona de karstificación; (Turkish) karstlaşma kuşagı; (Yugoslavian) zone karstifikacije. |
-| 2700 | Zwischenhöhle | (German)  Cave in which a river passage, or former river passage, is entered from above or laterally and which can be followed upstream and downstream some distance but not to daylight[10]. |
+| 2567 | uvala | 1. A multi-coned closed depression; now little-used term of Croat, Serb or Bulgarian origin. The term was introduced to describe features assumed to be the second step in a 3-stage process of polje development, in which dolines were supposed to coalesce into uvalas.  This mechanism is no longer accepted and the term uvala has fallen into disuse[9].  2. Large closed depression formed by the coalescence of several dolines which have enlarged towards each other. Typically, the floor is irregular, being a combination of doline floors and degraded slopes of the individual hollows[19].  3. A Yugoslavian term for an elongated closed depression in karst that is commonly dry or with periodical small sinking streams or inundations.  They are generally a few hundred meters long and may be considered as a small polje[20].  Synonyms: (American) compound doline; (French) cuvala; (German) Uvala; (Greek) ouvala; (Italian) avvalamento carsico, uvala; (Russian) uvala; (Spanish) uvala; (Turkish) koyak; kokurdan; (Yugoslavian) draga.  See also canyon; karst valley; valley sink.  Related to polje. |
+| 2568 | vadose cave | 1. A cave that underwent most of its development above the water table.  Within the vadose zone, drainage is free-flowing under gravity, and cave passages therefore have air above any water surface.  The gravitational control of vadose flow means that all vadose cave passages drain downslope, they exist in the upper part of a karst aquifer, and they ultimately drain into the phreatic zone or out to the surface.  Active stream caves, explorable by non-diving cavers, are by definition vadose (though they generally have phreatic origins).  Characteristics of vadose caves are uneroded ceilings (except for immature phreatic features pre-dating the vadose conditions) and continuous downhill gradients (unless interrupted by short perched sumps).  The main passage forms are canyons, with meanders and potholes, broken by sub-cylindrical, spray- corroded shafts that may demonstrate waterfall retreat.  Some of the caves of Monte Canin, Italy, are spectacularly long and deep vadose systems[9].  2. Older, higher cave passages found in the vadose zone; usually vadose caves have been abandoned by the ground water except in times of extreme aquifer recharge.  Passages are usually appear as canyons and keyholes. |
+| 2569 | vadose flow | Water flowing in free-surface streams in caves[25]. |
+| 2570 | vadose seepage | See percolation, percolation water. |
+| 2571 | vadose shaft | A vertical tube in the vadose zone that may be a few inches to several feet in diameter and may be a few feet deep to hundreds and over a thousand of feet deep.  They commonly occur as complexes.  A drain hole is usually evident at their base.  See also vertical shaft. |
+| 2572 | vadose water | 1. That part of the underground water in a karst limestone which circulates freely under gravity above the level of saturation - the vadose zone.  Caves formed by flowing water are said to be vadose caves[19].  2. Water in the zone of aeration; water above the zone of saturation[10]. |
+| 2573 | vadose zone | 1. The zone between the land surface and the water table[22].  2. The zone between the land surface and the deepest water table which includes the capillary fringe.  Generally, water in this zone is under less than atmospheric pressure, and some of the voids may contain air or other gases at atmospheric pressure.  Beneath flooded areas or in perched water bodies the water pressure locally may be greater than atmospheric[22].  When discussing a karst setting, it is preferable to use the term, vadose zone, so as to avoid confusion regarding chemical saturation. Synonym: unsaturated zone.  See also zone of aeration. |
+| 2574 | valley fill | Unconsolidated debris accumulated on a valley bottom[16]. |
+| 2575 | valley sink | (American) An elongated closed depression or series of interconnecting depressions forming a valley-like depression.  Compare karst valley; uvala[10]. |
+| 2576 | valley spring | See spring, valley. |
+| 2577 | vanadinite | A cave mineral — Pb5(VO4)3Cl[11]. |
+| 2578 | vaporization | The process by which liquid or solid water changes into the gaseous state[16]. |
+| 2579 | variable-temperature zone | The area of a cave where air temperature fluctuates with the seasons. See also zonation. |
+| 2580 | variance | The square of the standard deviation[16]. |
+| 2581 | variscite | A cave mineral — AlPO4·2H2O[11]. |
+| 2582 | varve | The alternating of coarse and fine grained layers in glacial lake sediments[16]. |
+| 2583 | vasque | A large, shallow solution pan formed in the intertidal zone of warm seas by the action of brine and marine organisms[19]. |
+| 2584 | vauclusian spring; vauclusian rising | See spring, vauclusian. |
+| 2585 | vegetation cover | The cover living vegetation on top of the upper soil horizon[16]. |
+| 2586 | vein | A mineral filled fracture cutting through a host rock.  The mineral filling may be derived from the host rock, as is the case with many calcite veins in limestone (e.g. at Marble Showers in Ogof Ffynnon Ddu) or derived from other, generally deeper, sources, such as the many veins containing lead and zinc ore minerals in the Derbyshire Peak District, England[9]. |
+| 2587 | velocity, average interstitial | The average rate of ground-water flow in interstices expressed as the product of hydraulic conductivity and hydraulic gradient divided by the effective porosity. Synonymous with average linear ground-water velocity or effective velocity. |
+| 2588 | vermiculation | Pattern of thin, worm-shaped coatings of clay or silt on cave surfaces[25]. |
+| 2589 | vertebrate | An animal with a backbone.  The group includes fishes, amphibians, reptiles, birds, and mammals.  Some amphibians and fishes live permanently in caves.  See also invertebrate. |
+| 2590 | vertical angle | The angle in a vertical plane between a line of sight and the horizontal, positive above the horizontal and negative below[25]. |
+| 2591 | vertical cave | A vertical passage within a cave system, formed along joints by which underground watercourses are transferred from a higher to a lower bedding plane[19].  They may become transformed into vertical shafts by sufficiently uniform dissolution as to create a rounded vertical passage.  See also fissure cave; vertical shaft. |
+| 2592 | vertical shaft | These are formed by underground water dripping of flowing straight downward through the limestone along vertical cracks.  Uniformly distributed dissolution of the rock results in a silo- or well-shaped passage so that most of them appear roughly circular in cross section when viewed straight up and down.  They form above active tubular passages although they may intersect a limited number of passages along their length.  At Mammoth Cave, they range in size from 30 feet across to 200 feet from top to bottom[15].  Synonym: dome-pit.  See also canyon passage; fissure cave; keyhole passage; passage; tubular passage; vadose shaft; vertical cave. |
+| 2593 | vertical caver | A caver who enjoys and is competent doing vertical caving[13].  See also vertical caving. |
+| 2594 | vertical caving | Caving that includes a lot of ascending and descending[13].  See also vertical caver. |
+| 2595 | very fine sand | Grain particles with diameters ranging from 0.05 to 0.1 mm[16]. |
+| 2596 | vesicular | Containing small circular cavities[16]. |
+| 2597 | victor tube | The single phreatic sub-conduit among the many that potentially exist on a given bedding plane (or fracture plane) that is the first to reach a diameter capable of establishing turbulent-flow conditions.  Following this breakthrough the victor tube tends to enlarge more rapidly than other branching or sub-parallel alternatives and eventually captures much of the drainage within its field of influence[9]. |
+| 2598 | virgin flow | Flow unaffected by artificial diversions, impoundments, or channels[16]. |
+| 2599 | virgin passage | A cave passage that has not previously been entered; a new discovery[13]. |
+| 2600 | viscosity | 1. The resistance of liquid to flow[16].  2. The property of a real fluid creating shear forces between two fluid elements and giving rise to fluid friction[16].  Specifically, it is the ratio of the shear stress to the rate of shear strain[6]. |
+| 2601 | void | See interstice. |
+| 2602 | void ratio | The ratio of (a) the volume of void space to (b) the volume of solid particles in a given soil mass[22]. |
+| 2603 | volatiles | Substances with relatively large vapor pressures.  Many organic substances are almost insoluble in water so that they occur primarily in a gas phase in contact with water, even though their vapor pressure may be very small[22]. |
+| 2604 | volumetric flowmeter | Apparatus designed to measure a volume flow rate[16]. |
+| 2605 | volumetric moisture content | The concentration of water in soil by volume[16]. |
+| 2606 | vrulje | (Yugoslavian) See submarine spring. |
+| 2607 | vug | A small cavity in rock usually lined with crystals.  Adjective, vuggy[10].  See also geode. |
+| 2608 | vugular pore space | Void space due to solution cavities of small size[16]. |
+| 2609 | vulcanokarst | An area comprised of tubular caves within lava flows and shows evidence of mechanical collapse of the roof into them.  See also lava cave; pseudokarst. |
+| 2610 | wading measurement | Discharge measurement during which a hydrographer takes readings while standing in a river[16]. |
+| 2611 | wall block | A roughly cubical joint-controlled large block of limestone or dolomite, which has rotated outward from a cave wall[10].  See also cave breakdown; wall slab. |
+| 2612 | wall karren | These are found on vertical walls as a result of water flowing down the walls without any area-wide moistening although area-wide sprinkling occasionally influences their development[3].  See also meandering karren; humus-water grooves. |
+| 2613 | wall pocket | See pocket. |
+| 2614 | wall slab | A thin but large block of rock, which has fallen outward from the wall of a cave in limestone in which the dip is nearly vertical[10].  See also cave breakdown. |
+| 2615 | wang | (Malaysian) Polje[10]. |
+| 2616 | wash | A small ravine due to outwash by flow in desert regions[16]. |
+| 2617 | wash load | The incoming load of suspended sediment passing through a river network without deposition[16]. |
+| 2618 | waste load | The content of wastes by weight of volume transported by or discharged into a river[16]. |
+| 2619 | waste water | Water containing sewage and waste products[16]. |
+| 2620 | water-balance | An instrument designed to measure evaporation by gravimetry[16]. |
+| 2621 | water-bearing | Containing water[16]. |
+| 2622 | water-borne disease | Disease spread by organic contaminants contained in the water supply[16]. |
+| 2623 | water budget | The quantitative accounting of water volumes involved in the hydrologic cycle[16]. |
+| 2624 | water catchment | The intake of water from an aquifer or a surface reservoir[16]. |
+| 2625 | water conservation | All measures to reduce the quantitative of qualitative spoilage of water[16]. |
+| 2626 | water content | The amount of water lost from the soil after drying it to constant weight at 105◦C, expressed either as the weight of water per unit weight of dry soil or as the volume of water per unit bulk volume of soil[22].  See moisture content. |
+| 2627 | water course | Any channel conveying water[16]. |
+| 2628 | water equivalent | The depth of water resulting from the melting of snow[16]. |
+| 2629 | water hammer | An abnormally high pressure rise in a pipe when sudden changes in flow occur[16]. |
+| 2630 | water-holding capacity | See specific retention. |
+| 2631 | water invasion | The sudden invasion of water into a well or borehole[16]. |
+| 2632 | water level | The level of free surface of a water body or water column[16]. |
+| 2633 | water logged | Water saturated[16]. |
+| 2634 | water logging | Water accumulation on top of soil where the water table and ground surface coincide[16]. |
+| 2635 | water of constitution | Chemically bound water[16]. |
+| 2636 | water of crystallization | Water embodied in crystal structure[16]. |
+| 2637 | water of dehydration | Water freed from hydrous minerals by chemical changes[16]. |
+| 2638 | water pot | See kamenica, solution pan. |
+| 2639 | water quality | The physical, chemical, and biological characteristics of water[16]. |
+| 2640 | water requirement | The quantity of water needed for crops regardless of the source[16]. |
+| 2641 | water resources | The total supply of surface, ground, and reclaimed water that can be used[16]. |
+| 2642 | water stage | The height of the water level[16]. |
+| 2643 | water table | 1. The top surface of a body of slowly moving ground water that fills the pore spaces within a rock mass.  Above it lies the freely draining vadose zone, and below it lies the permanently saturated phreas.  In uniform aquifers, such as sandstone, the water table is a smoothly contoured surface intersecting the ground at rivers and lakes, but in limestone it is more complex.  Individual cave conduits may be above or below the water table, and therefore either vadose or phreatic, and the water table cannot normally be related to them.  The water table concept does, however, apply to the diffuse drainage of percolation water in the micro- fissure network of limestone, but its detailed structure may be complicated by the presence of conduits.  The water-table slope (hydraulic gradient) is low in limestone due to the high permeability, and the level is controlled by outlet springs or local geological features.  High flows create steeper hydraulic gradients and hence rises in the water level away from the spring. In France’s Grotte de la Luire, the water level in the cave (and therefore the local water table) fluctuates by 450m[9].  2. The upper surface of a zone of saturation except where that surface is formed by a confining unit[22].  3. The upper surface of the zone of saturation on which the water pressure in the porous medium equals atmospheric pressure[22].  4. The upper boundary of an unconfined zone of saturation, along which the hydrostatic pressure is equal to the atmospheric pressure[10].  See also potentiometric surface. |
+| 2644 | water-table aquifer | See unconfined aquifer. |
+| 2645 | water-table cave | In theory the water table offers the prime environment for cave development as it provides the shortest route through the phreas and is potentially more active chemically due to the presence of the air/water interface.  However, geological factors determine the details of cave inception and enlargement, and passages most commonly form just below the water table as a shallow phreatic variety of cave development.  Development of this type is believed to be responsible for the "levels" of cave passage found in some areas, as in the flint Mammoth Cave System, Kentucky.  True water-table caves are rare except on a limited scale as extensions to cliff foot notches margined to tropical swamps.  Also under these conditions, the water table may adjust down to the level of a mature phreatic cave and then modify the passage with horizontal dissolution notches — as is common in the caves of Mulu and Niah, Sarawak[9]. |
+| 2646 | water-table divide | See divide. |
+| 2647 | water-table map | A map showing the upper surface of the phreatic zone of a water-table aquifer by means of contour lines[1].  See also phreatic zone; potentiometric-surface map; water-table aquifer. |
+| 2648 | water tracing | Underground drainage links through unexplored caves confirmed by labeling input water and identifying it at points downstream.  The common labeling techniques involve the use of fluorescent dyes (fluorescein, rhodamine, leucophor, pyranine etc.), lycopodium spores, or chemicals such as common salt.  Detection of dye downstream may be purely visual, but if the dye is used at a subvisible (environmentally acceptable) dilution, suitable detectors must be placed in all potential risings and collected for subsequent fluorometric examination (although water samples are more desirable and beneficial).  Lycopodium spores are usually collected in fine nets, along with other stream-borne sediment, and must then be identified under the microscope.  If chemical tracers are used, regular water samples must be collected for subsequent analysis, or the resurgent waters must be monitored with suitable electronic detectors and recorders.  Flowpaths can also be confirmed by transmission of artificial or natural flood pulses, which provide additional data on the nature of conduits, as a pulse is transmitted instantaneously through flooded passages. The longest successful water trace was from Beysehir Golu to the Manavgat springs, in Turkey, over a distance of 130km; 390kg of fluorescein was used and the dye reappeared after 366 days[9]. |
+| 2649 | water trap, watertrap | A place where the roof of a chamber or passage of a cave dips under water but lifts again farther on[10].  Synonym: trap. |
+| 2650 | water works | A plant where water is treated and prepared for municipal consumption[16]. |
+| 2651 | water year | A 12 month period for streamflow computation[16]. |
+| 2652 | waterlogged | Water saturated. |
+| 2653 | waterlogging | Water accumulation on top of soil where the water table and ground surface coincide. |
+| 2654 | watershed | 1. A drainage basin[16].  2. A divide separating one drainage basin from another[16]. |
+| 2655 | waterway | An artificial or natural watercourse fit for navigation. |
+| 2656 | wave karren | Wavy karren surfaces that appear similar to corrugated tin.  When denuded they are a disposition for the formation of Rinnenkarren[3].  See also covered karren; Rinnenkarren; root karren. |
+| 2657 | wayboard | One of many thin beds of volcanic clay that occur at intervals within the Carboniferous carbonate succession of the Peak District, England; a term formerly used by lead miners (see toadstone).  Wayboards have potential significance during speleogenesis when they may act as local aquicludes, inception horizons or providers of strong acid formed by oxidation of sulfide minerals[9]. |
+| 2658 | weathering | The process of disintegration and decomposition as a consequence of exposure to the atmosphere, to chemical action and to the action of frost, water and heat. |
+| 2659 | wedge storage | 1. Water storage in the form of a wedge overlying a prism[16].  2. storage in a flooded river segment[16]. |
+| 2660 | weir | A dam across a water course to control, raise, or measure water flow[16]. |
+| 2661 | weir coefficient | A coefficient used in transforming water depths into discharge volumes in weir measurements[16]. |
+| 2662 | well | 1. A shaft or hole sunk into the earth to obtain water, oil, gas, or minerals[10].  2. A deep vertical rounded hole or shaft in the floor of a cave or at the bottom of a closed depression[10].  3. A bored, drilled or driven shaft, or a dug hole, whose depth is greater than the largest surface dimension[22]. |
+| 2663 | well function | An exponential integral as used in Theis’ nonequilibrium equation[16]. |
+| 2664 | well hydrograph | A graph of water level fluctuations in a well[16]. |
+| 2665 | well loss | Head loss caused by flow through a screen and inside a well[16]. |
+| 2666 | well-sorted grains | An assortment of grains having the same diameter[16]. |
+| 2667 | well yield | The volume of water discharged from a well in gallons per minute or cubic meters per day. |
+| 2668 | wet line | That portion of line of submerged under water in stream measurements[16]. |
+| 2669 | wet suit | A diving garment of foam neoprene designed to insulate the diver from the cold but which allows a thin film of water to penetrate between the suit and the body[25]. |
+| 2670 | wetland | A general term used for a group of wet habitats, in common use by specialists in wildlife management.  It includes areas that are permanently wet and/or intermittently water-covered, especially coastal marshes, tidal swamps and flats, and associated pools, sloughs, and bayous[1]. |
+| 2671 | wettability | The property of a solid substance to be wetted by a liquid such as water[16]. |
+| 2672 | wetted area | The cross sectional area of that portion of a channel that is filled with water[16]. |
+| 2673 | wetted perimeter | The perimeter over which flowing water is in actual contact with the channel walls and bottom[16]. |
+| 2674 | wetting period | The period of contact between a liquid and a solid surface during which wetting occurs[16]. |
+| 2675 | whaletail | A descender consisting of an aluminium block with slots, knobs and a safety gate[25]. |
+| 2676 | whitlockite | A cave mineral — Ca9(Mg,Fe)H(PO4)7[11]. |
+| 2677 | width of contribution | The width of the contributing region between the ground-water divide from which water enters a well.  This usually occurs with an inclined piezometric surface[16]. |
+| 2678 | wilt, to | The shrinking of cell walls due to loss in turgor as a result of water deficiency in the plant[16]. |
+| 2679 | wilting coefficient, wilting point | The soil moisture content at which plants wilt[16]. |
+| 2680 | wind factor | The factor containing a monthly mean wind velocity in evaporation[16]. |
+| 2681 | wind field | The air velocity field above ground due to wind action[16]. |
+| 2682 | window | 1. In speleology, a natural opening above the floor of a passage or a room, giving access to an adjoining cavity or to the surface; larger and less symmetrical than a porthole.  2. The opening under the arch of a small natural bridge[10].  See karst window. |
+| 2683 | windypit | Open fissure, widened by landslip, common in valley side situations where limestone overlies weaker rocks such as clays or shales.  The term is commonly used to describe gulls and tectonic caves in the Jurassic limestones of north-east Yorkshire, England[9]. |
+| 2684 | withdraw, to | To draw water from an aquifer or reservoir[16]. |
+| 2685 | workover | The reworking of a well that has declined in yield[16]. |
+| 2686 | yield | The quantity of water discharged from an aquifer[16] (e.g spring or well.) See also well yield. |
+| 2687 | zadernovannyĭ karst | (Russian) See subsoil karst. |
+| 2688 | zakrytyĭ karst, skrytyĭ karst | (Russian) See closed karst. |
+| 2689 | zanjón | (Spanish) In Puerto Rico, solution trench in limestone.  Zanjónes range from a few centimeters to about 8 meters in width and from about 1 to 4 meters in depth.  Apparently they form by the widening and deepening of joints by solution[10].  See also bogaz; corridor; struga. |
+| 2690 | zero adjustment | The adjustment of a scale or a measuring circuit to an original point of departure[16]. |
+| 2691 | zonal soil profile | The normal horizontal distribution of soil zone[16]. |
+| 2692 | zonation | The organization of a habitat into a more or less orderly series of distinctive plant and animal associations as a result of variations in environmental conditions.  Zones in a cave are the twilight zone, the variable-temperature zone, and the constant-temperature zone[23]. |
+| 2693 | zone of accumulation | The second horizon of a soil profile (B), usually the zone of clay accumulation subjacent to zone (A)[16]. |
+| 2694 | zone of aeration | The zone in permeable soil or rock that is above the zone saturated with water; the zone of vadose water[10].  See also vadose zone. |
+| 2695 | zone of investigation | The zone over which a given measuring device is able to obtain information[16]. |
+| 2696 | zone of leaching | The top horizon of a soil profile (A) that is most intensely weathered[16]. |
+| 2697 | zone of saturation | The zone in permeable soil or rock that is saturated with water; the phreatic zone[10].  See also phreatic zone. |
+| 2698 | zones of karstification | Cvijič (1926, 1960) distinguishes three zones of karstification: (1) dry zone in the upper part of the karst with caves almost completely dry; (2) transition zone where water flows downstream almost permanently; and (3) deep zone with slow downstream flow and local siphons[20].  Synonyms: (French) zones de karstification; (German) Zone der Verkarstung; (Greek) zoni karstikopiiseos; (Italian) zone idrogeologiche; (Spanish) zona de karstificación; (Turkish) karstlaşma kuşagı; (Yugoslavian) zone karstifikacije. |
+| 2699 | Zwischenhöhle | (German)  Cave in which a river passage, or former river passage, is entered from above or laterally and which can be followed upstream and downstream some distance but not to daylight[10]. |
 
