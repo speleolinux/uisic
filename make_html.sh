@@ -8,8 +8,10 @@ header="assets/header.html"
 footer="assets/footer.html"
 output="epa_mfield_2002_utf8_short.html"
 
-export TZ="Australia/Sydney"
+# Added H:M to ensure file is changed.
 today=$(date +"%A, %d %B %Y at %H:%M %p")
+
+export TZ="Australia/Sydney"
 
 cat $header > $output
 echo '<style type="text/css">' >> $output
