@@ -9,6 +9,8 @@ footer="assets/footer.html"
 output="epa_mfield_2002_utf8_short.html"
 
 # Added H:M to ensure file is changed.
+# Otherwise the index.html has not changed and the git push
+# will fail, reporting back that the CI has failed.
 today=$(date +"%A, %d %B %Y at %H:%M %p")
 
 export TZ="Australia/Sydney"
