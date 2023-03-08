@@ -6,7 +6,7 @@ input="mfield_data/epa_mfield_2002_utf8_short.md"
 styles="assets/styles.css"
 header="assets/header.html"
 footer="assets/footer.html"
-output="epa_mfield_2002_utf8_short.html"
+output="epa_mfield_2002_utf8.html"
 
 # Added H:M to ensure file is changed.
 # Otherwise the index.html has not changed and the git push
