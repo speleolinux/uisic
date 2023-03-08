@@ -38,6 +38,8 @@ cat tmp1 | sed 's/ class="odd"//' > tmp2
 cat tmp2 >> $output
 cat $footer >> $output
 
+mv $output docs/index.html
+
 # Cleanup
 rm -f tmp1
 rm -f tmp2

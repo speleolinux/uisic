@@ -49,7 +49,6 @@ jobs:
       - name: Build2
         run: |
           ./make_html.sh
-          mv epa_mfield_2002_utf8_short.html docs/index.html
           git config user.email "noreplay@localhost"
           git config user.name "GIT CI"
           git add docs/index.html
