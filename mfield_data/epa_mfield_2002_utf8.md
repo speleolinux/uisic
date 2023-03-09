@@ -2632,8 +2632,8 @@
 | 2630 | water-holding capacity | See specific retention. |
 | 2631 | water invasion | The sudden invasion of water into a well or borehole[16]. |
 | 2632 | water level | The level of free surface of a water body or water column[16]. |
-| 2633 | water logged | Water saturated[16]. |
-| 2634 | water logging | Water accumulation on top of soil where the water table and ground surface coincide[16]. |
+| 2633 | water logged | See waterlogged. |
+| 2634 | water logging | See waterlogging. |
 | 2635 | water of constitution | Chemically bound water[16]. |
 | 2636 | water of crystallization | Water embodied in crystal structure[16]. |
 | 2637 | water of dehydration | Water freed from hydrous minerals by chemical changes[16]. |
@@ -2651,8 +2651,8 @@
 | 2649 | water trap, watertrap | A place where the roof of a chamber or passage of a cave dips under water but lifts again farther on[10].  Synonym: trap. |
 | 2650 | water works | A plant where water is treated and prepared for municipal consumption[16]. |
 | 2651 | water year | A 12 month period for streamflow computation[16]. |
-| 2652 | waterlogged | Water saturated. |
-| 2653 | waterlogging | Water accumulation on top of soil where the water table and ground surface coincide. |
+| 2652 | waterlogged | Water saturated[16]. |
+| 2653 | waterlogging | Water accumulation on top of soil where the water table and ground surface coincide[16]. |
 | 2654 | watershed | 1. A drainage basin[16].  2. A divide separating one drainage basin from another[16]. |
 | 2655 | waterway | An artificial or natural watercourse fit for navigation. |
 | 2656 | wave karren | Wavy karren surfaces that appear similar to corrugated tin.  When denuded they are a disposition for the formation of Rinnenkarren[3].  See also covered karren; Rinnenkarren; root karren. |
