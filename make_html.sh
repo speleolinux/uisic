@@ -2,7 +2,7 @@
 
 # Script to generate HTML page from the Markdown document.
 
-input="mfield_data/epa_mfield_2002_utf8_short.md"
+input="mfield_data/epa_mfield_2002_utf8.md"
 styles="assets/styles.css"
 header="assets/header.html"
 footer="assets/footer.html"
