@@ -1,6 +1,8 @@
 #!/bin/bash
 
 # Script to generate HTML page from the Markdown document.
+# Author: Mike Lake
+# Date: March 2023
 
 input="mfield_data/epa_mfield_2002_utf8.md"
 styles="assets/styles.css"
