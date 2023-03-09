@@ -218,7 +218,7 @@
 | 216 | bathyphreatic zone | See bathyphreatic, ground water, phreas. |
 | 217 | bathometer | An instrument for measuring water depths in wells[16]. |
 | 218 | beach | A shore consisting of sand or gravel deposits[16]. |
-| 219 | beachrock | 1.  Rock composed of sand grains and/or sand-sized shell fragments cemented by calcium carbonate, commonly formed very rapidly on some beaches in tropical and sub-tropical areas.  Beachrock generally occurs as thin beds between bedding planes that dip seawards at angles similar to those of the beach slope[9].  2. A friable to indurated rock consisting of sand grains of various minerals cemented by calcium carbonate; occurs in thin beds dipping seaward at less than 15◦.  Also known as beach sandstone[10]. |
+| 219 | beachrock | 1.  Rock composed of sand grains and/or sand-sized shell fragments cemented by calcium carbonate, commonly formed very rapidly on some beaches in tropical and sub-tropical areas.  Beachrock generally occurs as thin beds between bedding planes that dip seawards at angles similar to those of the beach slope[9].  2. A friable to indurated rock consisting of sand grains of various minerals cemented by calcium carbonate; occurs in thin beds dipping seaward at less than 15°.  Also known as beach sandstone[10]. |
 | 220 | bearing | The angle measured clockwise that a line makes with the north line.  True, magnetic and grid bearings are measured respectively from true, magnetic and grid north[25]. |
 | 221 | bed | 1. A layer in sedimentary rocks; a stratum[10].  2. A sedimentary deposit of relatively small thickness and great areal extent, separated by bedding planes from over- and underlying deposits[16]. |
 | 222 | bed load | See bedload. |
@@ -1389,7 +1389,7 @@
 | 1387 | kras; krš | A slavic word meaning bleak, waterless place, from which the term karst is derived[10]. See also karst. |
 | 1388 | Kugelkarst | See Halbkugelkarst. |
 | 1389 | kunker | See caliche. |
-| 1390 | laboratory coefficient of permeability, standard coefficient of permeability | Permeability defined for controlled temperature conditions (60◦F) as gallons per day per square foot (gpd/ft2) under a unit gradient[16].  See also Meinzer unit. |
+| 1390 | laboratory coefficient of permeability, standard coefficient of permeability | Permeability defined for controlled temperature conditions (60°F) as gallons per day per square foot (gpd/ft2) under a unit gradient[16].  See also Meinzer unit. |
 | 1391 | labyrinth | See network; maze cave. |
 | 1392 | lacustrine formation | A sedimentary formation of lacustrine origin. |
 | 1393 | ladder | In caving, a flexible, lightweight ladder of galvanized or stainless steel wires and aluminium alloy rungs[25]. |
@@ -1733,7 +1733,7 @@
 | 1731 | permanent wilting point | Saturation at which permanent wilting occurs[16]. |
 | 1732 | permeability | See hydraulic conductivity; permeability, intrinsic . |
 | 1733 | permeability barrier | See barrier, permeability. |
-| 1734 | permeability coefficient | The rate of flow of water through a unit cross-sectional area under a unit hydraulic gradient at the prevailing temperature (field permeability coefficient) or adjusted to a temperature of 15◦C[22]. |
+| 1734 | permeability coefficient | The rate of flow of water through a unit cross-sectional area under a unit hydraulic gradient at the prevailing temperature (field permeability coefficient) or adjusted to a temperature of 15°C[22]. |
 | 1735 | permeability, effective | The observed permeability of a porous medium to one fluid phase under conditions of physical interaction between this phase and other fluid phases present[22]. |
 | 1736 | permeability, intrinsic | 1.  A measure of the ability of a medium to transmit a fluid through a porous medium.  It is a function of the medium only and is proportional to the mean grain size diameter.  2. A measure of the relative ease with which a porous medium can transmit a fluid under a potential gradient and is a property of the medium alone[22].  3. The property of a porous medium itself that expresses the ease with which gases, liquids, or other substances can pass through it[22]. |
 | 1737 | permeability, relative | 1. The ratio of the effective permeability for a given flow phase to the intrinsic permeability of the porous medium[22].  2. The ratio of the effective and specific permeabilities[22].  3. The ratio of permeability of one immiscible phase to intrinsic permeability in multiphase flow[16]. |
@@ -2625,7 +2625,7 @@
 | 2623 | water budget | The quantitative accounting of water volumes involved in the hydrologic cycle[16]. |
 | 2624 | water catchment | The intake of water from an aquifer or a surface reservoir[16]. |
 | 2625 | water conservation | All measures to reduce the quantitative of qualitative spoilage of water[16]. |
-| 2626 | water content | The amount of water lost from the soil after drying it to constant weight at 105◦C, expressed either as the weight of water per unit weight of dry soil or as the volume of water per unit bulk volume of soil[22].  See moisture content. |
+| 2626 | water content | The amount of water lost from the soil after drying it to constant weight at 105°C, expressed either as the weight of water per unit weight of dry soil or as the volume of water per unit bulk volume of soil[22].  See moisture content. |
 | 2627 | water course | Any channel conveying water[16]. |
 | 2628 | water equivalent | The depth of water resulting from the melting of snow[16]. |
 | 2629 | water hammer | An abnormally high pressure rise in a pipe when sudden changes in flow occur[16]. |
