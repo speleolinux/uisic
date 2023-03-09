@@ -1631,7 +1631,7 @@
 | 1629 | nothephreatic | Referring to water moving slowly in cavities in the phreatic zone[25]. |
 | 1630 | numbering | Assigning an alphanumeric index to a cave entrance[25]. |
 | 1631 | oasis | A limited area in a desert supplied with water[16]. |
-| 1632 | obruk | Turkish form for a vertical or steepsided depression or shaft in karst, often formed by collapse of roof of an underground cave or cavern.  When the depression contains a lake of pond, it is known as "sulu obruk" or "obruk gölü".  When it is dry, it is called "kuru obruk" or just "obruk".  Synonyms: (French) obruk; (German) Schlot; (Greek) "obruk" (káthetos karstikós lákkos); (Italian) pozzo carsico; (Spanish) torca; (Turkish) obruk; (Yugoslavian) jama.  See cenote, dolina, jama, pit, shaft, sinkhole. |
+| 1632 | obruk | Turkish term for a vertical or steepsided depression or shaft in karst, often formed by collapse of roof of an underground cave or cavern.  When the depression contains a lake of pond, it is known as "sulu obruk" or "obruk gölü".  When it is dry, it is called "kuru obruk" or just "obruk".  Synonyms: (French) obruk; (German) Schlot; (Greek) "obruk" (káthetos karstikós lákkos); (Italian) pozzo carsico; (Spanish) torca; (Turkish) obruk; (Yugoslavian) jama.  See cenote, dolina, jama, pit, shaft, sinkhole. |
 | 1633 | obsequent river | A river flowing in a direction opposite to that of the dip of the underlying strata[16]. |
 | 1634 | observation well | A well drilled for the purpose of observations such as water level or pressure recordings[16]. |
 | 1635 | oceanic water | Sea water with a total salt content of about 34,500 ppm[16]. |
