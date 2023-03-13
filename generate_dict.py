@@ -18,7 +18,7 @@ import sys, os, csv
 # Configuration
 ###############
 
-DEBUG = False
+DEBUG = True
 
 # Base directory where the CSV files reside.
 base_dir='lextables'
@@ -29,6 +29,7 @@ master_filename = 'CO0000.CSV'
 # The languages variable is a dictionary, the keys being the language code.
 # Note: When the language tables are read in from CSV the values here will
 # be replaced. Edit this when you wish to add another language.
+# Note: This is a global variable.
 languages={
 "AR":"Arabic",
 "BG":"Bulgarian",
@@ -110,9 +111,11 @@ def read_languages():
 
 def print_language(lang_code):
     '''
-    Inputs: - A concept number, e.g. 1
-            - A language code as uppercase, e.g. EN
-    Output: A formatted string of the data, e.g. "en: littoral cave; sea cave"
+    Inputs: - A concept number, e.g. 
+            - The languages dictionary containing all the languages.
+            - A language code to select one of these languages as uppercase, e.g. EN
+    Output: A formatted string of the data, for this concept and language 
+            e.g. "en: littoral cave; sea cave"
     '''
     entry = []
     for row in csv.reader(languages[lang_code].splitlines(), delimiter=',', quotechar='"'):
