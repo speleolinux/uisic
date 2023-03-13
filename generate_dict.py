@@ -105,13 +105,14 @@ def read_languages(languages):
         else:
             print('reading ', lang_file) if DEBUG else None
             # For key = 'EN' we will store the English terms in the value of this variable. 
-            # i.e.  languages['EN'] = "0,1,"English: This Concept 0 ...\n 0,2,"all sample characters..\n"
+            # i.e.  languages['EN'] = '0,1,"English: This Concept 0 ...\n 0,2,"all sample characters..\n'
             with open(lang_file, 'r') as file:
                 languages[key] = file.read()
 
+    # Return the changed languages dictionary.
     return languages
 
-def print_language(lang_code):
+def print_language(concept, languages, lang_code):
     '''
     Inputs: - A concept number, e.g. 
             - The languages dictionary containing all the languages.
@@ -121,7 +122,7 @@ def print_language(lang_code):
     '''
     entry = []
     for row in csv.reader(languages[lang_code].splitlines(), delimiter=',', quotechar='"'):
-        if row[0] == concept:
+        if int(row[0]) == concept:
             # e.g. if concept = 1 and for English.
             # 1,1,"littoral cave"   <== row[2] = "littoral cave"
             # 1,2,"sea cave"        <== row[2] = "sea cave"
@@ -144,11 +145,11 @@ master = os.path.join(base_dir, master_filename)
 # Read in all the language tables.
 languages = read_languages(languages)
 
-#print_language('EN')
-
 if DEBUG:
+    print('\nDEBUG: Printing one concept in one language table:')
+    print_language(1, languages, 'EN')
     print('\nDEBUG: Printing one of the language tables as CSV:')
-    print(languages['JA']) if DEBUG else None
+    print(languages['EN']) if DEBUG else None
     print('\nDEBUG: Printing one of the language tables as a list:')
     for row in csv.reader(languages['JA'].splitlines(), delimiter=',', quotechar='"'):
         print('length=', len(row), row)
@@ -164,7 +165,7 @@ with open(master, newline='') as csvfile:
 
         # The first integer is the concept number.
         # Save this and then remove it from the row list.
-        concept = row.pop(0)
+        concept = int(row.pop(0))
 
         # The second and subsequent integers are the subject codes
         # which we concatenate into a string.
@@ -175,11 +176,11 @@ with open(master, newline='') as csvfile:
         print('\n', concept, ':', sep='')
 
         # We wish to print English first!
-        print_language('EN')
+        print_language(concept, languages, 'EN')
 
         # Now print the other languages.
         for key in languages.keys():
             if key == 'EN':
                 continue
-            print_language(key)
+            print_language(concept, languages, key)
 
