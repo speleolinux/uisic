@@ -89,13 +89,16 @@ def read_languages():
       344,1,"residual hill in polje"
 
     '''
+    print('\nDEBUG; Reading in language tables:') if DEBUG else None
     for key in languages.keys():
-        # We print the key and its current, default value, so the user knows what
-        # language is being read. However when read the values will be replaced
-        # with the contents of the language file as a string.
-        print(key, '=', languages[key], sep=' ', end=' ')
+        # If debugging we print the key and its current, default value, so the
+        # user knows what language is being read. However when read the values
+        # will be replaced with the contents of the language file as a string.
+        print(key, '=', languages[key], sep=' ', end=' ') if DEBUG else None
+
         # Check if a language file for this language can be found.
         lang_file = os.path.join(base_dir, key + '.CSV')
+
         if not os.path.exists(lang_file):
             print('ERROR: missing file ', lang_file, 'for language', key)
         else:
@@ -128,29 +131,33 @@ def print_language (lang_code):
 # Path to the master table.
 master = os.path.join(base_dir, master_filename)
 
-print("\nDEBUG: Reading in the language tables ...") if DEBUG else None
+# Read in all the language tables.
 read_languages()
 
-#print(languages['EN']) if DEBUG else None
-#for row in csv.reader(languages['JA'].splitlines(), delimiter=',', quotechar='"'):
-#    print('  ', len(row), row)
+if DEBUG:
+    print('\nDEBUG: Printing one of the language tables as CSV:')
+    print(languages['JA']) if DEBUG else None
+    print('\nDEBUG: Printing one of the language tables as a list:')
+    for row in csv.reader(languages['JA'].splitlines(), delimiter=',', quotechar='"'):
+        print('length=', len(row), row)
 
-print("\nReading in the master table ...")
+# Now we read in the master table and iterate over each concept.
 with open(master, newline='') as csvfile:
-    # Use the basic CSV reader to loop over the concepts.
     reader = csv.reader(csvfile, delimiter=',', quotechar='"')
     for row in reader:
         # Concept zero can be skipped by uncommenting these lines.
         #if row[0] == '0':
         #    print('Skipping row zero.')
         #    continue
-        #
+
         # The first integer is the concept number.
-        # The second list of integers are the subject levels which we
-        # concatenate into a string.
+        # Save this and then remove it from the row list.
         concept = row.pop(0)
-        # Concatenate subject codes.
+
+        # The second and subsequent integers are the subject codes
+        # which we concatenate into a string.
         subject = ''.join(row)
+
         #print('\nConcept=', concept, ' Subject Code=', subject, sep='')
         print('\n------------------------------------------------------------------------', end='')
         print('\n', concept, ':', sep='')
