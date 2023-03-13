@@ -74,7 +74,7 @@ def read_subject_names ():
     subj_names_en = 'SUUENNAM.CSV'
     subj_names_fr = 'SUUFRNAM.CSV'
 
-def read_languages():
+def read_languages(languages):
     '''
     This reads in the contents of all the language files with names like
     EN.CSV, AR,CSV ... ZH.CSV
@@ -109,6 +109,8 @@ def read_languages():
             with open(lang_file, 'r') as file:
                 languages[key] = file.read()
 
+    return languages
+
 def print_language(lang_code):
     '''
     Inputs: - A concept number, e.g. 
@@ -140,10 +142,9 @@ def print_language(lang_code):
 master = os.path.join(base_dir, master_filename)
 
 # Read in all the language tables.
-read_languages()
+languages = read_languages(languages)
 
 #print_language('EN')
-#sys.exit()
 
 if DEBUG:
     print('\nDEBUG: Printing one of the language tables as CSV:')
