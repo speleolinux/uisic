@@ -18,6 +18,8 @@ import sys, os, csv
 # Configuration
 ###############
 
+DEBUG = False
+
 # Base directory where the CSV files reside.
 base_dir='lextables'
 
@@ -57,8 +59,6 @@ languages={
 "UK":"Ukrainian",
 "ZH":"Chinese"
 }
-
-DEBUG = True
 
 ###########
 # Functions
@@ -107,20 +107,25 @@ def read_languages():
             # i.e.  languages['EN'] = "0,1,"English: This Concept 0 ...\n 0,2,"all sample characters..\n"
             with open(lang_file, 'r') as file:
                 languages[key] = file.read()
-    
-def print_language (lang_code):
+
+def print_language(lang_code):
     '''
-    TODO
+    Inputs: - A concept number, e.g. 1
+            - A language code as uppercase, e.g. EN
+    Output: A formatted string of the data, e.g. "en: littoral cave; sea cave"
     '''
     entry = []
     for row in csv.reader(languages[lang_code].splitlines(), delimiter=',', quotechar='"'):
         if row[0] == concept:
-            # 1,1,"littoral cave"
-            # 1,2,"sea cave"
+            # e.g. if concept = 1 and for English.
+            # 1,1,"littoral cave"   <== row[2] = "littoral cave"
+            # 1,2,"sea cave"        <== row[2] = "sea cave"
             if row[2]:
                 entry.append(row[2])
-            #print(key.lower(), ': ', sep='')
-            #print('  row=',row, ' row[2]=',row[2], ' >> entry=',entry, sep='')
+            # In example entry[] is now ['littoral cave', 'sea cave']
+            # Uncomment the line below for detailed debugging.
+            # print('   row=',row, '\n   row[2]=',row[2], '\n   => entry=',entry, sep='')
+    # Print lang_code(lower case) and string from the concatenated entry list. 
     print(lang_code.lower(), ': ', '; '.join(entry), sep='' )
 
 
@@ -133,6 +138,9 @@ master = os.path.join(base_dir, master_filename)
 
 # Read in all the language tables.
 read_languages()
+
+#print_language('EN')
+#sys.exit()
 
 if DEBUG:
     print('\nDEBUG: Printing one of the language tables as CSV:')
@@ -163,11 +171,11 @@ with open(master, newline='') as csvfile:
         print('\n', concept, ':', sep='')
 
         # We wish to print English first!
-        print_language ('EN')
+        print_language('EN')
 
         # Now print the other languages.
         for key in languages.keys():
             if key == 'EN':
                 continue
-            print_language (key)
+            print_language(key)
 
