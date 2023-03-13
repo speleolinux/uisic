@@ -65,7 +65,7 @@ languages={
 # Functions
 ###########
 
-def read_subject_names ():
+def read_subject_names():
     '''
     TODO
     '''
@@ -104,8 +104,9 @@ def read_languages(languages):
             print('ERROR: missing file ', lang_file, 'for language', key)
         else:
             print('reading ', lang_file) if DEBUG else None
-            # For key = 'EN' we will store the English terms in the value of this variable. 
-            # i.e.  languages['EN'] = '0,1,"English: This Concept 0 ...\n 0,2,"all sample characters..\n'
+            # For key e.g. 'EN' we will store the English terms in the value
+            # of this variable i.e. languages['EN'] would be the long string:
+            # '0,1,"English: This Concept 0 ...\n 0,2,"all sample characters..\n'
             with open(lang_file, 'r') as file:
                 languages[key] = file.read()
 
