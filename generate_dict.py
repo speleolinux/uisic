@@ -7,11 +7,6 @@ Program to read UISIC dictionary CSV files and create the
 
 Author: Mike Lake
 Date: 12 March 2023
-
-TODO:
- - pronunciations are not yet included
-   ja: 海食洞 (kaishokudo); 湖食洞 (kosyokudo); 湖成洞 (koseido)
-
 '''
 
 import sys, os, csv
@@ -111,20 +106,51 @@ def read_languages(base_dir, languages):
 
 def print_language(concept, languages, lang_code):
     '''
-    Inputs: - A concept number, e.g. 
+    For a given concept (e.g. 3) and a language code (e.g. EN), this prints
+    a formatted string which for 3, EN would be: 
+      en: pit (US); pitch (GB); pot; shaft
+
+    Inputs: - A concept number, e.g. 3.
             - The languages dictionary containing all the languages.
             - A language code to select one of these languages as uppercase, e.g. EN
-    Output: A formatted string of the data, for this concept and language 
-            e.g. "en: littoral cave; sea cave"
+    Output: A formatted string of the words, for this concept and language.
+            e.g. for concept 1 and language = EN output would be:
+            "en: littoral cave; sea cave"
+
+    If there is a pronunciation column for a language table then the output
+    would be e.g.:
+        for concept 1 and language = JA:
+        ja: 海食洞 (kaishokudo); 湖食洞 (kosyokudo); 湖成洞 (koseido)
+        for concept 3 and language = JA::
+        ja: 竪穴 (tateana); ピット (pitto); シャフト (shafuto)
+
+    Note: Pronunciations are in column 4 (row[3]) but only in some 
+        language tables like JA and Zh.
+        JA.CSV
+        1,1,"海食洞","kaishokudo"
+        1,2,"湖食洞","kosyokudo"
+        1,3,"湖成洞","koseido"
+        ...
+        3,1,"竪穴","tateana"
+        3,2,"ピット","pitto"
+        3,3,"シャフト","shafuto"
     '''
+
     words = []
     for row in csv.reader(languages[lang_code].splitlines(), delimiter=',', quotechar='"'):
+        pronunciation = None
         if int(row[0]) == concept:
             # e.g. if concept = 1 and for English.
             # 1,1,"littoral cave"   <== row[2] = "littoral cave"
             # 1,2,"sea cave"        <== row[2] = "sea cave"
-            if row[2]:
-                words.append(row[2])
+            word = row[2]
+            if len(row) == 4:
+                # Get the pronunciation for this word.
+                pronunciation = '(%s)' % row[3]
+            if row[2] and pronunciation is None:
+                words.append(word)
+            if [row[2] and pronunciation is not None]:
+                words.append('%s %s' % (word, pronunciation))
 
     # In the example above words[] is now ['littoral cave', 'sea cave'].
     # In the code below we join this words list with a "colon and space" to a
