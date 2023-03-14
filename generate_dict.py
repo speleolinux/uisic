@@ -115,20 +115,24 @@ def print_language(concept, languages, lang_code):
     Output: A formatted string of the data, for this concept and language 
             e.g. "en: littoral cave; sea cave"
     '''
-    entry = []
+    words = []
     for row in csv.reader(languages[lang_code].splitlines(), delimiter=',', quotechar='"'):
         if int(row[0]) == concept:
             # e.g. if concept = 1 and for English.
             # 1,1,"littoral cave"   <== row[2] = "littoral cave"
             # 1,2,"sea cave"        <== row[2] = "sea cave"
             if row[2]:
-                entry.append(row[2])
-            # In example entry[] is now ['littoral cave', 'sea cave']
+                words.append(row[2])
+            # In example words[] is now ['littoral cave', 'sea cave']
             # Uncomment the line below for detailed debugging.
-            # print('   row=',row, '\n   row[2]=',row[2], '\n   => entry=',entry, sep='')
-    # Print lang_code(lower case) and string from the concatenated entry list. 
-    print(lang_code.lower(), ': ', '; '.join(entry), sep='' )
-
+            # print('   row=',row, '\n   row[2]=',row[2], '\n   => words=',words, sep='')
+    # In the code below we join this words list with a "colon and space" to a
+    # word string using this code: '; '.join(words) <== see below.
+    # We then print lang_code(lower case), a colon, and this string.
+    # Examples:
+    #   en: littoral cave; sea cave             <== for concept 1, English
+    #   en: pit (US); pitch (GB); pot; shaft    <== for concept 3, Englist
+    print(lang_code.lower(), ': ', '; '.join(words), sep='' )
 
 def main():
 
