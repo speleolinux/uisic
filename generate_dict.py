@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
 '''
 Program to read UISIC dictionary CSV files and create the 
@@ -9,6 +10,7 @@ Date: 12 March 2023
 
 TODO:
  - pronunciations are not yet included
+   ja: 海食洞 (kaishokudo); 湖食洞 (kosyokudo); 湖成洞 (koseido)
 
 '''
 
@@ -123,13 +125,12 @@ def print_language(concept, languages, lang_code):
             # 1,2,"sea cave"        <== row[2] = "sea cave"
             if row[2]:
                 words.append(row[2])
-            # In example words[] is now ['littoral cave', 'sea cave']
-            # Uncomment the line below for detailed debugging.
-            # print('   row=',row, '\n   row[2]=',row[2], '\n   => words=',words, sep='')
+
+    # In the example above words[] is now ['littoral cave', 'sea cave'].
     # In the code below we join this words list with a "colon and space" to a
-    # word string using this code: '; '.join(words) <== see below.
+    # word string using this code:  '; '.join(words) <== see below.
     # We then print lang_code(lower case), a colon, and this string.
-    # Examples:
+    # The final string to print would be e.g.
     #   en: littoral cave; sea cave             <== for concept 1, English
     #   en: pit (US); pitch (GB); pot; shaft    <== for concept 3, Englist
     print(lang_code.lower(), ': ', '; '.join(words), sep='' )
