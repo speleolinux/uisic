@@ -138,8 +138,8 @@ def print_language(concept, languages, lang_code):
 
     words = []
     for row in csv.reader(languages[lang_code].splitlines(), delimiter=',', quotechar='"'):
-        pronunciation = None
         if int(row[0]) == concept:
+            pronunciation = None
             # e.g. if concept = 1 and for English.
             # 1,1,"littoral cave"   <== row[2] = "littoral cave"
             # 1,2,"sea cave"        <== row[2] = "sea cave"
@@ -149,7 +149,7 @@ def print_language(concept, languages, lang_code):
                 pronunciation = '(%s)' % row[3]
             if row[2] and pronunciation is None:
                 words.append(word)
-            if [row[2] and pronunciation is not None]:
+            if row[2] and pronunciation is not None:
                 words.append('%s %s' % (word, pronunciation))
 
     # In the example above words[] is now ['littoral cave', 'sea cave'].
