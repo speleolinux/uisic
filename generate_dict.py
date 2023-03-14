@@ -181,7 +181,7 @@ def main():
         print('\nDEBUG: Printing one concept in one language table:')
         print_language(1, languages, 'EN')
         print('\nDEBUG: Printing one of the language tables as CSV:')
-        print(languages['EN']) if DEBUG else None
+        print(languages['EN'])
         print('\nDEBUG: Printing one of the language tables as a list:')
         for row in csv.reader(languages['JA'].splitlines(), delimiter=',', quotechar='"'):
             print('length=', len(row), row)
