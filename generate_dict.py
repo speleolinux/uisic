@@ -20,17 +20,11 @@ import sys, os, csv
 
 DEBUG = True
 
-# Base directory where the CSV files reside.
-base_dir='lextables'
-
-# Master table
-master_filename = 'CO0000.CSV'
-
 # The languages variable is a dictionary, the keys being the language code.
 # Note: When the language tables are read in from CSV the values here will
 # be replaced. Edit this when you wish to add another language.
 # Note: This is a global variable.
-languages={
+languages = {
 "AR":"Arabic",
 "BG":"Bulgarian",
 "DE":"German",
@@ -74,7 +68,7 @@ def read_subject_names():
     subj_names_en = 'SUUENNAM.CSV'
     subj_names_fr = 'SUUFRNAM.CSV'
 
-def read_languages(languages):
+def read_languages(base_dir, languages):
     '''
     This reads in the contents of all the language files with names like
     EN.CSV, AR,CSV ... ZH.CSV
@@ -136,52 +130,62 @@ def print_language(concept, languages, lang_code):
     print(lang_code.lower(), ': ', '; '.join(entry), sep='' )
 
 
-######
-# Main 
-######
+def main():
 
-# Path to the master table.
-master = os.path.join(base_dir, master_filename)
+    global languages
 
-# Read in all the language tables.
-languages = read_languages(languages)
+    # Base directory where the CSV files reside.
+    base_dir='lextables'
 
-if DEBUG:
-    print('\nDEBUG: Printing one concept in one language table:')
-    print_language(1, languages, 'EN')
-    print('\nDEBUG: Printing one of the language tables as CSV:')
-    print(languages['EN']) if DEBUG else None
-    print('\nDEBUG: Printing one of the language tables as a list:')
-    for row in csv.reader(languages['JA'].splitlines(), delimiter=',', quotechar='"'):
-        print('length=', len(row), row)
+    # Master table
+    master_filename = 'CO0000.CSV'
 
-# Now we read in the master table and iterate over each concept.
-with open(master, newline='') as csvfile:
-    reader = csv.reader(csvfile, delimiter=',', quotechar='"')
-    for row in reader:
-        # Concept zero can be skipped by uncommenting these lines.
-        #if row[0] == '0':
-        #    print('Skipping row zero.')
-        #    continue
+    # Path to the master table.
+    master = os.path.join(base_dir, master_filename)
+    
+    # Read in all the language tables.
+    languages = read_languages(base_dir, languages)
+    
+    if DEBUG:
+        print('\nDEBUG: Printing one concept in one language table:')
+        print_language(1, languages, 'EN')
+        print('\nDEBUG: Printing one of the language tables as CSV:')
+        print(languages['EN']) if DEBUG else None
+        print('\nDEBUG: Printing one of the language tables as a list:')
+        for row in csv.reader(languages['JA'].splitlines(), delimiter=',', quotechar='"'):
+            print('length=', len(row), row)
+    
+    # Now we read in the master table and iterate over each concept.
+    with open(master, newline='') as csvfile:
+        reader = csv.reader(csvfile, delimiter=',', quotechar='"')
+        for row in reader:
+            # Concept zero can be skipped by uncommenting these lines.
+            #if row[0] == '0':
+            #    print('Skipping row zero.')
+            #    continue
+    
+            # The first integer is the concept number.
+            # Save this and then remove it from the row list.
+            concept = int(row.pop(0))
+    
+            # The second and subsequent integers are the subject codes
+            # which we concatenate into a string.
+            subject = ''.join(row)
+    
+            #print('\nConcept=', concept, ' Subject Code=', subject, sep='')
+            print('\n------------------------------------------------------------------------', end='')
+            print('\n', concept, ':', sep='')
+    
+            # We wish to print English first!
+            print_language(concept, languages, 'EN')
+    
+            # Now print the other languages.
+            for key in languages.keys():
+                if key == 'EN':
+                    continue
+                print_language(concept, languages, key)
 
-        # The first integer is the concept number.
-        # Save this and then remove it from the row list.
-        concept = int(row.pop(0))
 
-        # The second and subsequent integers are the subject codes
-        # which we concatenate into a string.
-        subject = ''.join(row)
-
-        #print('\nConcept=', concept, ' Subject Code=', subject, sep='')
-        print('\n------------------------------------------------------------------------', end='')
-        print('\n', concept, ':', sep='')
-
-        # We wish to print English first!
-        print_language(concept, languages, 'EN')
-
-        # Now print the other languages.
-        for key in languages.keys():
-            if key == 'EN':
-                continue
-            print_language(concept, languages, key)
+if __name__ == '__main__':
+    main()
 
