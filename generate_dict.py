@@ -159,7 +159,9 @@ def print_language(concept, languages, lang_code):
     # The final string to print would be e.g.
     #   en: littoral cave; sea cave             <== for concept 1, English
     #   en: pit (US); pitch (GB); pot; shaft    <== for concept 3, Englist
-    print(lang_code.lower(), ': ', '; '.join(words), sep='' )
+    language_string = lang_code.lower() + ': ' + '; '.join(words)
+
+    return language_string
 
 def main():
 
@@ -179,7 +181,7 @@ def main():
     
     if DEBUG:
         print('\nDEBUG: Printing one concept in one language table:')
-        print_language(1, languages, 'EN')
+        print(print_language(1, languages, 'JA'))
         print('\nDEBUG: Printing one of the language tables as CSV:')
         print(languages['EN'])
         print('\nDEBUG: Printing one of the language tables as a list:')
@@ -208,13 +210,15 @@ def main():
             print('\n', concept, ':', sep='')
     
             # We wish to print English first!
-            print_language(concept, languages, 'EN')
-    
+            language_string = print_language(concept, languages, 'EN')
+            print(language_string)
+
             # Now print the other languages.
             for key in languages.keys():
                 if key == 'EN':
                     continue
-                print_language(concept, languages, key)
+                language_string = print_language(concept, languages, key)
+                print(language_string)
 
 
 if __name__ == '__main__':
