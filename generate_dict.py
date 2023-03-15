@@ -104,7 +104,7 @@ def read_languages(base_dir, languages):
     # Return the changed languages dictionary.
     return languages
 
-def print_language(concept, languages, lang_code):
+def show_language(concept, languages, lang_code):
     '''
     For a given concept (e.g. 3) and a language code (e.g. EN), this prints
     a formatted string which for 3, EN would be: 
@@ -181,7 +181,7 @@ def main():
     
     if DEBUG:
         print('\nDEBUG: Printing one concept in one language table:')
-        print(print_language(1, languages, 'JA'))
+        print(show_language(1, languages, 'JA'))
         print('\nDEBUG: Printing one of the language tables as CSV:')
         print(languages['EN'])
         print('\nDEBUG: Printing one of the language tables as a list:')
@@ -210,14 +210,14 @@ def main():
             print('\n', concept, ':', sep='')
     
             # We wish to print English first!
-            language_string = print_language(concept, languages, 'EN')
+            language_string = show_language(concept, languages, 'EN')
             print(language_string)
 
             # Now print the other languages.
             for key in languages.keys():
                 if key == 'EN':
                     continue
-                language_string = print_language(concept, languages, key)
+                language_string = show_language(concept, languages, key)
                 print(language_string)
 
 
