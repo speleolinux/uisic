@@ -109,7 +109,7 @@
 | 107 | anthropocentric definitions | Definitions of caves or parts of caves that include accessibility by human explorers as one of their limiting conditions.  Most well known among these is the definition published by the International Speleological Union, that "A cave is a natural underground opening in rock that is large enough for human entry" (see proto-caves) [9]. |
 | 108 | anticlinal valley | A valley that is established along the axis of an eroded anticline [16]. |
 | 109 | anticline | Upfolded stratum [16]. |
-| 110 | aphthitalite | A cave mineral — (K,Na)3Na(SO4)2 [11]. |
+| 110 | aphthitalite | A cave mineral — (K,Na)3Na(SO₄)2 [11]. |
 | 111 | apparent ground-water velocity | See specific discharge. |
 | 112 | appendage | An arm or other limb that branches from an animal's body [23]. |
 | 113 | approach segment | That part of a hydrograph curve before onset of precipitation [16]. See also hydrograph. |
@@ -180,7 +180,7 @@
 | 178 | bank storage | 1. Subsurface conduit water that has been driven back up into older, higher karst levels and into the surrounding rock matrix during a high flow period.  2. River water that has infiltrated river banks during a high flow period and being retained in temporary storage [16]. |
 | 179 | barbels | Fleshy threadlike sensory structures hanging like whiskers near the mouths of certain fish, such as catfish [23]. |
 | 180 | bare karst | A type of karst landscape lacking soil cover and where dissolution of carbonate rocks to form karst landforms occurs primarily on the exposed bedrock surface [9].  See naked karst. |
-| 181 | barite | 1. A cave mineral — BaSO4. 2. A natural finely ground barium sulfate used for increasing the density of drilling fluids [6]. |
+| 181 | barite | 1. A cave mineral — BaSO₄. 2. A natural finely ground barium sulfate used for increasing the density of drilling fluids [6]. |
 | 182 | barograph | A pressure recorder [16]. |
 | 183 | barometer | An indicator of barometric pressure [16]. |
 | 184 | barometric efficiency | The ratio of water level change to atmospheric pressure change in a well [16]. |
@@ -259,7 +259,7 @@
 | 257 | blind chimney | See chimney. |
 | 258 | blind shaft | A vertical extension upwards from part of a cave, but not reaching the surface; small in area in relation to its height [25]. |
 | 259 | blind valley | 1. A karst valley abruptly terminated by the passage underground of the watercourse which has hitherto resisted the karst processes and remained at the surface.  An intermediate type, the half-blind valley, exists in which the valley form continues downstream from the sinkhole used under conditions of normal river flow.  The watercourse only flows here intermittently and the valley may (except for its use as a flood conduit) be fossil in that it represents the section abandoned by the river as it sought progressively higher swallow holes [19]. 2. A karst valley with no evident downstream continuation, and one in which the water drains and disappears underground into one or more ponors [20].  3. A valley that terminates abruptly at a point where its stream sinks, or once sank, underground.  As sinks develop higher up the blind valley, the original valley termination may be dry under most flow conditions [9].  Related to marginal polje.  Synonyms: (French) vallée aveugle; (German) Blindtal, (Kesseltal); (Greek) kliste karstike kilas; (Italian) valle cieca, valle chiusa; (Russian) slepaja dolina; (Spanish) valle ciego; (Turkish) kör vadi; (Yugoslavian) slijepa dolina, sepa dolina.  See also half-blind valley; marginal polje. |
-| 260 | bloedite | A cave mineral — Na2Mg(SO4)2·4H2) [11]. |
+| 260 | bloedite | A cave mineral — Na2Mg(SO₄)2·4H2) [11]. |
 | 261 | blowhole | 1. Opening in the roof of a cave or cavern through which air is expelled vigorously.  In coastal areas the phenomenon is usually due to compression of air within the cave by incoming tides or waves [20].  2. Cliff top entrance to a sea cave, also known as a geo, gloop, or gloup [9].  3. (Australian) A small hole in the surface of the Nullarbor Plain through which air blows in and out with observable force, sometimes audibly [10].  Related to breathing hole.  Synonyms: (French) trou souffleur; (German) Windhöhle; (Greek) ope ekphysosa; (Italian) bocca soffiante; (Spanish) soplador; (Turkish) üflenme agzı; (Yugoslavian) vjetrenica, veternica, puhaljka, pihalnik, dihalnik.  See also steam hole. |
 | 262 | blowing cave | A cave out of which or into which a current of air flows intermittently [10]. |
 | 263 | blowing well | A well or borehole into which air is sucked and from which air is blown (often with considerable velocity) due to changes in barometric pressure or in water level.  The phenomenon indicates that the well or borehole is in communication with an underground air-filled cavity. Synonyms: (French) puits souffleur; (German) Windkamin; (Greek) ekphysosa ope; (Italian) pozzo soffiante; (Russian) dujuścij kolokec; (Spanish) sondeo soplador; (Turkish) üfleç kuyu. See also steam hole. |
@@ -297,7 +297,7 @@
 | 295 | bridging effect | The forming of arches in a packing of materials [16]. |
 | 296 | brine | Water containing more than 100,000 ppm of total dissolved solids [16]. |
 | 297 | brittle deformation | The sudden failure of a rock with complete loss of cohesion across a plane. |
-| 298 | brochantite | A cave mineral — Cu4(SO4)(OH)6 [11]. |
+| 298 | brochantite | A cave mineral — Cu4(SO₄)(OH)6 [11]. |
 | 299 | brushite | A cave mineral — CaHPO4·2H₂O [11]. |
 | 300 | bubble gage | A stage recorder based on the principle of equating a gas pressure to water level [16]. |
 | 301 | bucket | A measuring reservoir in liquid gaging instruments [16]. |
@@ -446,7 +446,7 @@
 | 444 | ceiling pocket | See pocket. |
 | 445 | ceiling slab, roof slab | A thin but extensive piece of rock that has fallen from the ceiling of a cave in roughly horizontal limestone [10].  See also cave breakdown; ceiling block. |
 | 446 | ceiling tube | A half tube remaining in the ceiling of a cave [10]. |
-| 447 | celestite | A cave mineral — SrSO4 [11]. |
+| 447 | celestite | A cave mineral — SrSO₄ [11]. |
 | 448 | cement | A microscopic textured nonskeletal void-filling material precipitated on an intragranular or intrasedimentary free surface that holds the material together [20].  Synonyms: (French) ciment; (German) Zement; (Greek) tsiménto; (Italian) cemento; (Spanish) cemento; (Turkish) çimento; (Yugoslavian) vezivo cement. |
 | 449 | cementation | The process of binding granular material together by deposition of cementing material at contact points of grains [16]. |
 | 450 | cement grout | Cement slurry of pumpable consistency [16]. |
@@ -457,7 +457,7 @@
 | 455 | cerussite | A cave mineral — PbCO3 [11]. |
 | 456 | chain gage | Water level measuring device [16]. |
 | 457 | chalk | 1. Used as a proper noun chalk describes a rock unit of Cretaceous age, that consists predominately of relatively soft, white, porous limestone with beds of marl and bands or nodules of flint.  The term is used without its initial capital to describe any rock with similar appearance and properties.  Generally chalk has a relatively high primary permeability and so rarely develops caves of explorable size, though conduit-water flow does occur.  Some harder chalks in northern France and south-eastern England hold explorable active and relict caves, which extend for many hundreds of meters [9].  2. Soft poorly indurated limestone, generally light in color; commonly composed of the tests of floating microorganisms in a matrix of very finely crystalline calcite [10]. |
-| 458 | chalcanthite | A cave mineral — CuSO4·5H₂O [11]. |
+| 458 | chalcanthite | A cave mineral — CuSO₄·5H₂O [11]. |
 | 459 | chamber | (American)  1. An enlargement in a cave passage or system, commonly formed at a junction of passages, or locally in a single passage, where erosion has been enhanced by collapse exposing more rock to dissolution.  Maximum chamber size is controlled by the strength and shape of the limestone ceiling.  The largest chamber currently known, Sarawak Chamber in Lubang Nasib Bagus, at Mulu, Sarawak, is over 700m long, up to 400m wide and nowhere less than 70m high.  It has formed where a large stream eroded sideways as it cut obliquely across the included bedding in unusually massive limestone.  It is doubtful whether a much larger chamber could exist without collapse of its roof [9].  2. The largest order of cavity in a cave or cave system; it has considerable length and breadth but not necessarily great height.  3. (British) A room in a cave [10].  Synonyms: (French) salle; (german.) Halle, Kammer, Dom; (Greek) ypoyios aethousa; (Italian) sala; (Russian) zal; (Spanish) sala, salón; (Turkish) oda; (Yugoslavian) dvorana.  See also room; passage. |
 | 460 | chandelier | Large variety of gypsum flower, with branching crystal structure that may hang many meters from a cave ceiling.  Very rare, except in Lechuguilla Cave of New Mexico [9]. |
 | 461 | channel | Natural or artificial watercourse bounded by banks [16]. |
@@ -649,7 +649,7 @@
 | 647 | curve fitting | The fitting of experimental data points to a theoretical type curve [16]. |
 | 648 | cutter | 1. (Tennessee) Solution crevice in limestone underlying residual phosphate deposits.  2. A karren-like groove formed beneath the soil, more commonly referred to as subsoil karren [10].  See also karren. |
 | 649 | cuttings | Rock chips loosened from the bottom of a borehole by drilling [16]. |
-| 650 | cyanotrichite | A cave mineral — Cu4Al2(SO4)(OH)12·2H₂O [11]. |
+| 650 | cyanotrichite | A cave mineral — Cu4Al2(SO₄)(OH)12·2H₂O [11]. |
 | 651 | cycle | Regular periodic occurrence of an event [16]. |
 | 652 | dam | A structure across a watercourse that impounds water; may be natural or artificial [16]. |
 | 653 | damping | The process of gradually reducing amplitude of a periodic event such as acoustic oscillations in velocity logging [16]. |
@@ -855,7 +855,7 @@
 | 853 | epikarstic flow | See subcutaneous flow. |
 | 854 | epilimnion | Upper layer of stratified water [16]. |
 | 855 | epiphreas, epiphreatic zone | The zone in a cave system, immediately above the phreatic zone, affected morphologically and hydrologically by floods too large for the cave to absorb at once [10]. |
-| 856 | epsomite | A cave mineral — MgSO4·7H₂O [11]. |
+| 856 | epsomite | A cave mineral — MgSO₄·7H₂O [11]. |
 | 857 | equation of hydrologic equilibrium | A mass balance for a ground-water basin [16]. |
 | 858 | equipotential line or surface | 1. A contour line on the potentiometric surface along which the pressure head of ground water in the aquifer is the same.  Fluid flow is normal to these lines in the direction of decreasing fluid potential [6].  2. Line (or surface) along which the potential is constant [22]. |
 | 859 | equivalent per million | The number of equivalent weights in a million parts per weight solution [16]. |
@@ -1117,7 +1117,7 @@
 | 1115 | gull | A widened fissure formed by land slipping along valley sides, generally where massive beds such as limestone overlie weaker rocks [9].  See also tectonic cave; windypit. |
 | 1116 | gully | A deep erosional channel [16]. |
 | 1117 | gushing spring | See spring, vauclusian. |
-| 1118 | gypsum | 1. White or colorless mineral or rock composed of the hydrated calcium sulfate, CaSO4.2H₂O.  Gypsum rock is an evaporite precipitated from sea water and is therefore soluble in water and may contain dissolutional caves.  Mineral gypsum is formed in some caves by reactions between the host limestone and sulfates (including sulphuric acid) derived from oxidized sulfide minerals (see pyrite). Gypsum, also referred to as selenite, commonly occurs as transparent crystals, blades, needles or fibres in cave clay deposits.  A more spectacular form is as fibrous or curved crystals that may develop into cave flowers on cave walls and ceilings, as for example in parts of the Flint Mammoth Cave System, USA, or grow into large, hanging chandeliers, as in Lechuguilla Cave, New Mexico [9]. 2. A mineral composed of hydrous calcium sulfate [10], CaSO4·2H20. |
+| 1118 | gypsum | 1. White or colorless mineral or rock composed of the hydrated calcium sulfate, CaSO₄.2H₂O.  Gypsum rock is an evaporite precipitated from sea water and is therefore soluble in water and may contain dissolutional caves.  Mineral gypsum is formed in some caves by reactions between the host limestone and sulfates (including sulphuric acid) derived from oxidized sulfide minerals (see pyrite). Gypsum, also referred to as selenite, commonly occurs as transparent crystals, blades, needles or fibres in cave clay deposits.  A more spectacular form is as fibrous or curved crystals that may develop into cave flowers on cave walls and ceilings, as for example in parts of the Flint Mammoth Cave System, USA, or grow into large, hanging chandeliers, as in Lechuguilla Cave, New Mexico [9]. 2. A mineral composed of hydrous calcium sulfate [10], CaSO₄·2H20. |
 | 1119 | gypsum cave | Both vadose and phreatic caves can form in gypsum, which is very soluble in water, but they are uncommon because gypsum rock rarely survives total dissolution in the near-surface environments associated with explorable caves.  Gypsum caves certainly exist at depth within buried evaporate sequences.  In areas of wet climate gypsum caves are generally seen only if encountered by man-made excavations.  In contrast, gypsum caves are more common and more extensive in areas that have experienced a long period of dominantly arid climate.  The most spectacular gypsum caves are in the Podolie region of the Ukraine, where joint guided maze-cave systems are very extensive — Optimisticeskaja has around 180km of passsage [9]. |
 | 1120 | gypsum flower | See cave flower. |
 | 1121 | gypsum karst | A karst landscape developed on, or perhaps above, gypsum or similar evaporite rock sequences.  Dissolution of gypsum by ground water in buried, interstratal, situations is common and the effects of such dissolution may be expressed at the land surface in the form of subsidence depressions.  There are extensive areas of gypsum karst in North America and the Ukraine but British examples are limited to rare caves, exposed by quarrying, and subsidence depressions above dissolved gypsum beds, such as those around Ripon, Yorkshire [9]. |
@@ -1157,7 +1157,7 @@
 | 1155 | herbivore | An animal that eats plants, thus making the energy stored in plants available to carnivores [23].  See also carnivore; insectivore; omnivore. |
 | 1156 | heterogeneity | A characteristic of a medium in which material properties vary from point to point [22]. |
 | 1157 | heterogeneous | The unequal spacial distribution of aquifer properties [16]. |
-| 1158 | hexahydrite | A cave mineral — MgSO4·6H₂O [11]. |
+| 1158 | hexahydrite | A cave mineral — MgSO₄·6H₂O [11]. |
 | 1159 | hibbenite | A cave mineral — Zn7(PO4)4(OH)2·7H₂O [11]. |
 | 1160 | hibernation | A prolonged dormancy or sleeplike state in which animal body processes such as heartbeat and breathing slow down drastically and the animal neither eats nor drinks.  Nearly all cold-blooded animals and a few warm-blooded animals hibernate during the winter in cold climates.  Extremely large aggregations of bats, crickets, and spiders hibernate in some caves [23]. |
 | 1161 | histo, histoplasmosis | The disease caused by the fungus Histoplasma capsulatum, found in bird and bat guano, especially in the southern USA and the tropics.  An occupational disease of cavers, aviary and poultry workers, guano miners, and maintenance workers. Infection is usually caused by breathing the microscopic spores, which infect the lungs, or sometimes the eye. Flu-like symptoms accompanied by low-grade fever, breathing difficulties and pain, and miasma may start about 14 days after exposure and continue for weeks, months, or rarely until death, usually from complications.  Treatable with various anti-fungals, such as itroconazole.  Often misdiagnosed, as the standard tests may give a false negative [23]. |
@@ -1322,7 +1322,7 @@
 | 1320 | isotropy | The condition in which the property or properties of interest are the same in all directions [22]. |
 | 1321 | izdan | A general Yugoslavian term for a ground-water reservoir from which ground water may readily be extracted; it is not specifically a karst term [20]. |
 | 1322 | jama | 1. (Slavic) Vertical or steeply inclined shaft in limestone, known as abîme or aven in France and as pothole in England.  2. Any cave [10].  Synonyms: (French) jama; (German) Abgrund, Schacht, Schlund; (Greek) karstikon phrear; (Italian) abisso, foiba, pozzo, voragine; (Russian) karstovij kolodec, karstovaja sahta; (Spanish) sima, pozo, avenc; (Turkish) obruk; (Yugoslavian) bezdan, japaga, zvekara, pekel, brezno, prepad, propast.  Related to cenote, doline, obruk, pit, shaft, shake hole. |
-| 1323 | jarosite | A cave mineral — KFe3(SO4)2(OH)6 [11]. |
+| 1323 | jarosite | A cave mineral — KFe3(SO₄)2(OH)6 [11]. |
 | 1324 | joint | 1. A break of geological origin in the continuity of a body of rock occurring either singly, or more frequently in a set or system, but not attended by a visible movement parallel to the surface of the discontinuity.  2. A junction or connection of mechanical elements such as drill pipe [16]. See also fracture. |
 | 1325 | joint diagram | A diagram constructed by accurately plotting the strike and dip of joints to illustrate the geometrical relationship of the joints within a specified area of geologic investigation. |
 | 1326 | joint or fault set | A group of more or less parallel joints or faults. |
@@ -1426,7 +1426,7 @@
 | 1424 | leakage factor | The factor describing leakage flow into or out of a leaky aquifer [16]. |
 | 1425 | leakance | 1. The ratio K’/b’, in which K’ and b’ are the vertical hydraulic conductivity and the thickness, respectively, of the confining beds [22].  2. The rate of flow across a unit (horizontal) area of a semipervious layer into (or out of) an aquifer under one unit of head difference across this layer.  Synonymous with coefficient of leakage [22]. |
 | 1426 | leaky aquifer | Aquifers, whether artesian or water-table, that lose or gain water through adjacent less permeable layers [22]. |
-| 1427 | lecontite | A cave mineral — (NH4,K)Na(SO4)·2H₂O [11]. |
+| 1427 | lecontite | A cave mineral — (NH4,K)Na(SO₄)·2H₂O [11]. |
 | 1428 | leg | A part of a survey traverse between two successive stations [25]. |
 | 1429 | leucophor | One of a family of optical brightening agents that have been used with some degree of success in water-tracing experiments.  It has no color, but is readily detected by its distinctive fluorescence under ultra-violent light [9]. |
 | 1430 | levee | An artificial bank to prevent overbank flow of a river [16]. |
@@ -1512,7 +1512,7 @@
 | 1510 | medicinal spring | See spring, medicinal. |
 | 1511 | medium sand | Grain particle with a diameter of 0.25 to 0.5 mm [16]. |
 | 1512 | Meinzer unit | A measure of hydraulic conductivity as gpd/ft2 under a unit hydraulic gradient [16]. |
-| 1513 | melanterite | A cave mineral — FeSO4·7H₂O [11]. |
+| 1513 | melanterite | A cave mineral — FeSO₄·7H₂O [11]. |
 | 1514 | melting | The passage from the solid to the liquid state due to temperature increases [16]. |
 | 1515 | melting point | The temperature at which a solid substance is transformed into its liquid state [16]. |
 | 1516 | meltwater | Water derived from the melting of snow pack or of a glacier [16]. |
@@ -1543,7 +1543,7 @@
 | 1541 | mineral spring | See spring, mineral. |
 | 1542 | mining of ground water | The permanent depletion of ground-water reserves [16]. |
 | 1543 | minor karst features | See karren; rill; solution pan. |
-| 1544 | mirabilite | The natural white mineral form of hydrated sodium sulfate, Na2SO4·10H₂O [9], which may grow as cave flowers or in various other forms similar to those of gypsum. |
+| 1544 | mirabilite | The natural white mineral form of hydrated sodium sulfate, Na2SO₄·10H₂O [9], which may grow as cave flowers or in various other forms similar to those of gypsum. |
 | 1545 | Mischungskorrosion | (German)  Dissolution of calcite (and hence of limestone) by ground water that is derived from the mixing of two different waters that were originally saturated with carbon dioxide but had reached saturation under differing carbon dioxide partial pressures.  The resultant mixture is undersaturated and capable of further calcite dissolution, because the relationship between calcite solubility and carbon dioxide partial pressure is non-linear [9]. |
 | 1546 | miscible | 1. Two or more liquids that are mutually soluble (i.e.  they will dissolve in each other [22]. 2. The chemical property of two or more phases that, when brought together, have the ability to mix and form one phase [22]. |
 | 1547 | miscible displacement | 1. The mutual mixing and movement of two fluids that are soluble in each other [22].  2. The displacement of a fluid saturating a porous medium by another fluid completely miscible with the first fluid [16].  Synonymous with miscible-phase displacement. |
@@ -1775,7 +1775,7 @@
 | 1773 | pinnacles | These are a particularly mature form of karren.  The side walls are grikes with Rinnenkarren cutting across one another to form sharp edges and peaks that can reach several meters in height.  Generally, pinnacles need a long period time to form.  They are common in the tropics and can attain great sizes [3].  Often, they are covered.  See also debris karren. |
 | 1774 | pipe | 1. A generally small, sub-cylindrical, vertical hole developed in an unconsolidated sedimentary deposit by the washing away of all or part of its fines content.  Some pipes develop above points on a carbonate-rock surface, such as joint intersections, where ground-water seepage is locally concentrated. Pipes in chalk include cylindrical and conical masses of clay and sand that are neptunian fills of dissolutional dolines, shafts and caves; all shapes and sizes are commonly referred to as chalk pipes [9].  2. Small cylindrical hole in unconsolidated sediments, caused by removal of fine material by water [10].  3. A closed tubular conduit for fluid transport [16]. |
 | 1775 | piping | 1. A process whereby a cavity or small conduit is developed in an unconsolidated soil due to progressive sediment removal by seepage water.  The cavity develops headwards, as the fines are removed first and the coarser material is then washed out of the growing cavity [9].  Definition 1 is often incorrectly applied to the formation of sinkhole development — the migration of smaller particles through openings created by larger particles is of no consequence in terms of sinkhole development and should not be confused as such.  2. Formation of a passage by water under pressure in the form of conduits through permeable materials when the hydraulic head exceeds a certain critical value [10].  3. The mechanical washout of caves in gravels, soils, loess, etc., and shows evidence of associated collapse. |
-| 1776 | pisanite | A cave mineral — (Fe,Cu)SO4·7H₂O [11]. |
+| 1776 | pisanite | A cave mineral — (Fe,Cu)SO₄·7H₂O [11]. |
 | 1777 | pisolite, pisolith | See cave pearl. |
 | 1778 | pit | A deep hole, generally circular in outline, having vertical or nearly vertical walls [10].  See also jama; pothole (definition 2); shaft. |
 | 1779 | pitch | Vertical or sub-vertical shaft or cave waterfall that normally requires rope, ladder or equipment to pass; a term used by British cave explorers [9]. |
@@ -2184,7 +2184,7 @@
 | 2182 | sonar | A system for detecting obstacles by emitting sound and intercepting and interpreting echoes that bounce back.  It is used by bats and also by oilbirds and some swiftlets when they fly in the darkness of caves [23]. |
 | 2183 | sorption | 1. A general term used to encompass the process of absorption and adsorption [22].  2. All processes which remove solutes from the fluid phase and concentrate then on the solid phase of the medium [22]. |
 | 2184 | sótano | (Spanish for cellar or basement.) Term used in Mexico for deep vertical shafts in limestone, which may or may not lead to a cave [10]. |
-| 2185 | spangolite | A cave mineral — Cu6Al(SO4)(OH)12·3H₂O [11]. |
+| 2185 | spangolite | A cave mineral — Cu6Al(SO₄)(OH)12·3H₂O [11]. |
 | 2186 | species (singular or plural) | A group of plants or animals whose members breed naturally only with each other and resemble each other more closely than they resemble members of any similar group [23]. |
 | 2187 | specific capacity | The rate of discharge of water from a well per unit of drawdown.  It is commonly expressed as gpm/ft or m3/day/m and varies with pumping test duration [6]. |
 | 2188 | specific conductance | A measure of the ability of water to conduct an electrical current expressed in micromhos per centimeter at 25°C [22]. |
@@ -2349,8 +2349,8 @@
 | 2348 | suction | See moisture tension. |
 | 2349 | suffosion | Undermining through removal of sediment by mechanical and corrosional action of underground water [20].  Synonyms: (French) soutirage karstique; (German) Anzapfung; (Greek) ypoghion thiavrosis; (Russian) suffozija; (Spanish) sufosión; (Turkish) karstik yeraltısuyu kazıması; (Yugoslavian) sufozija. |
 | 2350 | suffosion doline | More accurate synonym for a type of subsidence doline, indicating formation by the suffosion, or downwashing, of the soil into an underlying fissure [9].  Also known as shakehole. |
-| 2351 | sulfate | A mineral compound characterized by the sulfate radical SO₄²⁻.  Anhydrous sulfates, such as barite, BaSO4, have divalent cations linked to the sulfate radical; hydrous and basic sulfates, such as gypsum, CaSO4.2H₂O, contain water molecules [1]. |
-| 2352 | sulfate minerals | Minerals containing the SO₄²⁻ radical, formed by precipitation from water.  The most common are the anhydrous and hydrated calcium sulfates, anhydrite (CaSO4) and gypsum (CaSO4.2H₂O).  Sulfates are deposited as a generally minor component of most carbonate successions, but due to their high solubility they may not survive subsequent dissolution by ground water.  Even if they survive subsequent dissolution by ground water.  Even if they survive at depth, they tend to dissolve as they are raised nearer to the surface following uplift and erosion of overburden.  Removal of sulfates by dissolution may contribute to the early establishment of secondary permeability in limestone sequences. Sulfate solutions have a limited corrosional effect upon calcium carbonate, but may also be oxidized to produce sulphuric acid, which is highly corrosive of limestone. |
+| 2351 | sulfate | A mineral compound characterized by the sulfate radical SO₄²⁻.  Anhydrous sulfates, such as barite, BaSO₄, have divalent cations linked to the sulfate radical; hydrous and basic sulfates, such as gypsum, CaSO₄.2H₂O, contain water molecules [1]. |
+| 2352 | sulfate minerals | Minerals containing the SO₄²⁻ radical, formed by precipitation from water.  The most common are the anhydrous and hydrated calcium sulfates, anhydrite (CaSO₄) and gypsum (CaSO₄.2H₂O).  Sulfates are deposited as a generally minor component of most carbonate successions, but due to their high solubility they may not survive subsequent dissolution by ground water.  Even if they survive subsequent dissolution by ground water.  Even if they survive at depth, they tend to dissolve as they are raised nearer to the surface following uplift and erosion of overburden.  Removal of sulfates by dissolution may contribute to the early establishment of secondary permeability in limestone sequences. Sulfate solutions have a limited corrosional effect upon calcium carbonate, but may also be oxidized to produce sulphuric acid, which is highly corrosive of limestone. |
 | 2353 | sulfate-reduction karst | Karst topography developed in the subsurface where solution of bedrock is chiefly a result of sulfate reduction by petroleum hydrocarbons aided by bacterial processes that oxidize hydrocarbons to yield carbon dioxide.  Little, if any of the water that dissolves the rock is meteoric [17]. |
 | 2354 | sulfide | A mineral compound characterized by the linkage of sulfur with a metal or semimetal, such as galena, PbS, or pyrite, FeS2 [1].  See also gypsum and pyrite. |
 | 2355 | sulfide minerals | Minerals that are composed of one or more metals combined with sulphur.  The most common is pyrite.  They are believed to be produced by the metabolic action of micro- organisms, and are found in many sedimentary rocks, usually in trace amounts. |
@@ -2358,7 +2358,7 @@
 | 2357 | summation curve | A curve of cumulated values [16]. |
 | 2358 | summit | The highest point of a physiographic feature [16]. |
 | 2359 | sump | 1. In caves a sump is a section of flooded passage.  This may be a perched sump, probably quite short, within a vadose cave and created by a local reverse passage gradient.  Alternatively it may be a major feature, where a cave passage descends below the regional water table into the phreas, as is common at the lower end of many cave systems.  Some short sumps can be dived without the use of breathing apparatus, but most are restricted to exploration by cave divers. Logistics are a barrier to endless sump penetrations, but some have now been explored for many kilometers in length, notable in Cocklebiddy Cave, Australia, the Nohoch Nah Chich and other great flooded systems in Mexico’s Yucatan, and behind Keld Head in Yorkshire [9].  2. A pool of underground water or point on an underground stream that has a submerged extension, the nature of which has not been determined [10].  3. A place where the ceiling of a passage drops to and below water level in a cave, leaving no air space with the cave passage continuing underwater [13]. 4. A water trap. |
-| 2360 | sulfuric acid | An acid (H2SO4). |
+| 2360 | sulfuric acid | An acid (H2SO₄). |
 | 2361 | sunken pan | An evaporation pan buried in the ground for equal elevation of the water surface with the ground surface [16]. |
 | 2362 | superimposed valley | A valley established on the land surface with a pattern that is independent of the underlying rock structure. |
 | 2363 | supersaturated | Referring to water that has more limestone or other karst rock in solution than the maximum corresponding to normal conditions [25]. |
@@ -2394,7 +2394,7 @@
 | 2393 | synclinal valley | A valley following the axis of a syncline [16]. |
 | 2394 | syncline | Downfolded stratum [16]. |
 | 2395 | syngenetic karst | 1. Karst developed contemporaneously with the lithification of the formation, as in eolian calcarenite where lithification and karstification of dune sands may proceed simultaneously [10].  2. Karst landforms that developed upon young, porous carbonate rocks, such as aeolianites, as they underwent lithification [9].  Synonyms: (French) karst syngénétique; (German) Syngenetischer Karst; (Greek) synegeticon karst; (Italian) carsismo singenetico; (Spanish) karst singenético; (Turkish) eştürümlü karst; (Yugoslavian) singenetski krs̃ (kras). |
-| 2396 | syngenite | A cave mineral — K2Ca(SO4)2·H₂O [11]. |
+| 2396 | syngenite | A cave mineral — K2Ca(SO₄)2·H₂O [11]. |
 | 2397 | synoptic network | A network of first order stations permitting the regular observation of weather for all points at the same time [16]. |
 | 2398 | synthetic unit hydrograph | A unit hydrograph constructed by assuming the reaction of a drainage basin will be based on its physical characteristics [16]. |
 | 2399 | table mountain |  A flat topped mountain (mesa) [16]. |
@@ -2405,7 +2405,7 @@
 | 2404 | tape | 1. In survey, a graduated tape of steel, plastic, wire-reinforced cloth, or fibreglass, used for measuring distance.  2. Strips of woven synthetic fibre used for slings and waist bands [25]. |
 | 2405 | taranakite | A cave mineral — KAl3(PO4)3(OH)·9H₂O [11]. |
 | 2406 | tarbuttite | A cave mineral — Zn2(PO4)(OH) [11]. |
-| 2407 | taylorite | A cave mineral — (K,NH4)2SO4 [11]. |
+| 2407 | taylorite | A cave mineral — (K,NH4)2SO₄ [11]. |
 | 2408 | tectokarst | Karst formed under the strong influence of tectonic disturbances.  The term is indefinite and its use is not generally recommended [20].  Synonyms: (French) tectokarst; (German) Tektonischer Karst; (Greek) tektonikon karst; (Russian) karst zon tektoniceskih razlomov; (Spanish) tectokarst; (Turkish) tektonik karst; (Yugoslavian) tektokrs̃, tektokras, tektokarst. |
 | 2409 | tectonic | Pertaining to structural features due to the deformation of the crust [16]. |
 | 2410 | tectonic cave | A cave formed by some form of ground movement.  The most common is due to landsliding in a jointed rock, leaving an open fissure cave parallel to the line of the hillside along the back of the slipped block.  Tectonic caves can form in any rock, as they do not depend on dissolution.  Well known examples are the windypit fissures of north-east Yorkshire, England some of which are hundreds of meters long and up to 60m deep [9]. |
@@ -2427,7 +2427,7 @@
 | 2426 | texture | The arrangement in space of the components of a rock body and of the boundaries between these components [16]. |
 | 2427 | thalweg | A line of maximum depth of stream cross section [16]. |
 | 2428 | Theis equation | The nonequilibrium equation of radial flow towards a well [16]. |
-| 2429 | thenardite | A cave mineral — Na2SO4 [11]. |
+| 2429 | thenardite | A cave mineral — Na2SO₄ [11]. |
 | 2430 | thermal spring | See spring, thermal. |
 | 2431 | thermal stratification | The stratification of water in reservoirs due to thermal-density differences [16]. |
 | 2432 | thermocline | An intermediate layer in stratified water [16]. |
