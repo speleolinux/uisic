@@ -836,7 +836,7 @@
 | 834 | emergence | A general term for the outflowing water, for the opening or for the area of outflow of a karst spring; includes exsurgence and resurgence [20].  Synonyms: (French) émergence; (German) Ausfluβtelle, Karstquelle; (Greek) pigházon ýthor (or kephalari); (Italian) risorgenza; (Russian) vihod karstovih vod; (Spanish) fuente, manantial, surgencia; (Turkish) yüzeye erişim; (Yugoslavian) krško vrelo, krs ̃ki izvor, obrh.  See also exsurgence; resurgence; rise. |
 | 835 | encroachment | 1. The landward advancement of saline waters into coastal aquifers [16].  2. The displacement of clean water by pollutants [16]. |
 | 836 | end effect | A disturbance introduced by the inflow and outflow sections in a flow experiment [16]. |
-| 837 | endellite | A cave mineral — Al2Si2O5(OH)₄·2H₂O [11]. |
+| 837 | endellite | A cave mineral — Al₂Si₂O₅(OH)₄·2H₂O [11]. |
 | 838 | endogean | Pertaining to the domain immediately beneath the ground surface, i.e., in the soil or plant litter [25].  See also endogenic, epigean, hypogean. |
 | 839 | endogenic | 1. Pertaining to, or living in, the zone immediately beneath the earth’s surface [9].  2. Pertaining to geological process originating within the earth [16].  See also endogean, epigean, hypogean. |
 | 840 | endokarst | The part of a vertically layered karst system that is beneath the surface.  Endokarst includes the full spectrum of underground voids and the dissolutional features that are present on the rock surfaces surrounding them [9].  See also exokarst. |
