@@ -253,7 +253,7 @@
 | 251 | biomicrite | A microscopic-textured limestone composed of skeletal grains in a matrix of micrite; micrite is a finely crystalline carbonate sediment with the upper crystalline diameter being 4 microns [20].  Synonyms: (French) biomicrite; (German) Biomicrite; (Greek) micrite; (Italian) biomicrite; (Spanish) biomicrita; (Turkish) biyomikrit; (Yugoslavian) biomikrit.  See also micrite; peloid. |
 | 252 | biospeleology | 1. The study of subterranean living organisms, particularly in karst caves and other openings in rock formations[9, 21].  2. The scientific study of cave animal life, or the biology of caves, karst, and groundwater.  A biologist who specializes in this study is called a biospeleologist [23].  Synonyms: (French) biospéléologie,  biospéologie; (German) Biospeläologie; (Greek) biospeleology; (Italian) biospeleogia; (Russian) biospeleologija; (Spanish) biospeleología; (Turkish) biyospeleoloji, magara canlıları bilimi; (Yugoslavian) biospeleologija. |
 | 253 | biphosphammite | A cave mineral — NH4H2PO₄ [11]. |
-| 254 | birnessite | A cave mineral — (Na,Ca)Mn7O14·3H₂O [11]. |
+| 254 | birnessite | A cave mineral — (Na,Ca)Mn₇O₁₄·3H₂O [11]. |
 | 255 | blade | In a cave, a thin sharp projection jutting out from roof, wall, or floor, of which it is an integral part; generally the remains of a partition or bridge [10]. |
 | 256 | blanket | A thick layer of dripstone, not translucent [10].  See also bacon; curtain; drapery. |
 | 257 | blind chimney | See chimney. |
