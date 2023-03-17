@@ -109,7 +109,7 @@
 | 107 | anthropocentric definitions | Definitions of caves or parts of caves that include accessibility by human explorers as one of their limiting conditions.  Most well known among these is the definition published by the International Speleological Union, that "A cave is a natural underground opening in rock that is large enough for human entry" (see proto-caves) [9]. |
 | 108 | anticlinal valley | A valley that is established along the axis of an eroded anticline [16]. |
 | 109 | anticline | Upfolded stratum [16]. |
-| 110 | aphthitalite | A cave mineral — (K,Na)3Na(SO₄)2 [11]. |
+| 110 | aphthitalite | A cave mineral — (K,Na)3Na(SO₄)₂ [11]. |
 | 111 | apparent ground-water velocity | See specific discharge. |
 | 112 | appendage | An arm or other limb that branches from an animal's body [23]. |
 | 113 | approach segment | That part of a hydrograph curve before onset of precipitation [16]. See also hydrograph. |
@@ -154,7 +154,7 @@
 | 152 | attapulgite clay | A colloidal, viscosity-building clay consisting of hydrous magnesium aluminum silicates and used principally in salt-water drilling fluids [6]. |
 | 153 | attrition | The wearing away of rocks by friction [16]. |
 | 154 | auger | A rotary drilling device where the dry cuttings are removed continuously by helical grooves on the drill pipe [16]. |
-| 155 | aurichalcite | A cave mineral — (Zn,Cu)5(CO₃)2(OH)6. |
+| 155 | aurichalcite | A cave mineral — (Zn,Cu)5(CO₃)₂(OH)6. |
 | 156 | autochthonous | Property pertaining to sedimentary material originating and deposited at about the same location [16]. See also allochthonous. |
 | 157 | autochthonous drainage | Less common synonym for autogenic drainage [9]. |
 | 158 | autogenic, authigenic | Formed or generated in place [1].  See also allogenic; recharge, autogenic; recharge, allogenic. |
@@ -164,7 +164,7 @@
 | 162 | average interstitial velocity | See velocity, average interstitial. |
 | 163 | azimuth | The true bearing of a survey line, determined by measurement from an accurate survey or by observations of sun or stars [25]. |
 | 164 | azonal soil | Soils without distinct layering in horizons [16]. |
-| 165 | azurite | A cave mineral — Cu(CO₃)2(OH)2 [11]. |
+| 165 | azurite | A cave mineral — Cu(CO₃)₂(OH)₂ [11]. |
 | 166 | backflooding | 1. Temporarily rising water level in a cave caused by downstream passage being too small to pass an abnormally high discharge.  The excavation and reexcavation of some caves is ascribed to the enlargement of a passage at or near the water table by gravity flow alternating with periods of calcite precipitation [10].  2. Flooding due to backup of excess flow behind a constriction in a major conduit.  Water that is ponded in tributary passages and proto-caves upstream of the constriction may contribute to the enlargement of maze caves [9]. |
 | 167 | background noise | The level of intensity of signals due to normal activities other than the specific signal emission [16]. |
 | 168 | backwater | The accumulated water above the normal level of a water course due to impoundment at a point downstream [16]. |
@@ -367,14 +367,14 @@
 | 365 | capillary tension | See moisture tension. |
 | 366 | capillary water | 1. Water held in the soil above the phreatic surface by capillary forces [22].  2. Soil water above hydroscopic moisture and below the field capacity [22]. |
 | 367 | carabiner | An oval of steel or aluminum with a movable spring-loaded gate on one side.  A locking carabiner is one where the gate is threaded and has a ring that can be threaded over the gate opening to prevent it from opening [13].  Synonyms: karabiner; krab. |
-| 368 | carbide, calcium carbide | A compound (CaC₂) of grayish color that reacts with water to produce acetylene gas and calcium hydroxide [Ca(OH)2] [13].  Commonly used by cavers and miners earlier in this century as a means of providing light in caves or mines.  Some cavers still prefer carbide lights over electric lights.  See also carbide lamp. |
-| 369 | carbide lamp | A carbide lamp, also known as a miners’ carbide lamp or acetylene lamp was introduced into mine use at about 1897.  It consists of two chambers, a water tank above and a removable carbide canister below with a connection valve to permit controlled seepage of water into the calcium carbide.  The carbide and water react to generate calcium hydroxide [Ca(OH)2] and acetylene gas.  The gas is passed through a filter into a tube and through a tiny burner-tip orifice designed for the optimum mixture of air and acetylene.  Once ignited, it burns with a brilliant yellow-white flame produced by the incandescence of tiny carbon particles.  A reflector concentrates the light in a particular direction [13]. |
+| 368 | carbide, calcium carbide | A compound (CaC₂) of grayish color that reacts with water to produce acetylene gas and calcium hydroxide [Ca(OH)₂] [13].  Commonly used by cavers and miners earlier in this century as a means of providing light in caves or mines.  Some cavers still prefer carbide lights over electric lights.  See also carbide lamp. |
+| 369 | carbide lamp | A carbide lamp, also known as a miners’ carbide lamp or acetylene lamp was introduced into mine use at about 1897.  It consists of two chambers, a water tank above and a removable carbide canister below with a connection valve to permit controlled seepage of water into the calcium carbide.  The carbide and water react to generate calcium hydroxide [Ca(OH)₂] and acetylene gas.  The gas is passed through a filter into a tube and through a tiny burner-tip orifice designed for the optimum mixture of air and acetylene.  Once ignited, it burns with a brilliant yellow-white flame produced by the incandescence of tiny carbon particles.  A reflector concentrates the light in a particular direction [13]. |
 | 370 | carbonate | 1. A salt or ester of carbonic acid; a compound containing the radical CO₃²⁻, such as calcium carbonate, CaCO₃.  2. A rock consisting mainly of carbonate minerals, such as limestone or dolomite [10]. |
 | 371 | carbonate-fluorapatite | A cave mineral — Ca5(PO₄,CO₃)3F [11]. |
 | 372 | carbonate hardness | Hardness of water due to presence of dissolved bicarbonates of calcium and magnesium which can be removed by boiling and hence the term "temporary hardness". Synonyms: (French) dureté temporaire; (German) temporäre Härte, Carbonathärte; (Greek) parothiki sklipotis anthrakiki sklirotis; (Italian) durezza temporanea; (Russian) karbonatnaja zestkostj; (Spanish) dureza temporal; (Turkish) karbonat sertligi; (Yugoslavian) turdoóa, trdota. |
 | 373 | carbonate-hydroxylapatite | A cave mineral — Ca5(PO₄,CO₃)3(OH) [11]. |
 | 374 | carbonate rock | A rock that consists of one or more carbonate minerals.  Carbonate rock successions (or sequences) are those in which carbonate rock is dominant, but which also contain rocks of other lithology [9]. |
-| 375 | carbonic acid dissolution | Dissolution of calcium carbonate by carbon dioxide in aqueous solution, loosely termed carbonic acid, is the dominant reaction in karst processes, including speleogenesis.  The reaction can be considered in several ways but it is most simply represented as: CaCO₃ + CO2 + H₂O ⇌ Ca(HCO₃)2 The reaction is reversible.  The solution containing the dissolved reaction product, usually termed calcium bicarbonate, can lose carbon dioxide to the atmosphere and precipitate calcium carbonate. This process is responsible for the development of speleothems underground and tufa or travertine at the surface [9]. |
+| 375 | carbonic acid dissolution | Dissolution of calcium carbonate by carbon dioxide in aqueous solution, loosely termed carbonic acid, is the dominant reaction in karst processes, including speleogenesis.  The reaction can be considered in several ways but it is most simply represented as: CaCO₃ + CO2 + H₂O ⇌ Ca(HCO₃)₂ The reaction is reversible.  The solution containing the dissolved reaction product, usually termed calcium bicarbonate, can lose carbon dioxide to the atmosphere and precipitate calcium carbonate. This process is responsible for the development of speleothems underground and tufa or travertine at the surface [9]. |
 | 376 | carnivore | An animal that lives by eating the flesh of other animals [23].  See also herbivore; insectivore; omnivore. |
 | 377 | cascading water | In reference to wells, ground water which trickles or pours down the casing or uncased borehole above the water level in the well through cracks or perforations [22]. |
 | 378 | casing | Permanent liner of a well [16]. |
@@ -609,7 +609,7 @@
 | 607 | covered karst | 1. A fossil or currently developing karst in karst limestone which underlies superficial deposits or other rock, and which may produce landforms at the surface which reflect subsurface karstification [19]; contrasted with naked karst, which is soil free.  See also buried karst; interstratal karst; mantled karst; subsoil karst; sulfate-reduction karst.   2. A generally subdued karst landscape developed where carbonate rocks are affected by dissolutional processes beneath a soil cover (see bare karst) [9]. Synonyms: (French) karst couvert; (German) Bedeckter karst; (Greek) kekalymenon karst; (Italian) carso coperto; (Russian) pokrytyĭ karst, pokritij karst; (Spanish) karst cubierto; (Turkish) örtülü karst; (Yugoslavian) pokriveni krš, pokriti kras. |
 | 608 | cow’s tail | A length of rope used as a safety when crossing a rebelay [25]. |
 | 609 | crack | 1. Tight joint [16].  2. A small fracture (i.e. small with respect to the scale of the feature in which it occurs). |
-| 610 | crandallite | A cave mineral — CaAl3(PO₄)2(OH)5·H₂O [11]. |
+| 610 | crandallite | A cave mineral — CaAl3(PO₄)₂(OH)5·H₂O [11]. |
 | 611 | crawl, crawlway | A cave passage that is large enough to be negotiated on hands and knees [10] or so small as to require a caver to squeeze through on his/her back or belly [13]. |
 | 612 | creek, brook | Watercourse of lesser volume than a river. |
 | 613 | crescentic wall niche | See meander niche. |
@@ -762,7 +762,7 @@
 | 760 | doline; sinkhole | A basin- or funnel-shaped hollow in limestone, ranging in diameter from a few meters up to a kilometer and in depth from a few to several hundred meters.  Some dolines are gentle grassy hollows; others are rocky cliff-bounded basins.  A distinction may be made by direct solution of the limestone surface zone, (solution dolines), and those formed by collapse over a cave, (collapse dolines), but it is generally not possible to establish the origin of individual examples [10].  Solutional enlargement is either circular in plan, if there is one dominant vertical joint, or otherwise irregular if there are several and can achieve dimensions of up to 1,000 meters in diameter and 100 meters deep.  Where a karst bedrock is covered by superficial deposits, solutional enlargement permits the latter to subside into vertical fissures, creating subsidence cones or alluvial dolines, whose slopes are unstable because of the unconsolidated nature of the surface material.  The bedrock remains covered in the first instance.  Dolines are also formed by the large-scale subsidence caused by cave roof-collapse of near-surface caverns; in this instance, the collapse doline, the sides are cliff-like and the floor composed of the irregular blocks from the fragmented roof.  Cave roof-collapse is considered a relatively rare phenomenon.  Closed depressions receiving a stream are known as swallow holes or stream sinks.  A doline which is largely dependent upon snow for solution-enlargement is known as a kotlici or Schneedoline [19]. In America most dolines are referred to as sinks or sinkholes.  See also jama; pit; ponor; sink, sinkhole; stream sink; swallet; swallow hole; sumidero.  Synonyms: (French) doline; (German) Dolinen, Karsttrichter; (Greek) tholene; (Italian) dolina, pozzo naturale; (Russian) karstovaja voronka, karstovaja kotlovina; (Spanish) dolina; (Turkish) düden, kokurdan, huni; (Yugoslavian) vrtača, ponikva, dolac, do, duliba, kotlič, konta. |
 | 761 | doline karst | Karst dominated by closed depressions, chiefly dolines, perforating a simple surface [25]. |
 | 762 | doline lake | A small karst lake occupying a doline or closed depression in limestone.  The term implies that the doline is at or near the ground-water table and in hydrological continuity with it, or that the base of the doline is sealed with an impermeable layer such as clay [20].  See also sinkhole pond.  Synonyms: (French) lac de doline; (German) Dolinensee; (Greek) limni dholina; (Italian) lago di dolina, lago carsico; (Russian) karstovoe ozero; (Spanish) dolina laguna, torca laguna; (Turkish) obruk gölü; (Yugoslavian) krs ̃ko jezero, kras ̃ko jezero. |
-| 763 | dolomite | 1. The pure mineral dolomite has the composition CaMg(CO₃)2 and has properties very similar to those of calcite.  The rock dolomite consists mainly of the mineral dolomite, with subordinate calcite, and has properties very similar to those of limestone.  The natural dissolution of dolomite is generally slower than that of limestone.  Hence, dolomite karst is generally less well developed than limestone karst, though exceptions do occur in areas such as north-west Canada.  Large, deep caves can form in dolomite, as in the Rand of South Africa [9].  2. A mineral composed of calcium magnesium carbonate, CaMg(CO₃)2. 2. Rock chiefly composed of the mineral dolomite [10].  Also called dolostone. |
+| 763 | dolomite | 1. The pure mineral dolomite has the composition CaMg(CO₃)₂ and has properties very similar to those of calcite.  The rock dolomite consists mainly of the mineral dolomite, with subordinate calcite, and has properties very similar to those of limestone.  The natural dissolution of dolomite is generally slower than that of limestone.  Hence, dolomite karst is generally less well developed than limestone karst, though exceptions do occur in areas such as north-west Canada.  Large, deep caves can form in dolomite, as in the Rand of South Africa [9].  2. A mineral composed of calcium magnesium carbonate, CaMg(CO₃)₂. 2. Rock chiefly composed of the mineral dolomite [10].  Also called dolostone. |
 | 764 | dolomitic limestone | A limestone containing a significant proportion of the mineral dolomite but in which calcite is more abundant (e.g. 10–45% dolomite, 90–55% calcite).  Many dolomitic limestones originate as calcite limestone that is subsequently affected by magnesium-rich water that replaces part of the calcite with dolomite [9]. |
 | 765 | dolomitic flour (sand) | A loose mealy rock or residuum, produced by the disintegration of dolomitic limestones under the processes of karstification [20].  Synonyms: (French) sable dolomitique; (German) Dolomitsand, Dolomitasche; (Greek) dholomitikon alevron; (Spanish) arena dolomítica; (Turkish) dolomit kumu; (Yugoslavian) dolomitni pijesak, d. pesak, d. pesek. |
 | 766 | dolomitization | The process whereby limestone becomes dolomite by the substitution of magnesium carbonate for part of the original calcium carbonate [10]. |
@@ -911,7 +911,7 @@
 | 909 | feldspars | A very common group of rock forming minerals [16]. |
 | 910 | fengcong; fengcong karst | (Chinese)  1. A karst, conspicuous in China, that is identified by its clustered limestone hills.  Fengcong (pronounced "fungston"), which translates as "peak cluster", is a mature karst normally developed during long uninterrupted periods of rapid dissolution in wet tropical environments with high levels of biogenic soil carbon dioxide.  The Chinese classify karst by the hill or peak density, in contrast to the Western classification by hill shape.  Fencong is almost the equivalent of cone karst; its closely packed hills are conical rather than hemispherical, with intervening dolines and disjointed valleys.  The major occurrences are in Guizhou and Guangxi, in southern China.  Some cones in Guangxi are so steep that they have been termed fengcong tower karst, but this concept is best avoided [9].  2. Tower karst characterized as peak cluster because the individual karst towers appear to be grouped together in clusters.  Closed depression among the peaks are common [4].  See also fenglin; fungling; mogote; tower karst. |
 | 911 | fenglin; fenglin karst | (Chinese) 1. A karst, conspicuous in China, that is identified by its isolated limestone hills.  Fenglin (pronounced "funglin") translates from Chinese as "peak forest", and is distinguished from fengcong.  Both fenglin and fengcong are mature karst normally only developed by long uninterrupted periods of rapid dissolution in wet tropical environments with high levels of biogenic soil carbon dioxide.  The Chinese classify karst by the hill or peak density, in contrast to the Western classification by hill shape.  Fenglin is therefore almost the equivalent of tower karst; its hills have very steep or vertical walls, and may have a height/width ratio greater than four.  The limestone hills rise above level, alluviated plains, and the finest fenglin karst around Yangshuo, Guangxi, in southern China, is one of the world’s most dramatic landscapes.  The classification by hill density means that low residual cones scattered across a plain are also referred to as fenglin by the Chinese [9].  2. Tower karst characterized as peak forest because the individual towers appear as isolated groups on a plain.  Dry valley networks separate individual towers [4].  See also fengcong; fungling; mogote; tower karst. |
-| 912 | ferghanite | A cave mineral — U3(VO4)2·6H₂O [11]. |
+| 912 | ferghanite | A cave mineral — U3(VO4)₂·6H₂O [11]. |
 | 913 | ferric oxide | Rust; hematite (Fe2O3) [16]. |
 | 914 | ferrito zone | Zone of iron oxide accumulation in soil under humid climate conditions [16]. |
 | 915 | Fickian diffusion | The spreading of solutes from regions of highest to regions of lower concentrations caused by the concentration gradient.  In slow moving ground water, this is the dominant mixing process [22]. |
@@ -1134,7 +1134,7 @@
 | 1132 | halocline | A locally steep salinity gradient along the interface between fresh ground-water and saline ground-water, such as is found at the base of the freshwater lens common beneath many limestone islands in the tropics. Water mixing and microbial activity are important influences on dissolution along the halocline, as shown for instance in blue holes [9]. |
 | 1133 | halomorphic soil | Saline and alkali soils. |
 | 1134 | hanging blade | A blade projecting down from the ceiling [10].  See also blade. |
-| 1135 | hannayite | A cave mineral — (NH₄)2Mg3H4(PO₄)4·8H₂O [11]. |
+| 1135 | hannayite | A cave mineral — (NH₄)₂Mg3H4(PO₄)4·8H₂O [11]. |
 | 1136 | hardening | The process of induration [16]. |
 | 1137 | hardness | 1. Property of water that prevents lathering because of the presence of cations, mainly calcium and magnesium, which form insoluble soaps [10].  2. The sum of calcium and magnesium ions expressed as the equivalent amount of calcium carbonate (CaCO₃) [16].  3. The property to form insoluble salts of fatty acid (soap) [16]. |
 | 1138 | hardpan | This develops when there are secondary calcium carbonate cementations in the lower part of the soil profile [16].  Synonym: mortar bed.  See also caliche; havara; nari. |
@@ -1153,12 +1153,12 @@
 | 1151 | heligmite | An eccentric growing upward from a cave floor or from a shelf in a cave.  A curved or angular thin stalagmite [10]. |
 | 1152 | helmet | A miner's, climber's or other kind of non-metallic, protective helmet used in caving. |
 | 1153 | hematite | A cave mineral — Fe2O3 [11]. |
-| 1154 | hemimorphite | A cave mineral — Zn4Si2O7(OH)2·H₂O [11]. |
+| 1154 | hemimorphite | A cave mineral — Zn4Si2O7(OH)₂·H₂O [11]. |
 | 1155 | herbivore | An animal that eats plants, thus making the energy stored in plants available to carnivores [23].  See also carnivore; insectivore; omnivore. |
 | 1156 | heterogeneity | A characteristic of a medium in which material properties vary from point to point [22]. |
 | 1157 | heterogeneous | The unequal spacial distribution of aquifer properties [16]. |
 | 1158 | hexahydrite | A cave mineral — MgSO₄·6H₂O [11]. |
-| 1159 | hibbenite | A cave mineral — Zn7(PO₄)4(OH)2·7H₂O [11]. |
+| 1159 | hibbenite | A cave mineral — Zn7(PO₄)4(OH)₂·7H₂O [11]. |
 | 1160 | hibernation | A prolonged dormancy or sleeplike state in which animal body processes such as heartbeat and breathing slow down drastically and the animal neither eats nor drinks.  Nearly all cold-blooded animals and a few warm-blooded animals hibernate during the winter in cold climates.  Extremely large aggregations of bats, crickets, and spiders hibernate in some caves [23]. |
 | 1161 | histo, histoplasmosis | The disease caused by the fungus Histoplasma capsulatum, found in bird and bat guano, especially in the southern USA and the tropics.  An occupational disease of cavers, aviary and poultry workers, guano miners, and maintenance workers. Infection is usually caused by breathing the microscopic spores, which infect the lungs, or sometimes the eye. Flu-like symptoms accompanied by low-grade fever, breathing difficulties and pain, and miasma may start about 14 days after exposure and continue for weeks, months, or rarely until death, usually from complications.  Treatable with various anti-fungals, such as itroconazole.  Often misdiagnosed, as the standard tests may give a false negative [23]. |
 | 1162 | hod | See aisle. |
@@ -1167,7 +1167,7 @@
 | 1165 | homogeneous | The even spacial distribution of aquifer properties [16]. |
 | 1166 | homogeneous fluid | A fluid that occurs in a single phase [16]. |
 | 1167 | hook gage | A gage for the precise position measurement of liquid levels [16]. |
-| 1168 | hopeite | A cave mineral — Zn3(PO₄)2·4H₂O [11]. |
+| 1168 | hopeite | A cave mineral — Zn3(PO₄)₂·4H₂O [11]. |
 | 1169 | horizontal angle | The difference in direction of two survey lines measured clockwise in a horizontal plane [25]. |
 | 1170 | horst | A block having been uplifted along its boundary faults [16]. |
 | 1171 | Horton number | Expresses the relative intensity of erosion process in a drainage basin [16]. |
@@ -1207,7 +1207,7 @@
 | 1205 | hydrologic budget | The quantitative accounting of all water volumes and their changes over time for a given basin or province [16]. |
 | 1206 | hydrologic properties | Those properties of a rock that govern the entrance of water and the capacity to hold transmit, and deliver water, such as porosity, effective porosity, specific retention, permeability, and the directions of maximum and minimum permeabilities [22]. |
 | 1207 | hydrology | The study of atmospheric, surface, and subsurface waters and their connection with the water cycle [16]. |
-| 1208 | hydromagnesite | A cave mineral — Mg5(CO₃)4(OH)2·4H₂O [11]. |
+| 1208 | hydromagnesite | A cave mineral — Mg5(CO₃)4(OH)₂·4H₂O [11]. |
 | 1209 | hydrometeorology | Meteorology dealing with water in the atmosphere [16]. |
 | 1210 | hydrometric station | A station at which there usually are a number of hydrometric measurements being performed [16]. |
 | 1211 | hydrometry | The science of water measurements [16]. |
@@ -1218,7 +1218,7 @@
 | 1216 | hydrostatic pressure | The pressure due to a column of water [25]. |
 | 1217 | hydrostratigraphic unit | See hydrogeologic unit. |
 | 1218 | hydroxylapatite | A cave mineral — Ca5(PO₄)3(OH) [11]. |
-| 1219 | hydrozincite | A cave mineral — Zn(CO₃)2(OH)6 [11]. |
+| 1219 | hydrozincite | A cave mineral — Zn(CO₃)₂(OH)6 [11]. |
 | 1220 | hyetograph | A graph of rainfall intensity against time [16]. |
 | 1221 | hygrometer | 1. An instrument that reads the humidity in the air directly; some are based on a hair's ability to shrink or expand with humidity, or on certain electronic chips.  Generally, a psychrometer is more accurate at higher humidities (above 95%) [23].  2. Apparatus for the direct measurement of the relative humidity in the atmosphere [16].  See also psychrometer. |
 | 1222 | hygroscopic nucleus | Small solid particles around which water condensates (cloud formation) [16]. |
@@ -1322,7 +1322,7 @@
 | 1320 | isotropy | The condition in which the property or properties of interest are the same in all directions [22]. |
 | 1321 | izdan | A general Yugoslavian term for a ground-water reservoir from which ground water may readily be extracted; it is not specifically a karst term [20]. |
 | 1322 | jama | 1. (Slavic) Vertical or steeply inclined shaft in limestone, known as abîme or aven in France and as pothole in England.  2. Any cave [10].  Synonyms: (French) jama; (German) Abgrund, Schacht, Schlund; (Greek) karstikon phrear; (Italian) abisso, foiba, pozzo, voragine; (Russian) karstovij kolodec, karstovaja sahta; (Spanish) sima, pozo, avenc; (Turkish) obruk; (Yugoslavian) bezdan, japaga, zvekara, pekel, brezno, prepad, propast.  Related to cenote, doline, obruk, pit, shaft, shake hole. |
-| 1323 | jarosite | A cave mineral — KFe3(SO₄)2(OH)6 [11]. |
+| 1323 | jarosite | A cave mineral — KFe3(SO₄)₂(OH)6 [11]. |
 | 1324 | joint | 1. A break of geological origin in the continuity of a body of rock occurring either singly, or more frequently in a set or system, but not attended by a visible movement parallel to the surface of the discontinuity.  2. A junction or connection of mechanical elements such as drill pipe [16]. See also fracture. |
 | 1325 | joint diagram | A diagram constructed by accurately plotting the strike and dip of joints to illustrate the geometrical relationship of the joints within a specified area of geologic investigation. |
 | 1326 | joint or fault set | A group of more or less parallel joints or faults. |
@@ -1473,7 +1473,7 @@
 | 1471 | magnesian limestone | Common but loose synonym for dolomitic limestone or dolomite rock.  The magnesian limestone of northern England is a rock sequence of Permian age that includes a locally variable number of beds of dolomitic limestone [9]. |
 | 1472 | magnesite | A cave mineral — MgCO₃ [11]. |
 | 1473 | magnetic north | The direction to the north magnetic pole at a given place and time. This differs from the direction towards which the north end of a compass points by a small individual compass error and by the effect of any local magnetic attraction [25]. |
-| 1474 | malachite | A cave mineral — Cu2(CO₃)(OH)2 [11]. |
+| 1474 | malachite | A cave mineral — Cu2(CO₃)(OH)₂ [11]. |
 | 1475 | mammals | The class of animals that includes bats, mice, man, and many others.  They typically have a body covering of hair and give birth to living young, which are nursed on milk from the mother's breast [23]. |
 | 1476 | manatial | (Spanish) Spring.  See also spring. |
 | 1477 | Manning equation | An equation used to compute the velocity of uniform flow in open channel: V=1.486/n R2/3 S1/2, where V is the mean velocity of flow (in cfs units), R is the hydraulic radius in feet, S is the slope of the channel or sine of the slope angle, and n is the Manning roughness coefficient [1].  See also Chézy equation; Froude number; Reynolds number. |
@@ -2090,7 +2090,7 @@
 | 2088 | self-cleaning capacity | The capacity of a river to clean its water of pollutants over a given length of water course [16]. |
 | 2089 | selenite needles | A sulfate speleothem having the shape of a needle that grows from gypsiferous cave soils [13].  See also speleothem. |
 | 2090 | semiconfined aquifer | See leaky aquifer. |
-| 2091 | sepiolite | A cave mineral — Mg4Si6O15(OH)2·6H₂O [11]. |
+| 2091 | sepiolite | A cave mineral — Mg4Si6O15(OH)₂·6H₂O [11]. |
 | 2092 | series | A subdivision of rock according to age at which they were laid down in a geologic epoch [16]. |
 | 2093 | setting of cement | The process of hardening of cement [16]. |
 | 2094 | settling basin | A basin used for the settling out of solids from suspension [16]. |
@@ -2204,7 +2204,7 @@
 | 2202 | speleothem | 1. General term for all cave mineral deposits, embracing all stalactites, flowstone, flowers, etc.  Most are formed of calcite whose precipitation processes, related mainly to carbon dioxide levels in the water, are the direct reverse of the dissolution of limestone.  Climatic influences on dissolution processes ensure that speleothems are generally larger and more abundant in the caves of the wet tropics, which are typified by thick stalactites and massive stalagmites, in contrast to the straws and flowstones of alpine caves [9].  2. General term for stalactites, stalagmites, moonmilk, helictites, and other secondary mineral deposits in caves and caverns [20].  3. A secondary mineral deposit formed in caves, such as stalactite or stalagmite [10]. Synonyms: (French) concrétions cavernicoles; (German) Höhlenformation; (Greek) speleolithoma; (Italian) concrezione; (Russian) natecnia obrazovanija; (Spanish) concreción (estalagmítica o estalactítica); (Turkish) magara oluşugu; (Yugoslavian) sige. See also cave formation. |
 | 2203 | spelunker | See caver. |
 | 2204 | spelunking | See caving. |
-| 2205 | spencerite | A cave mineral — Zn4(PO₄)2(OH)2·3H₂O [11]. |
+| 2205 | spencerite | A cave mineral — Zn4(PO₄)₂(OH)₂·3H₂O [11]. |
 | 2206 | sphalerite | A cave mineral — ZnS [11]. |
 | 2207 | spillway | A device that allows for the escape of excess water [16]. |
 | 2208 | Spitzkarren | (German) These are isolated projections that may be of a beehive form or may be sharply pointed and tend to lie between grikes and the strike ribs of bedding grikes [8].  See also grike; bedding grike; clint. |
@@ -2394,7 +2394,7 @@
 | 2393 | synclinal valley | A valley following the axis of a syncline [16]. |
 | 2394 | syncline | Downfolded stratum [16]. |
 | 2395 | syngenetic karst | 1. Karst developed contemporaneously with the lithification of the formation, as in eolian calcarenite where lithification and karstification of dune sands may proceed simultaneously [10].  2. Karst landforms that developed upon young, porous carbonate rocks, such as aeolianites, as they underwent lithification [9].  Synonyms: (French) karst syngénétique; (German) Syngenetischer Karst; (Greek) synegeticon karst; (Italian) carsismo singenetico; (Spanish) karst singenético; (Turkish) eştürümlü karst; (Yugoslavian) singenetski krs̃ (kras). |
-| 2396 | syngenite | A cave mineral — K2Ca(SO₄)2·H₂O [11]. |
+| 2396 | syngenite | A cave mineral — K2Ca(SO₄)₂·H₂O [11]. |
 | 2397 | synoptic network | A network of first order stations permitting the regular observation of weather for all points at the same time [16]. |
 | 2398 | synthetic unit hydrograph | A unit hydrograph constructed by assuming the reaction of a drainage basin will be based on its physical characteristics [16]. |
 | 2399 | table mountain |  A flat topped mountain (mesa) [16]. |
@@ -2405,7 +2405,7 @@
 | 2404 | tape | 1. In survey, a graduated tape of steel, plastic, wire-reinforced cloth, or fibreglass, used for measuring distance.  2. Strips of woven synthetic fibre used for slings and waist bands [25]. |
 | 2405 | taranakite | A cave mineral — KAl3(PO₄)3(OH)·9H₂O [11]. |
 | 2406 | tarbuttite | A cave mineral — Zn2(PO₄)(OH) [11]. |
-| 2407 | taylorite | A cave mineral — (K,NH₄)2SO₄ [11]. |
+| 2407 | taylorite | A cave mineral — (K,NH₄)₂SO₄ [11]. |
 | 2408 | tectokarst | Karst formed under the strong influence of tectonic disturbances.  The term is indefinite and its use is not generally recommended [20].  Synonyms: (French) tectokarst; (German) Tektonischer Karst; (Greek) tektonikon karst; (Russian) karst zon tektoniceskih razlomov; (Spanish) tectokarst; (Turkish) tektonik karst; (Yugoslavian) tektokrs̃, tektokras, tektokarst. |
 | 2409 | tectonic | Pertaining to structural features due to the deformation of the crust [16]. |
 | 2410 | tectonic cave | A cave formed by some form of ground movement.  The most common is due to landsliding in a jointed rock, leaving an open fissure cave parallel to the line of the hillside along the back of the slipped block.  Tectonic caves can form in any rock, as they do not depend on dissolution.  Well known examples are the windypit fissures of north-east Yorkshire, England some of which are hundreds of meters long and up to 60m deep [9]. |
@@ -2524,7 +2524,7 @@
 | 2523 | tubular spring | See spring, tubular. |
 | 2524 | tufa | Soft, porous concretions of carbonate reprecipitated from saturated karst water, often around plants [22].  See also sinter; travertine. |
 | 2525 | tunnel | See natural tunnel. |
-| 2526 | turanite | A cave mineral — Cu5(VO4)2(OH)4 [11]. |
+| 2526 | turanite | A cave mineral — Cu5(VO4)₂(OH)4 [11]. |
 | 2527 | turbidity | A diminishing of light penetration through a water sample due to suspended and colloidal materials. |
 | 2528 | turbulence | An irregular motion of fluid particles in an inertia dominated flow regimen [16]. |
 | 2529 | turbulent flow | 1. Type of flow that begins to develop in a dissolutional sub-conduit as its diameter increases to the point where differences between flow velocity at the bounding wall (slowed due to friction and adhesion) and the maximum velocity in the tube’s center are sufficient to cause development of eddies within the flowing water [9].  2. The flow condition in which inertial forces predominate over viscous forces and in which head loss is not linearly related to velocity [22].  It is typical of flow in surface-water bodies and subsurface conduits in karst terranes provided that the conduits have a minimum diameter of approximately 2–5mm although some research has suggested that 5–15 mm may be more appropriate.  See also laminar flow; Reynolds Number; turbulent threshold. |
@@ -2533,7 +2533,7 @@
 | 2532 | Turmkarst | (German) See tower karst. |
 | 2533 | twilight zone | The area of a cave where light penetrating through the entrance is sufficient to permit human vision [23].  See also zonation. |
 | 2534 | type curve | A plot of the theoretical well function verses the lower limit of the integral in Theis’ graphical solution method [16].  Numerous variations of Theis’ original work have been developed for which type curves readily exist. |
-| 2535 | tyuyamunite | A cave mineral — Ca(UO2)2(VO4)2·nH₂O [11]. |
+| 2535 | tyuyamunite | A cave mineral — Ca(UO2)₂(VO4)₂·nH₂O [11]. |
 | 2536 | unaltered rock | Rock that has not experienced physical or chemical erosion [16]. |
 | 2537 | unconfined | A condition in which the upper surface of the zone of saturation forms a water table under atmospheric pressure [22]. |
 | 2538 | unconfined aquifer | An aquifer where the water table is exposed to the atmosphere through openings in the overlying materials. |
