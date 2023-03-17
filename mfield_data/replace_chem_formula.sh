@@ -12,10 +12,11 @@ input="epa_mfield_2002_utf8.md"
 # Comment out ONLY ONE of the below then run this script.
 # Comment out each change when finished and comment as "done".
 # Note: Using vim, insert mode, Ctrl-v u 4char code.
-#before='H2O' ; after='H₂O'     # done
-#before='SO4' ; after='SO₄'     # done
-#before='CO3' ; after='CO₃'     # done
-#before='PO4' ; after='PO₄'     # done 21 
+#before='O2'   ; after='O₂'      # done 14
+#before='H2O'  ; after='H₂O'     # done
+#before='SO4'  ; after='SO₄'     # done
+#before='CO3'  ; after='CO₃'     # done
+#before='PO4'  ; after='PO₄'     # done 21 
 #before='Mn7O14' ; after='Mn₇O₁₄' # done 1
 #before='NH4'  ; after='NH₄'    # done 5
 #before='H2PO' ; after='H₂PO'   # done 1
