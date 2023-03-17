@@ -998,7 +998,7 @@
 | 996 | fracture pattern | The spacial arrangement of a group of fracture surfaces. |
 | 997 | fracture spring | See spring, fracture. |
 | 998 | fracturing | A formation of breaks in a rock due to folding or faulting [16]. |
-| 999 | francoanellite | A cave mineral — H6K3Al5(PO₄)₈·13H₂O [11]. |
+| 999 | francoanellite | A cave mineral — H₆K₃Al₅(PO₄)₈·13H₂O [11]. |
 | 1000 | free pitch | Where a rope or ladder hangs vertically and free of the walls [25]. |
 | 1001 | free-surface stream | In a cave, a stream that does not completely fill its passage [10]. |
 | 1002 | free water | See gravitational water. |
