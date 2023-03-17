@@ -245,7 +245,7 @@
 | 243 | B-horizon | Illuvial horizon in which soluble material from the overlying A-horizon has been deposited [16]. |
 | 244 | belay | A safety rope tied around a caver that is played out or taken in by a second person as the caver moves.  The purpose of the belay is to prevent the caver from falling more than a few feet [13]. |
 | 245 | beudantite | A cave mineral — PbFe₃(AsO₄)(SO₄)(OH)₆ [11]. |
-| 246 | bicarbonate | A salt containing the radical HCO₃⁻¹, such as Ca(HCO₃)₂ [10]. |
+| 246 | bicarbonate | A salt containing the radical HCO₃⁻, such as Ca(HCO₃)₂ [10]. |
 | 247 | bifurcation | The forklike separation of a water course into two arms [16]. |
 | 248 | bifurcation ratio | The ratio of the number of stream segments of a given order to the number of segments of next higher order [16]. |
 | 249 | biological clock | An inherited time-measuring process within a living thing, which governs its responses to certain external events [23]. |
