@@ -836,7 +836,7 @@
 | 834 | emergence | A general term for the outflowing water, for the opening or for the area of outflow of a karst spring; includes exsurgence and resurgence [20].  Synonyms: (French) émergence; (German) Ausfluβtelle, Karstquelle; (Greek) pigházon ýthor (or kephalari); (Italian) risorgenza; (Russian) vihod karstovih vod; (Spanish) fuente, manantial, surgencia; (Turkish) yüzeye erişim; (Yugoslavian) krško vrelo, krs ̃ki izvor, obrh.  See also exsurgence; resurgence; rise. |
 | 835 | encroachment | 1. The landward advancement of saline waters into coastal aquifers [16].  2. The displacement of clean water by pollutants [16]. |
 | 836 | end effect | A disturbance introduced by the inflow and outflow sections in a flow experiment [16]. |
-| 837 | endellite | A cave mineral — Al2Si2O5(OH)4·2H₂O [11]. |
+| 837 | endellite | A cave mineral — Al2Si2O5(OH)₄·2H₂O [11]. |
 | 838 | endogean | Pertaining to the domain immediately beneath the ground surface, i.e., in the soil or plant litter [25].  See also endogenic, epigean, hypogean. |
 | 839 | endogenic | 1. Pertaining to, or living in, the zone immediately beneath the earth’s surface [9].  2. Pertaining to geological process originating within the earth [16].  See also endogean, epigean, hypogean. |
 | 840 | endokarst | The part of a vertically layered karst system that is beneath the surface.  Endokarst includes the full spectrum of underground voids and the dissolutional features that are present on the rock surfaces surrounding them [9].  See also exokarst. |
@@ -1134,7 +1134,7 @@
 | 1132 | halocline | A locally steep salinity gradient along the interface between fresh ground-water and saline ground-water, such as is found at the base of the freshwater lens common beneath many limestone islands in the tropics. Water mixing and microbial activity are important influences on dissolution along the halocline, as shown for instance in blue holes [9]. |
 | 1133 | halomorphic soil | Saline and alkali soils. |
 | 1134 | hanging blade | A blade projecting down from the ceiling [10].  See also blade. |
-| 1135 | hannayite | A cave mineral — (NH₄)₂Mg3H4(PO₄)4·8H₂O [11]. |
+| 1135 | hannayite | A cave mineral — (NH₄)₂Mg3H4(PO₄)₄·8H₂O [11]. |
 | 1136 | hardening | The process of induration [16]. |
 | 1137 | hardness | 1. Property of water that prevents lathering because of the presence of cations, mainly calcium and magnesium, which form insoluble soaps [10].  2. The sum of calcium and magnesium ions expressed as the equivalent amount of calcium carbonate (CaCO₃) [16].  3. The property to form insoluble salts of fatty acid (soap) [16]. |
 | 1138 | hardpan | This develops when there are secondary calcium carbonate cementations in the lower part of the soil profile [16].  Synonym: mortar bed.  See also caliche; havara; nari. |
@@ -1158,7 +1158,7 @@
 | 1156 | heterogeneity | A characteristic of a medium in which material properties vary from point to point [22]. |
 | 1157 | heterogeneous | The unequal spacial distribution of aquifer properties [16]. |
 | 1158 | hexahydrite | A cave mineral — MgSO₄·6H₂O [11]. |
-| 1159 | hibbenite | A cave mineral — Zn7(PO₄)4(OH)₂·7H₂O [11]. |
+| 1159 | hibbenite | A cave mineral — Zn7(PO₄)₄(OH)₂·7H₂O [11]. |
 | 1160 | hibernation | A prolonged dormancy or sleeplike state in which animal body processes such as heartbeat and breathing slow down drastically and the animal neither eats nor drinks.  Nearly all cold-blooded animals and a few warm-blooded animals hibernate during the winter in cold climates.  Extremely large aggregations of bats, crickets, and spiders hibernate in some caves [23]. |
 | 1161 | histo, histoplasmosis | The disease caused by the fungus Histoplasma capsulatum, found in bird and bat guano, especially in the southern USA and the tropics.  An occupational disease of cavers, aviary and poultry workers, guano miners, and maintenance workers. Infection is usually caused by breathing the microscopic spores, which infect the lungs, or sometimes the eye. Flu-like symptoms accompanied by low-grade fever, breathing difficulties and pain, and miasma may start about 14 days after exposure and continue for weeks, months, or rarely until death, usually from complications.  Treatable with various anti-fungals, such as itroconazole.  Often misdiagnosed, as the standard tests may give a false negative [23]. |
 | 1162 | hod | See aisle. |
@@ -1177,7 +1177,7 @@
 | 1175 | humidity, absolute | The moisture content by weight per unit volume of air [16]. |
 | 1176 | humidity, relative | The ratio, expressed as a percentage, of the amount of water vapor actually present in air of a given temperature, as compared with the greatest possible amount of water vapor that could be present in air at that temperature.  Calculation of relative humidity can be done from tables, special slide rules or calculators, graphs, or complex equations [23].  See also hygrometer; psychrometer. |
 | 1177 | humus-water grooves | This is a special type of meandering karren or wall karren in which the water originated in humus covering.  Water originating from a humus cover has an excess of CO2 and is therefore, very aggressive and can dissolve large amounts of limestone.  Thus humus- water grooves can be very deep but after approximately 2–3 meters, the grooves flatten out and continue as normal meanders or wall karren [3].  See also meander karren; wall karren. |
-| 1178 | huntite | A cave mineral — CaMg3(CO₃)4 [11]. |
+| 1178 | huntite | A cave mineral — CaMg3(CO₃)₄ [11]. |
 | 1179 | hydration | The act by which a substance takes up water by absorption and/or adsorption [6]. |
 | 1180 | hydraulic barrier | A general term referring to modifications of a ground-water flow system to restrict or impede movement of contaminants [22]. |
 | 1181 | hydraulic conductivity | 1. A proportionality constant relating hydraulic gradient to specific discharge which for an isotropic medium and homogeneous fluid, equals the volume of water at the existing kinematic viscosity that will move in unit time under a unit hydraulic gradient through a unit area measured at right angles to the direction of flow [22].  2. The volume of water that will move through a medium in a unit of time under a unit hydraulic gradient through a unit area measured perpendicular to the direction of flow [22].  3. The ability of a rock unit to conduct water under specified conditions [10].  It is typically expressed as gpd/ft2, ft/day, or m/day. |
@@ -1207,7 +1207,7 @@
 | 1205 | hydrologic budget | The quantitative accounting of all water volumes and their changes over time for a given basin or province [16]. |
 | 1206 | hydrologic properties | Those properties of a rock that govern the entrance of water and the capacity to hold transmit, and deliver water, such as porosity, effective porosity, specific retention, permeability, and the directions of maximum and minimum permeabilities [22]. |
 | 1207 | hydrology | The study of atmospheric, surface, and subsurface waters and their connection with the water cycle [16]. |
-| 1208 | hydromagnesite | A cave mineral — Mg5(CO₃)4(OH)₂·4H₂O [11]. |
+| 1208 | hydromagnesite | A cave mineral — Mg5(CO₃)₄(OH)₂·4H₂O [11]. |
 | 1209 | hydrometeorology | Meteorology dealing with water in the atmosphere [16]. |
 | 1210 | hydrometric station | A station at which there usually are a number of hydrometric measurements being performed [16]. |
 | 1211 | hydrometry | The science of water measurements [16]. |
@@ -1567,7 +1567,7 @@
 | 1565 | monetite | A cave mineral — CaHPO₄ [11]. |
 | 1566 | monohydrocalcite | A cave mineral — CaCO₃·H₂O [11]. |
 | 1567 | monomolecular film | A layer of monomolecular thickness of a polar substance spread over a free water surface to prevent evaporation. |
-| 1568 | montgomeryite | A cave mineral — Ca4MgAl4(PO₄)₆(OH)4·12H₂O [11]. |
+| 1568 | montgomeryite | A cave mineral — Ca4MgAl4(PO₄)₆(OH)₄·12H₂O [11]. |
 | 1569 | montmorillonite | A clay mineral containing magnesium oxide (MgO) in its structure [16]. |
 | 1570 | moonmilk | 1. A white plastic calcareous cave deposit composed of calcite, huntite, or magnesite. From Swiss dialect moonmilch, elf’s milk.  Corrupt spelling mondmilch is common [10].  2. Deposits consisting mainly of very fine particles of calcium and magnesium carbonate precipitated from water in caves and caverns.  When in suspension, they give the water the appearance of milk.  Name originated in 1714 by M. B. Valentini (Fénelon) [20].  3. Moonmilk consists of a variety of hydrocarbonates some of which are associated with particular species of bacteria.  A common mineral in moonmilk from temperate caves is hydromagnesite; cold caves yield moonmilk of calcite after hydrocalcite [20].  Synonyms: (French) mondmilch; (German) Bergmilch, Montmilch; (Greek) speleogala; (Italian) latte di monte; (Russian) kamennce moloko; (Spanish) mondmilch, leche de luna; (Turkish) dik karstik kalıntı; (Yugoslavian) gorsko mlijeko (mleko).  Also mountain milk. |
 | 1571 | moor | A wet peat bog [16]. |
@@ -2002,7 +2002,7 @@
 | 2000 | rockhole | A shallow, small hole in rock outcrops, often rounded in form and holding water after rains.  Well known on the Nullarbor Plain, Australia [25]. |
 | 2001 | rockpile | A heap of blocks in a cave, roughly conical or part-conical in shape [25]. |
 | 2002 | rockfall | The falling of bedrock from a cliff or steep slope [16]. |
-| 2003 | romanechite | A cave mineral — BaMn9O16(OH)4 [11]. |
+| 2003 | romanechite | A cave mineral — BaMn9O16(OH)₄ [11]. |
 | 2004 | roof crust | Flowstone deposited on ceilings of caves from thin films of water, which have crept over the rock from pore or crack sources [10]. |
 | 2005 | roof drainage | Precipitation runoff from roofs. |
 | 2006 | roof pocket | Blind upward extension into the ceiling of a cave passage, commonly enlarged by dissolution along a transverse fracture, and less extensive than an aven or chimney [9]. |
@@ -2456,7 +2456,7 @@
 | 2455 | time of concentration | The time required for surface runoff produced in the farthest part of a basin to reach a concentration point under consideration [16]. |
 | 2456 | time of rise | The time between the first arrival of runoff and arrival of the peak flow [16]. |
 | 2457 | tinajita | (Spanish) See solution pan. |
-| 2458 | tinticite | A cave mineral — Fe6(PO₄)4(OH)₆·7H₂O [11]. |
+| 2458 | tinticite | A cave mineral — Fe6(PO₄)₄(OH)₆·7H₂O [11]. |
 | 2459 | toadstone | Local term in the Peak District, England for lavas, tuffs and igneous intrusions within the local Carboniferous carbonate sequence. |
 | 2460 | topofil | A mechanical cave survey device that uses a roll of thread and a distance counter, a protractor to measure inclination and a compass to measure the bearing [25]. |
 | 2461 | topographic divide | A crest line dividing one drainage basin from another [16].  See also divide. |
@@ -2524,7 +2524,7 @@
 | 2523 | tubular spring | See spring, tubular. |
 | 2524 | tufa | Soft, porous concretions of carbonate reprecipitated from saturated karst water, often around plants [22].  See also sinter; travertine. |
 | 2525 | tunnel | See natural tunnel. |
-| 2526 | turanite | A cave mineral — Cu5(VO4)₂(OH)4 [11]. |
+| 2526 | turanite | A cave mineral — Cu5(VO4)₂(OH)₄ [11]. |
 | 2527 | turbidity | A diminishing of light penetration through a water sample due to suspended and colloidal materials. |
 | 2528 | turbulence | An irregular motion of fluid particles in an inertia dominated flow regimen [16]. |
 | 2529 | turbulent flow | 1. Type of flow that begins to develop in a dissolutional sub-conduit as its diameter increases to the point where differences between flow velocity at the bounding wall (slowed due to friction and adhesion) and the maximum velocity in the tube’s center are sufficient to cause development of eddies within the flowing water [9].  2. The flow condition in which inertial forces predominate over viscous forces and in which head loss is not linearly related to velocity [22].  It is typical of flow in surface-water bodies and subsurface conduits in karst terranes provided that the conduits have a minimum diameter of approximately 2–5mm although some research has suggested that 5–15 mm may be more appropriate.  See also laminar flow; Reynolds Number; turbulent threshold. |
