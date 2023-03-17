@@ -1134,7 +1134,7 @@
 | 1132 | halocline | A locally steep salinity gradient along the interface between fresh ground-water and saline ground-water, such as is found at the base of the freshwater lens common beneath many limestone islands in the tropics. Water mixing and microbial activity are important influences on dissolution along the halocline, as shown for instance in blue holes [9]. |
 | 1133 | halomorphic soil | Saline and alkali soils. |
 | 1134 | hanging blade | A blade projecting down from the ceiling [10].  See also blade. |
-| 1135 | hannayite | A cave mineral — (NH₄)₂Mg3H4(PO₄)₄·8H₂O [11]. |
+| 1135 | hannayite | A cave mineral — (NH₄)₂Mg₃H₄(PO₄)₄·8H₂O [11]. |
 | 1136 | hardening | The process of induration [16]. |
 | 1137 | hardness | 1. Property of water that prevents lathering because of the presence of cations, mainly calcium and magnesium, which form insoluble soaps [10].  2. The sum of calcium and magnesium ions expressed as the equivalent amount of calcium carbonate (CaCO₃) [16].  3. The property to form insoluble salts of fatty acid (soap) [16]. |
 | 1138 | hardpan | This develops when there are secondary calcium carbonate cementations in the lower part of the soil profile [16].  Synonym: mortar bed.  See also caliche; havara; nari. |
@@ -1177,7 +1177,7 @@
 | 1175 | humidity, absolute | The moisture content by weight per unit volume of air [16]. |
 | 1176 | humidity, relative | The ratio, expressed as a percentage, of the amount of water vapor actually present in air of a given temperature, as compared with the greatest possible amount of water vapor that could be present in air at that temperature.  Calculation of relative humidity can be done from tables, special slide rules or calculators, graphs, or complex equations [23].  See also hygrometer; psychrometer. |
 | 1177 | humus-water grooves | This is a special type of meandering karren or wall karren in which the water originated in humus covering.  Water originating from a humus cover has an excess of CO2 and is therefore, very aggressive and can dissolve large amounts of limestone.  Thus humus- water grooves can be very deep but after approximately 2–3 meters, the grooves flatten out and continue as normal meanders or wall karren [3].  See also meander karren; wall karren. |
-| 1178 | huntite | A cave mineral — CaMg3(CO₃)₄ [11]. |
+| 1178 | huntite | A cave mineral — CaMg₃(CO₃)₄ [11]. |
 | 1179 | hydration | The act by which a substance takes up water by absorption and/or adsorption [6]. |
 | 1180 | hydraulic barrier | A general term referring to modifications of a ground-water flow system to restrict or impede movement of contaminants [22]. |
 | 1181 | hydraulic conductivity | 1. A proportionality constant relating hydraulic gradient to specific discharge which for an isotropic medium and homogeneous fluid, equals the volume of water at the existing kinematic viscosity that will move in unit time under a unit hydraulic gradient through a unit area measured at right angles to the direction of flow [22].  2. The volume of water that will move through a medium in a unit of time under a unit hydraulic gradient through a unit area measured perpendicular to the direction of flow [22].  3. The ability of a rock unit to conduct water under specified conditions [10].  It is typically expressed as gpd/ft2, ft/day, or m/day. |
@@ -2113,7 +2113,7 @@
 | 2111 | sieve opening | The opening between the mesh wires of a sieve [16]. |
 | 2112 | sieve retention | The material retained on a sieve [16]. |
 | 2113 | silicate rock | Rock containing silica in predominant proportions [16]. |
-| 2114 | silicic acid | H4SiO₄ monomeric acid [16]. |
+| 2114 | silicic acid | H₄SiO₄ monomeric acid [16]. |
 | 2115 | silicon dioxide | Silica (SiO2.) See also quartz. |
 | 2116 | Silikatkarren | (German) Granites and related rocks that possess small outcrop sculpturing such as rounded runnels.  They are best developed in the humid tropics such as Malaysia [8]. |
 | 2117 | silt | A grain particle with a diameter that ranges between 0.005 to 0.05 mm [16]. |
