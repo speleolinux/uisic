@@ -911,7 +911,7 @@
 | 909 | feldspars | A very common group of rock forming minerals [16]. |
 | 910 | fengcong; fengcong karst | (Chinese)  1. A karst, conspicuous in China, that is identified by its clustered limestone hills.  Fengcong (pronounced "fungston"), which translates as "peak cluster", is a mature karst normally developed during long uninterrupted periods of rapid dissolution in wet tropical environments with high levels of biogenic soil carbon dioxide.  The Chinese classify karst by the hill or peak density, in contrast to the Western classification by hill shape.  Fencong is almost the equivalent of cone karst; its closely packed hills are conical rather than hemispherical, with intervening dolines and disjointed valleys.  The major occurrences are in Guizhou and Guangxi, in southern China.  Some cones in Guangxi are so steep that they have been termed fengcong tower karst, but this concept is best avoided [9].  2. Tower karst characterized as peak cluster because the individual karst towers appear to be grouped together in clusters.  Closed depression among the peaks are common [4].  See also fenglin; fungling; mogote; tower karst. |
 | 911 | fenglin; fenglin karst | (Chinese) 1. A karst, conspicuous in China, that is identified by its isolated limestone hills.  Fenglin (pronounced "funglin") translates from Chinese as "peak forest", and is distinguished from fengcong.  Both fenglin and fengcong are mature karst normally only developed by long uninterrupted periods of rapid dissolution in wet tropical environments with high levels of biogenic soil carbon dioxide.  The Chinese classify karst by the hill or peak density, in contrast to the Western classification by hill shape.  Fenglin is therefore almost the equivalent of tower karst; its hills have very steep or vertical walls, and may have a height/width ratio greater than four.  The limestone hills rise above level, alluviated plains, and the finest fenglin karst around Yangshuo, Guangxi, in southern China, is one of the world’s most dramatic landscapes.  The classification by hill density means that low residual cones scattered across a plain are also referred to as fenglin by the Chinese [9].  2. Tower karst characterized as peak forest because the individual towers appear as isolated groups on a plain.  Dry valley networks separate individual towers [4].  See also fengcong; fungling; mogote; tower karst. |
-| 912 | ferghanite | A cave mineral — U3(VO4)₂·6H₂O [11]. |
+| 912 | ferghanite | A cave mineral — U3(VO₄)₂·6H₂O [11]. |
 | 913 | ferric oxide | Rust; hematite (Fe2O3) [16]. |
 | 914 | ferrito zone | Zone of iron oxide accumulation in soil under humid climate conditions [16]. |
 | 915 | Fickian diffusion | The spreading of solutes from regions of highest to regions of lower concentrations caused by the concentration gradient.  In slow moving ground water, this is the dominant mixing process [22]. |
@@ -1636,7 +1636,7 @@
 | 1634 | observation well | A well drilled for the purpose of observations such as water level or pressure recordings [16]. |
 | 1635 | oceanic water | Sea water with a total salt content of about 34,500 ppm [16]. |
 | 1636 | ojo, ojo de agua | (Spanish) An artesian spring in limestone regions, especially one forming a small pond; a vauclusian spring [10]. |
-| 1637 | olivenite | A cave mineral — Cu2(AsO4)(OH) [11]. |
+| 1637 | olivenite | A cave mineral — Cu2(AsO₄)(OH) [11]. |
 | 1638 | omnivore | An animal that habitually eats both plants and animals [23].  See also carnivore; herbivore; insectivore. |
 | 1639 | onyx marble | Translucent layers of calcium carbonate from cave deposits, often called Mexican onyx or cave onyx; used as an ornamental stone [10]. |
 | 1640 | oolite | A type of limestone that is composed largely or partly of ooliths.  Also known as oolitic limestone.  The best known examples in Britain, within the Jurassic limestone sequence of the Cotswolds, are of only moderate strength, very porous and only weakly cavernous.  In contrast, oolites of early Carboniferous age have hosted extensive cave development beneath Mymydd Llangattwg and in other parts of South Wales [9]. |
@@ -2113,7 +2113,7 @@
 | 2111 | sieve opening | The opening between the mesh wires of a sieve [16]. |
 | 2112 | sieve retention | The material retained on a sieve [16]. |
 | 2113 | silicate rock | Rock containing silica in predominant proportions [16]. |
-| 2114 | silicic acid | H4SiO4 monomeric acid [16]. |
+| 2114 | silicic acid | H4SiO₄ monomeric acid [16]. |
 | 2115 | silicon dioxide | Silica (SiO2.) See also quartz. |
 | 2116 | Silikatkarren | (German) Granites and related rocks that possess small outcrop sculpturing such as rounded runnels.  They are best developed in the humid tropics such as Malaysia [8]. |
 | 2117 | silt | A grain particle with a diameter that ranges between 0.005 to 0.05 mm [16]. |
@@ -2524,7 +2524,7 @@
 | 2523 | tubular spring | See spring, tubular. |
 | 2524 | tufa | Soft, porous concretions of carbonate reprecipitated from saturated karst water, often around plants [22].  See also sinter; travertine. |
 | 2525 | tunnel | See natural tunnel. |
-| 2526 | turanite | A cave mineral — Cu5(VO4)₂(OH)₄ [11]. |
+| 2526 | turanite | A cave mineral — Cu5(VO₄)₂(OH)₄ [11]. |
 | 2527 | turbidity | A diminishing of light penetration through a water sample due to suspended and colloidal materials. |
 | 2528 | turbulence | An irregular motion of fluid particles in an inertia dominated flow regimen [16]. |
 | 2529 | turbulent flow | 1. Type of flow that begins to develop in a dissolutional sub-conduit as its diameter increases to the point where differences between flow velocity at the bounding wall (slowed due to friction and adhesion) and the maximum velocity in the tube’s center are sufficient to cause development of eddies within the flowing water [9].  2. The flow condition in which inertial forces predominate over viscous forces and in which head loss is not linearly related to velocity [22].  It is typical of flow in surface-water bodies and subsurface conduits in karst terranes provided that the conduits have a minimum diameter of approximately 2–5mm although some research has suggested that 5–15 mm may be more appropriate.  See also laminar flow; Reynolds Number; turbulent threshold. |
@@ -2533,7 +2533,7 @@
 | 2532 | Turmkarst | (German) See tower karst. |
 | 2533 | twilight zone | The area of a cave where light penetrating through the entrance is sufficient to permit human vision [23].  See also zonation. |
 | 2534 | type curve | A plot of the theoretical well function verses the lower limit of the integral in Theis’ graphical solution method [16].  Numerous variations of Theis’ original work have been developed for which type curves readily exist. |
-| 2535 | tyuyamunite | A cave mineral — Ca(UO2)₂(VO4)₂·nH₂O [11]. |
+| 2535 | tyuyamunite | A cave mineral — Ca(UO2)₂(VO₄)₂·nH₂O [11]. |
 | 2536 | unaltered rock | Rock that has not experienced physical or chemical erosion [16]. |
 | 2537 | unconfined | A condition in which the upper surface of the zone of saturation forms a water table under atmospheric pressure [22]. |
 | 2538 | unconfined aquifer | An aquifer where the water table is exposed to the atmosphere through openings in the overlying materials. |
@@ -2575,7 +2575,7 @@
 | 2574 | valley fill | Unconsolidated debris accumulated on a valley bottom [16]. |
 | 2575 | valley sink | (American) An elongated closed depression or series of interconnecting depressions forming a valley-like depression.  Compare karst valley; uvala [10]. |
 | 2576 | valley spring | See spring, valley. |
-| 2577 | vanadinite | A cave mineral — Pb5(VO4)₃Cl [11]. |
+| 2577 | vanadinite | A cave mineral — Pb5(VO₄)₃Cl [11]. |
 | 2578 | vaporization | The process by which liquid or solid water changes into the gaseous state [16]. |
 | 2579 | variable-temperature zone | The area of a cave where air temperature fluctuates with the seasons. See also zonation. |
 | 2580 | variance | The square of the standard deviation [16]. |
