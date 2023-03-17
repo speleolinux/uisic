@@ -998,7 +998,7 @@
 | 996 | fracture pattern | The spacial arrangement of a group of fracture surfaces. |
 | 997 | fracture spring | See spring, fracture. |
 | 998 | fracturing | A formation of breaks in a rock due to folding or faulting [16]. |
-| 999 | francoanellite | A cave mineral — H6K3Al5(PO₄)8·13H₂O [11]. |
+| 999 | francoanellite | A cave mineral — H6K3Al5(PO₄)₈·13H₂O [11]. |
 | 1000 | free pitch | Where a rope or ladder hangs vertically and free of the walls [25]. |
 | 1001 | free-surface stream | In a cave, a stream that does not completely fill its passage [10]. |
 | 1002 | free water | See gravitational water. |
@@ -2674,7 +2674,7 @@
 | 2673 | wetted perimeter | The perimeter over which flowing water is in actual contact with the channel walls and bottom [16]. |
 | 2674 | wetting period | The period of contact between a liquid and a solid surface during which wetting occurs [16]. |
 | 2675 | whaletail | A descender consisting of an aluminium block with slots, knobs and a safety gate [25]. |
-| 2676 | whitlockite | A cave mineral — Ca9(Mg,Fe)H(PO₄)7 [11]. |
+| 2676 | whitlockite | A cave mineral — Ca9(Mg,Fe)H(PO₄)₇ [11]. |
 | 2677 | width of contribution | The width of the contributing region between the ground-water divide from which water enters a well.  This usually occurs with an inclined piezometric surface [16]. |
 | 2678 | wilt, to | The shrinking of cell walls due to loss in turgor as a result of water deficiency in the plant [16]. |
 | 2679 | wilting coefficient, wilting point | The soil moisture content at which plants wilt [16]. |
