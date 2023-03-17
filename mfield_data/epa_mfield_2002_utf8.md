@@ -109,7 +109,7 @@
 | 107 | anthropocentric definitions | Definitions of caves or parts of caves that include accessibility by human explorers as one of their limiting conditions.  Most well known among these is the definition published by the International Speleological Union, that "A cave is a natural underground opening in rock that is large enough for human entry" (see proto-caves) [9]. |
 | 108 | anticlinal valley | A valley that is established along the axis of an eroded anticline [16]. |
 | 109 | anticline | Upfolded stratum [16]. |
-| 110 | aphthitalite | A cave mineral — (K,Na)3Na(SO₄)₂ [11]. |
+| 110 | aphthitalite | A cave mineral — (K,Na)₃Na(SO₄)₂ [11]. |
 | 111 | apparent ground-water velocity | See specific discharge. |
 | 112 | appendage | An arm or other limb that branches from an animal's body [23]. |
 | 113 | approach segment | That part of a hydrograph curve before onset of precipitation [16]. See also hydrograph. |
@@ -370,9 +370,9 @@
 | 368 | carbide, calcium carbide | A compound (CaC₂) of grayish color that reacts with water to produce acetylene gas and calcium hydroxide [Ca(OH)₂] [13].  Commonly used by cavers and miners earlier in this century as a means of providing light in caves or mines.  Some cavers still prefer carbide lights over electric lights.  See also carbide lamp. |
 | 369 | carbide lamp | A carbide lamp, also known as a miners’ carbide lamp or acetylene lamp was introduced into mine use at about 1897.  It consists of two chambers, a water tank above and a removable carbide canister below with a connection valve to permit controlled seepage of water into the calcium carbide.  The carbide and water react to generate calcium hydroxide [Ca(OH)₂] and acetylene gas.  The gas is passed through a filter into a tube and through a tiny burner-tip orifice designed for the optimum mixture of air and acetylene.  Once ignited, it burns with a brilliant yellow-white flame produced by the incandescence of tiny carbon particles.  A reflector concentrates the light in a particular direction [13]. |
 | 370 | carbonate | 1. A salt or ester of carbonic acid; a compound containing the radical CO₃²⁻, such as calcium carbonate, CaCO₃.  2. A rock consisting mainly of carbonate minerals, such as limestone or dolomite [10]. |
-| 371 | carbonate-fluorapatite | A cave mineral — Ca5(PO₄,CO₃)3F [11]. |
+| 371 | carbonate-fluorapatite | A cave mineral — Ca5(PO₄,CO₃)₃F [11]. |
 | 372 | carbonate hardness | Hardness of water due to presence of dissolved bicarbonates of calcium and magnesium which can be removed by boiling and hence the term "temporary hardness". Synonyms: (French) dureté temporaire; (German) temporäre Härte, Carbonathärte; (Greek) parothiki sklipotis anthrakiki sklirotis; (Italian) durezza temporanea; (Russian) karbonatnaja zestkostj; (Spanish) dureza temporal; (Turkish) karbonat sertligi; (Yugoslavian) turdoóa, trdota. |
-| 373 | carbonate-hydroxylapatite | A cave mineral — Ca5(PO₄,CO₃)3(OH) [11]. |
+| 373 | carbonate-hydroxylapatite | A cave mineral — Ca5(PO₄,CO₃)₃(OH) [11]. |
 | 374 | carbonate rock | A rock that consists of one or more carbonate minerals.  Carbonate rock successions (or sequences) are those in which carbonate rock is dominant, but which also contain rocks of other lithology [9]. |
 | 375 | carbonic acid dissolution | Dissolution of calcium carbonate by carbon dioxide in aqueous solution, loosely termed carbonic acid, is the dominant reaction in karst processes, including speleogenesis.  The reaction can be considered in several ways but it is most simply represented as: CaCO₃ + CO2 + H₂O ⇌ Ca(HCO₃)₂ The reaction is reversible.  The solution containing the dissolved reaction product, usually termed calcium bicarbonate, can lose carbon dioxide to the atmosphere and precipitate calcium carbonate. This process is responsible for the development of speleothems underground and tufa or travertine at the surface [9]. |
 | 376 | carnivore | An animal that lives by eating the flesh of other animals [23].  See also herbivore; insectivore; omnivore. |
@@ -967,7 +967,7 @@
 | 965 | flowmeter | An instrument for measuring volumetric flowrate [16]. |
 | 966 | flowstone | Deposits of calcium carbonate, gypsum, and other mineral matter which have accumulated on the walls or floors of caves at places where water trickles or flows over the rock [10].  Layered deposits of calcium carbonate precipitated on rocks from water trickling over them [20].  (French) coulée stalagmitique; (German) Sinterfall, Sinter; (Greek) asvestolithikon epiphlioma; (Italian) colata stalagmitica, deposito, concrezione, stalagmite; (Russian) nateki; (Spanish) colada estalagmítica; (Turkish) akmataşı; (Yugoslavian) kaskade.  See also dripstone. |
 | 967 | fluid potential | The mechanical energy per unit mass of a fluid at any given point in space and time with regard to an arbitrary state and datum [22]. |
-| 968 | fluorapatite | A cave mineral — Ca5(PO₄)3F [11]. |
+| 968 | fluorapatite | A cave mineral — Ca5(PO₄)₃F [11]. |
 | 969 | fluorite | A cave mineral — CaF2 [11]. |
 | 970 | flume | A channel supported on or above ground [16]. |
 | 971 | fluorescein | A reddish-yellow crystalline compound that imparts a brilliant green fluorescent color to water in very dilute solutions; used to label underground water for identification of an emergence [10]. Also commonly known as uranine. Dye type: Xanthene. |
@@ -1217,7 +1217,7 @@
 | 1215 | hydrosphere | That part of the earth that contains liquid or solid water [16]. |
 | 1216 | hydrostatic pressure | The pressure due to a column of water [25]. |
 | 1217 | hydrostratigraphic unit | See hydrogeologic unit. |
-| 1218 | hydroxylapatite | A cave mineral — Ca5(PO₄)3(OH) [11]. |
+| 1218 | hydroxylapatite | A cave mineral — Ca5(PO₄)₃(OH) [11]. |
 | 1219 | hydrozincite | A cave mineral — Zn(CO₃)₂(OH)6 [11]. |
 | 1220 | hyetograph | A graph of rainfall intensity against time [16]. |
 | 1221 | hygrometer | 1. An instrument that reads the humidity in the air directly; some are based on a hair's ability to shrink or expand with humidity, or on certain electronic chips.  Generally, a psychrometer is more accurate at higher humidities (above 95%) [23].  2. Apparatus for the direct measurement of the relative humidity in the atmosphere [16].  See also psychrometer. |
@@ -2403,7 +2403,7 @@
 | 2402 | tailwater | The lower course of a river with respect to a given point of structure [16]. |
 | 2403 | talus cone | A cone-like collection of disintegrated rock material originating from and adjacent to a steeper slope [16]. |
 | 2404 | tape | 1. In survey, a graduated tape of steel, plastic, wire-reinforced cloth, or fibreglass, used for measuring distance.  2. Strips of woven synthetic fibre used for slings and waist bands [25]. |
-| 2405 | taranakite | A cave mineral — KAl3(PO₄)3(OH)·9H₂O [11]. |
+| 2405 | taranakite | A cave mineral — KAl3(PO₄)₃(OH)·9H₂O [11]. |
 | 2406 | tarbuttite | A cave mineral — Zn2(PO₄)(OH) [11]. |
 | 2407 | taylorite | A cave mineral — (K,NH₄)₂SO₄ [11]. |
 | 2408 | tectokarst | Karst formed under the strong influence of tectonic disturbances.  The term is indefinite and its use is not generally recommended [20].  Synonyms: (French) tectokarst; (German) Tektonischer Karst; (Greek) tektonikon karst; (Russian) karst zon tektoniceskih razlomov; (Spanish) tectokarst; (Turkish) tektonik karst; (Yugoslavian) tektokrs̃, tektokras, tektokarst. |
@@ -2575,7 +2575,7 @@
 | 2574 | valley fill | Unconsolidated debris accumulated on a valley bottom [16]. |
 | 2575 | valley sink | (American) An elongated closed depression or series of interconnecting depressions forming a valley-like depression.  Compare karst valley; uvala [10]. |
 | 2576 | valley spring | See spring, valley. |
-| 2577 | vanadinite | A cave mineral — Pb5(VO4)3Cl [11]. |
+| 2577 | vanadinite | A cave mineral — Pb5(VO4)₃Cl [11]. |
 | 2578 | vaporization | The process by which liquid or solid water changes into the gaseous state [16]. |
 | 2579 | variable-temperature zone | The area of a cave where air temperature fluctuates with the seasons. See also zonation. |
 | 2580 | variance | The square of the standard deviation [16]. |
