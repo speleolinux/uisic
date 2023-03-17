@@ -1152,8 +1152,8 @@
 | 1150 | helictite | 1. Generally small variety of stalactitic calcite growth that is twisted and contorted with no apparent regard for gravity.  Helictites form on cave walls, ceilings, and on stalactites.  The growth develops as seepage water loses carbon dioxide from near its tip, having been supplied to that point by capillary action through a fine central canal.  The helictite shape is created by crystal lattice distortion and crystal form changes within the calcite, but what causes these is uncertain.  Impurities may plan a role, and rare groups of parallel growing helictites may be wind-guided [9].  2. Irregular, twig-like, crystalline growths with varying orientations but often in crystal continuity, formed in caves by precipitation from bicarbonate solutions [20].  3. A curved or angular twiglike lateral projection of calcium carbonate having a tiny central canal, found in caves [10].  Also known as eccentric anemolite [20]; eccentric stalactite.  Synonyms: (French) excentrique; (German) exzentrisch gekrümmter, Tropfstein, Excentriques; (Greek) stalaktits akanonistos; (Italian) stalattiti anomale, eccentiche; (Spanish) estalactita excentrica; (Turkish) düzensiz sarkıt; (Yugoslavian) heliktit.  Related to curtain, dripstone, speleothem. |
 | 1151 | heligmite | An eccentric growing upward from a cave floor or from a shelf in a cave.  A curved or angular thin stalagmite [10]. |
 | 1152 | helmet | A miner's, climber's or other kind of non-metallic, protective helmet used in caving. |
-| 1153 | hematite | A cave mineral — Fe2O3 [11]. |
-| 1154 | hemimorphite | A cave mineral — Zn4Si2O7(OH)₂·H₂O [11]. |
+| 1153 | hematite | A cave mineral — Fe₂O₃ [11]. |
+| 1154 | hemimorphite | A cave mineral — Zn₄Si₂O₇(OH)₂·H₂O [11]. |
 | 1155 | herbivore | An animal that eats plants, thus making the energy stored in plants available to carnivores [23].  See also carnivore; insectivore; omnivore. |
 | 1156 | heterogeneity | A characteristic of a medium in which material properties vary from point to point [22]. |
 | 1157 | heterogeneous | The unequal spacial distribution of aquifer properties [16]. |
@@ -1567,7 +1567,7 @@
 | 1565 | monetite | A cave mineral — CaHPO₄ [11]. |
 | 1566 | monohydrocalcite | A cave mineral — CaCO₃·H₂O [11]. |
 | 1567 | monomolecular film | A layer of monomolecular thickness of a polar substance spread over a free water surface to prevent evaporation. |
-| 1568 | montgomeryite | A cave mineral — Ca4MgAl4(PO₄)₆(OH)₄·12H₂O [11]. |
+| 1568 | montgomeryite | A cave mineral — Ca₄MgAl₄(PO₄)₆(OH)₄·12H₂O [11]. |
 | 1569 | montmorillonite | A clay mineral containing magnesium oxide (MgO) in its structure [16]. |
 | 1570 | moonmilk | 1. A white plastic calcareous cave deposit composed of calcite, huntite, or magnesite. From Swiss dialect moonmilch, elf’s milk.  Corrupt spelling mondmilch is common [10].  2. Deposits consisting mainly of very fine particles of calcium and magnesium carbonate precipitated from water in caves and caverns.  When in suspension, they give the water the appearance of milk.  Name originated in 1714 by M. B. Valentini (Fénelon) [20].  3. Moonmilk consists of a variety of hydrocarbonates some of which are associated with particular species of bacteria.  A common mineral in moonmilk from temperate caves is hydromagnesite; cold caves yield moonmilk of calcite after hydrocalcite [20].  Synonyms: (French) mondmilch; (German) Bergmilch, Montmilch; (Greek) speleogala; (Italian) latte di monte; (Russian) kamennce moloko; (Spanish) mondmilch, leche de luna; (Turkish) dik karstik kalıntı; (Yugoslavian) gorsko mlijeko (mleko).  Also mountain milk. |
 | 1571 | moor | A wet peat bog [16]. |
@@ -2204,7 +2204,7 @@
 | 2202 | speleothem | 1. General term for all cave mineral deposits, embracing all stalactites, flowstone, flowers, etc.  Most are formed of calcite whose precipitation processes, related mainly to carbon dioxide levels in the water, are the direct reverse of the dissolution of limestone.  Climatic influences on dissolution processes ensure that speleothems are generally larger and more abundant in the caves of the wet tropics, which are typified by thick stalactites and massive stalagmites, in contrast to the straws and flowstones of alpine caves [9].  2. General term for stalactites, stalagmites, moonmilk, helictites, and other secondary mineral deposits in caves and caverns [20].  3. A secondary mineral deposit formed in caves, such as stalactite or stalagmite [10]. Synonyms: (French) concrétions cavernicoles; (German) Höhlenformation; (Greek) speleolithoma; (Italian) concrezione; (Russian) natecnia obrazovanija; (Spanish) concreción (estalagmítica o estalactítica); (Turkish) magara oluşugu; (Yugoslavian) sige. See also cave formation. |
 | 2203 | spelunker | See caver. |
 | 2204 | spelunking | See caving. |
-| 2205 | spencerite | A cave mineral — Zn4(PO₄)₂(OH)₂·3H₂O [11]. |
+| 2205 | spencerite | A cave mineral — Zn₄(PO₄)₂(OH)₂·3H₂O [11]. |
 | 2206 | sphalerite | A cave mineral — ZnS [11]. |
 | 2207 | spillway | A device that allows for the escape of excess water [16]. |
 | 2208 | Spitzkarren | (German) These are isolated projections that may be of a beehive form or may be sharply pointed and tend to lie between grikes and the strike ribs of bedding grikes [8].  See also grike; bedding grike; clint. |
@@ -2404,7 +2404,7 @@
 | 2403 | talus cone | A cone-like collection of disintegrated rock material originating from and adjacent to a steeper slope [16]. |
 | 2404 | tape | 1. In survey, a graduated tape of steel, plastic, wire-reinforced cloth, or fibreglass, used for measuring distance.  2. Strips of woven synthetic fibre used for slings and waist bands [25]. |
 | 2405 | taranakite | A cave mineral — KAl₃(PO₄)₃(OH)·9H₂O [11]. |
-| 2406 | tarbuttite | A cave mineral — Zn2(PO₄)(OH) [11]. |
+| 2406 | tarbuttite | A cave mineral — Zn₂(PO₄)(OH) [11]. |
 | 2407 | taylorite | A cave mineral — (K,NH₄)₂SO₄ [11]. |
 | 2408 | tectokarst | Karst formed under the strong influence of tectonic disturbances.  The term is indefinite and its use is not generally recommended [20].  Synonyms: (French) tectokarst; (German) Tektonischer Karst; (Greek) tektonikon karst; (Russian) karst zon tektoniceskih razlomov; (Spanish) tectokarst; (Turkish) tektonik karst; (Yugoslavian) tektokrs̃, tektokras, tektokarst. |
 | 2409 | tectonic | Pertaining to structural features due to the deformation of the crust [16]. |
@@ -2456,7 +2456,7 @@
 | 2455 | time of concentration | The time required for surface runoff produced in the farthest part of a basin to reach a concentration point under consideration [16]. |
 | 2456 | time of rise | The time between the first arrival of runoff and arrival of the peak flow [16]. |
 | 2457 | tinajita | (Spanish) See solution pan. |
-| 2458 | tinticite | A cave mineral — Fe6(PO₄)₄(OH)₆·7H₂O [11]. |
+| 2458 | tinticite | A cave mineral — Fe₆(PO₄)₄(OH)₆·7H₂O [11]. |
 | 2459 | toadstone | Local term in the Peak District, England for lavas, tuffs and igneous intrusions within the local Carboniferous carbonate sequence. |
 | 2460 | topofil | A mechanical cave survey device that uses a roll of thread and a distance counter, a protractor to measure inclination and a compass to measure the bearing [25]. |
 | 2461 | topographic divide | A crest line dividing one drainage basin from another [16].  See also divide. |
@@ -2674,7 +2674,7 @@
 | 2673 | wetted perimeter | The perimeter over which flowing water is in actual contact with the channel walls and bottom [16]. |
 | 2674 | wetting period | The period of contact between a liquid and a solid surface during which wetting occurs [16]. |
 | 2675 | whaletail | A descender consisting of an aluminium block with slots, knobs and a safety gate [25]. |
-| 2676 | whitlockite | A cave mineral — Ca9(Mg,Fe)H(PO₄)₇ [11]. |
+| 2676 | whitlockite | A cave mineral — Ca₉(Mg,Fe)H(PO₄)₇ [11]. |
 | 2677 | width of contribution | The width of the contributing region between the ground-water divide from which water enters a well.  This usually occurs with an inclined piezometric surface [16]. |
 | 2678 | wilt, to | The shrinking of cell walls due to loss in turgor as a result of water deficiency in the plant [16]. |
 | 2679 | wilting coefficient, wilting point | The soil moisture content at which plants wilt [16]. |
