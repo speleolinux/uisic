@@ -154,7 +154,7 @@
 | 152 | attapulgite clay | A colloidal, viscosity-building clay consisting of hydrous magnesium aluminum silicates and used principally in salt-water drilling fluids [6]. |
 | 153 | attrition | The wearing away of rocks by friction [16]. |
 | 154 | auger | A rotary drilling device where the dry cuttings are removed continuously by helical grooves on the drill pipe [16]. |
-| 155 | aurichalcite | A cave mineral — (Zn,Cu)5(CO₃)₂(OH)6. |
+| 155 | aurichalcite | A cave mineral — (Zn,Cu)5(CO₃)₂(OH)₆. |
 | 156 | autochthonous | Property pertaining to sedimentary material originating and deposited at about the same location [16]. See also allochthonous. |
 | 157 | autochthonous drainage | Less common synonym for autogenic drainage [9]. |
 | 158 | autogenic, authigenic | Formed or generated in place [1].  See also allogenic; recharge, autogenic; recharge, allogenic. |
@@ -297,7 +297,7 @@
 | 295 | bridging effect | The forming of arches in a packing of materials [16]. |
 | 296 | brine | Water containing more than 100,000 ppm of total dissolved solids [16]. |
 | 297 | brittle deformation | The sudden failure of a rock with complete loss of cohesion across a plane. |
-| 298 | brochantite | A cave mineral — Cu4(SO₄)(OH)6 [11]. |
+| 298 | brochantite | A cave mineral — Cu4(SO₄)(OH)₆ [11]. |
 | 299 | brushite | A cave mineral — CaHPO₄·2H₂O [11]. |
 | 300 | bubble gage | A stage recorder based on the principle of equating a gas pressure to water level [16]. |
 | 301 | bucket | A measuring reservoir in liquid gaging instruments [16]. |
@@ -1218,7 +1218,7 @@
 | 1216 | hydrostatic pressure | The pressure due to a column of water [25]. |
 | 1217 | hydrostratigraphic unit | See hydrogeologic unit. |
 | 1218 | hydroxylapatite | A cave mineral — Ca5(PO₄)₃(OH) [11]. |
-| 1219 | hydrozincite | A cave mineral — Zn(CO₃)₂(OH)6 [11]. |
+| 1219 | hydrozincite | A cave mineral — Zn(CO₃)₂(OH)₆ [11]. |
 | 1220 | hyetograph | A graph of rainfall intensity against time [16]. |
 | 1221 | hygrometer | 1. An instrument that reads the humidity in the air directly; some are based on a hair's ability to shrink or expand with humidity, or on certain electronic chips.  Generally, a psychrometer is more accurate at higher humidities (above 95%) [23].  2. Apparatus for the direct measurement of the relative humidity in the atmosphere [16].  See also psychrometer. |
 | 1222 | hygroscopic nucleus | Small solid particles around which water condensates (cloud formation) [16]. |
@@ -1322,7 +1322,7 @@
 | 1320 | isotropy | The condition in which the property or properties of interest are the same in all directions [22]. |
 | 1321 | izdan | A general Yugoslavian term for a ground-water reservoir from which ground water may readily be extracted; it is not specifically a karst term [20]. |
 | 1322 | jama | 1. (Slavic) Vertical or steeply inclined shaft in limestone, known as abîme or aven in France and as pothole in England.  2. Any cave [10].  Synonyms: (French) jama; (German) Abgrund, Schacht, Schlund; (Greek) karstikon phrear; (Italian) abisso, foiba, pozzo, voragine; (Russian) karstovij kolodec, karstovaja sahta; (Spanish) sima, pozo, avenc; (Turkish) obruk; (Yugoslavian) bezdan, japaga, zvekara, pekel, brezno, prepad, propast.  Related to cenote, doline, obruk, pit, shaft, shake hole. |
-| 1323 | jarosite | A cave mineral — KFe3(SO₄)₂(OH)6 [11]. |
+| 1323 | jarosite | A cave mineral — KFe3(SO₄)₂(OH)₆ [11]. |
 | 1324 | joint | 1. A break of geological origin in the continuity of a body of rock occurring either singly, or more frequently in a set or system, but not attended by a visible movement parallel to the surface of the discontinuity.  2. A junction or connection of mechanical elements such as drill pipe [16]. See also fracture. |
 | 1325 | joint diagram | A diagram constructed by accurately plotting the strike and dip of joints to illustrate the geometrical relationship of the joints within a specified area of geologic investigation. |
 | 1326 | joint or fault set | A group of more or less parallel joints or faults. |
@@ -1567,7 +1567,7 @@
 | 1565 | monetite | A cave mineral — CaHPO₄ [11]. |
 | 1566 | monohydrocalcite | A cave mineral — CaCO₃·H₂O [11]. |
 | 1567 | monomolecular film | A layer of monomolecular thickness of a polar substance spread over a free water surface to prevent evaporation. |
-| 1568 | montgomeryite | A cave mineral — Ca4MgAl4(PO₄)6(OH)4·12H₂O [11]. |
+| 1568 | montgomeryite | A cave mineral — Ca4MgAl4(PO₄)₆(OH)4·12H₂O [11]. |
 | 1569 | montmorillonite | A clay mineral containing magnesium oxide (MgO) in its structure [16]. |
 | 1570 | moonmilk | 1. A white plastic calcareous cave deposit composed of calcite, huntite, or magnesite. From Swiss dialect moonmilch, elf’s milk.  Corrupt spelling mondmilch is common [10].  2. Deposits consisting mainly of very fine particles of calcium and magnesium carbonate precipitated from water in caves and caverns.  When in suspension, they give the water the appearance of milk.  Name originated in 1714 by M. B. Valentini (Fénelon) [20].  3. Moonmilk consists of a variety of hydrocarbonates some of which are associated with particular species of bacteria.  A common mineral in moonmilk from temperate caves is hydromagnesite; cold caves yield moonmilk of calcite after hydrocalcite [20].  Synonyms: (French) mondmilch; (German) Bergmilch, Montmilch; (Greek) speleogala; (Italian) latte di monte; (Russian) kamennce moloko; (Spanish) mondmilch, leche de luna; (Turkish) dik karstik kalıntı; (Yugoslavian) gorsko mlijeko (mleko).  Also mountain milk. |
 | 1571 | moor | A wet peat bog [16]. |
@@ -2456,7 +2456,7 @@
 | 2455 | time of concentration | The time required for surface runoff produced in the farthest part of a basin to reach a concentration point under consideration [16]. |
 | 2456 | time of rise | The time between the first arrival of runoff and arrival of the peak flow [16]. |
 | 2457 | tinajita | (Spanish) See solution pan. |
-| 2458 | tinticite | A cave mineral — Fe6(PO₄)4(OH)6·7H₂O [11]. |
+| 2458 | tinticite | A cave mineral — Fe6(PO₄)4(OH)₆·7H₂O [11]. |
 | 2459 | toadstone | Local term in the Peak District, England for lavas, tuffs and igneous intrusions within the local Carboniferous carbonate sequence. |
 | 2460 | topofil | A mechanical cave survey device that uses a roll of thread and a distance counter, a protractor to measure inclination and a compass to measure the bearing [25]. |
 | 2461 | topographic divide | A crest line dividing one drainage basin from another [16].  See also divide. |
