@@ -252,7 +252,7 @@
 | 250 | biomass | The total weight of living matter, whether in an entire community, at a particular trophic level, or of a particular kind of organism in the community.  Thus we may refer to the biomass of a pond community, of herbivores in the pond, or of copepods in the pond [23]. |
 | 251 | biomicrite | A microscopic-textured limestone composed of skeletal grains in a matrix of micrite; micrite is a finely crystalline carbonate sediment with the upper crystalline diameter being 4 microns [20].  Synonyms: (French) biomicrite; (German) Biomicrite; (Greek) micrite; (Italian) biomicrite; (Spanish) biomicrita; (Turkish) biyomikrit; (Yugoslavian) biomikrit.  See also micrite; peloid. |
 | 252 | biospeleology | 1. The study of subterranean living organisms, particularly in karst caves and other openings in rock formations[9, 21].  2. The scientific study of cave animal life, or the biology of caves, karst, and groundwater.  A biologist who specializes in this study is called a biospeleologist [23].  Synonyms: (French) biospéléologie,  biospéologie; (German) Biospeläologie; (Greek) biospeleology; (Italian) biospeleogia; (Russian) biospeleologija; (Spanish) biospeleología; (Turkish) biyospeleoloji, magara canlıları bilimi; (Yugoslavian) biospeleologija. |
-| 253 | biphosphammite | A cave mineral — NH4H2PO4 [11]. |
+| 253 | biphosphammite | A cave mineral — NH4H2PO₄ [11]. |
 | 254 | birnessite | A cave mineral — (Na,Ca)Mn7O14·3H₂O [11]. |
 | 255 | blade | In a cave, a thin sharp projection jutting out from roof, wall, or floor, of which it is an integral part; generally the remains of a partition or bridge [10]. |
 | 256 | blanket | A thick layer of dripstone, not translucent [10].  See also bacon; curtain; drapery. |
@@ -298,7 +298,7 @@
 | 296 | brine | Water containing more than 100,000 ppm of total dissolved solids [16]. |
 | 297 | brittle deformation | The sudden failure of a rock with complete loss of cohesion across a plane. |
 | 298 | brochantite | A cave mineral — Cu4(SO₄)(OH)6 [11]. |
-| 299 | brushite | A cave mineral — CaHPO4·2H₂O [11]. |
+| 299 | brushite | A cave mineral — CaHPO₄·2H₂O [11]. |
 | 300 | bubble gage | A stage recorder based on the principle of equating a gas pressure to water level [16]. |
 | 301 | bucket | A measuring reservoir in liquid gaging instruments [16]. |
 | 302 | buffered solution | A solution that resists changes in the pH value upon addition of acids or bases [16]. |
@@ -370,9 +370,9 @@
 | 368 | carbide, calcium carbide | A compound (CaC₂) of grayish color that reacts with water to produce acetylene gas and calcium hydroxide [Ca(OH)2] [13].  Commonly used by cavers and miners earlier in this century as a means of providing light in caves or mines.  Some cavers still prefer carbide lights over electric lights.  See also carbide lamp. |
 | 369 | carbide lamp | A carbide lamp, also known as a miners’ carbide lamp or acetylene lamp was introduced into mine use at about 1897.  It consists of two chambers, a water tank above and a removable carbide canister below with a connection valve to permit controlled seepage of water into the calcium carbide.  The carbide and water react to generate calcium hydroxide [Ca(OH)2] and acetylene gas.  The gas is passed through a filter into a tube and through a tiny burner-tip orifice designed for the optimum mixture of air and acetylene.  Once ignited, it burns with a brilliant yellow-white flame produced by the incandescence of tiny carbon particles.  A reflector concentrates the light in a particular direction [13]. |
 | 370 | carbonate | 1. A salt or ester of carbonic acid; a compound containing the radical CO₃²⁻, such as calcium carbonate, CaCO₃.  2. A rock consisting mainly of carbonate minerals, such as limestone or dolomite [10]. |
-| 371 | carbonate-fluorapatite | A cave mineral — Ca5(PO4,CO₃)3F [11]. |
+| 371 | carbonate-fluorapatite | A cave mineral — Ca5(PO₄,CO₃)3F [11]. |
 | 372 | carbonate hardness | Hardness of water due to presence of dissolved bicarbonates of calcium and magnesium which can be removed by boiling and hence the term "temporary hardness". Synonyms: (French) dureté temporaire; (German) temporäre Härte, Carbonathärte; (Greek) parothiki sklipotis anthrakiki sklirotis; (Italian) durezza temporanea; (Russian) karbonatnaja zestkostj; (Spanish) dureza temporal; (Turkish) karbonat sertligi; (Yugoslavian) turdoóa, trdota. |
-| 373 | carbonate-hydroxylapatite | A cave mineral — Ca5(PO4,CO₃)3(OH) [11]. |
+| 373 | carbonate-hydroxylapatite | A cave mineral — Ca5(PO₄,CO₃)3(OH) [11]. |
 | 374 | carbonate rock | A rock that consists of one or more carbonate minerals.  Carbonate rock successions (or sequences) are those in which carbonate rock is dominant, but which also contain rocks of other lithology [9]. |
 | 375 | carbonic acid dissolution | Dissolution of calcium carbonate by carbon dioxide in aqueous solution, loosely termed carbonic acid, is the dominant reaction in karst processes, including speleogenesis.  The reaction can be considered in several ways but it is most simply represented as: CaCO₃ + CO2 + H₂O ⇌ Ca(HCO₃)2 The reaction is reversible.  The solution containing the dissolved reaction product, usually termed calcium bicarbonate, can lose carbon dioxide to the atmosphere and precipitate calcium carbonate. This process is responsible for the development of speleothems underground and tufa or travertine at the surface [9]. |
 | 376 | carnivore | An animal that lives by eating the flesh of other animals [23].  See also herbivore; insectivore; omnivore. |
@@ -609,7 +609,7 @@
 | 607 | covered karst | 1. A fossil or currently developing karst in karst limestone which underlies superficial deposits or other rock, and which may produce landforms at the surface which reflect subsurface karstification [19]; contrasted with naked karst, which is soil free.  See also buried karst; interstratal karst; mantled karst; subsoil karst; sulfate-reduction karst.   2. A generally subdued karst landscape developed where carbonate rocks are affected by dissolutional processes beneath a soil cover (see bare karst) [9]. Synonyms: (French) karst couvert; (German) Bedeckter karst; (Greek) kekalymenon karst; (Italian) carso coperto; (Russian) pokrytyĭ karst, pokritij karst; (Spanish) karst cubierto; (Turkish) örtülü karst; (Yugoslavian) pokriveni krš, pokriti kras. |
 | 608 | cow’s tail | A length of rope used as a safety when crossing a rebelay [25]. |
 | 609 | crack | 1. Tight joint [16].  2. A small fracture (i.e. small with respect to the scale of the feature in which it occurs). |
-| 610 | crandallite | A cave mineral — CaAl3(PO4)2(OH)5·H₂O [11]. |
+| 610 | crandallite | A cave mineral — CaAl3(PO₄)2(OH)5·H₂O [11]. |
 | 611 | crawl, crawlway | A cave passage that is large enough to be negotiated on hands and knees [10] or so small as to require a caver to squeeze through on his/her back or belly [13]. |
 | 612 | creek, brook | Watercourse of lesser volume than a river. |
 | 613 | crescentic wall niche | See meander niche. |
@@ -967,7 +967,7 @@
 | 965 | flowmeter | An instrument for measuring volumetric flowrate [16]. |
 | 966 | flowstone | Deposits of calcium carbonate, gypsum, and other mineral matter which have accumulated on the walls or floors of caves at places where water trickles or flows over the rock [10].  Layered deposits of calcium carbonate precipitated on rocks from water trickling over them [20].  (French) coulée stalagmitique; (German) Sinterfall, Sinter; (Greek) asvestolithikon epiphlioma; (Italian) colata stalagmitica, deposito, concrezione, stalagmite; (Russian) nateki; (Spanish) colada estalagmítica; (Turkish) akmataşı; (Yugoslavian) kaskade.  See also dripstone. |
 | 967 | fluid potential | The mechanical energy per unit mass of a fluid at any given point in space and time with regard to an arbitrary state and datum [22]. |
-| 968 | fluorapatite | A cave mineral — Ca5(PO4)3F [11]. |
+| 968 | fluorapatite | A cave mineral — Ca5(PO₄)3F [11]. |
 | 969 | fluorite | A cave mineral — CaF2 [11]. |
 | 970 | flume | A channel supported on or above ground [16]. |
 | 971 | fluorescein | A reddish-yellow crystalline compound that imparts a brilliant green fluorescent color to water in very dilute solutions; used to label underground water for identification of an emergence [10]. Also commonly known as uranine. Dye type: Xanthene. |
@@ -998,7 +998,7 @@
 | 996 | fracture pattern | The spacial arrangement of a group of fracture surfaces. |
 | 997 | fracture spring | See spring, fracture. |
 | 998 | fracturing | A formation of breaks in a rock due to folding or faulting [16]. |
-| 999 | francoanellite | A cave mineral — H6K3Al5(PO4)8·13H₂O [11]. |
+| 999 | francoanellite | A cave mineral — H6K3Al5(PO₄)8·13H₂O [11]. |
 | 1000 | free pitch | Where a rope or ladder hangs vertically and free of the walls [25]. |
 | 1001 | free-surface stream | In a cave, a stream that does not completely fill its passage [10]. |
 | 1002 | free water | See gravitational water. |
@@ -1134,7 +1134,7 @@
 | 1132 | halocline | A locally steep salinity gradient along the interface between fresh ground-water and saline ground-water, such as is found at the base of the freshwater lens common beneath many limestone islands in the tropics. Water mixing and microbial activity are important influences on dissolution along the halocline, as shown for instance in blue holes [9]. |
 | 1133 | halomorphic soil | Saline and alkali soils. |
 | 1134 | hanging blade | A blade projecting down from the ceiling [10].  See also blade. |
-| 1135 | hannayite | A cave mineral — (NH4)2Mg3H4(PO4)4·8H₂O [11]. |
+| 1135 | hannayite | A cave mineral — (NH4)2Mg3H4(PO₄)4·8H₂O [11]. |
 | 1136 | hardening | The process of induration [16]. |
 | 1137 | hardness | 1. Property of water that prevents lathering because of the presence of cations, mainly calcium and magnesium, which form insoluble soaps [10].  2. The sum of calcium and magnesium ions expressed as the equivalent amount of calcium carbonate (CaCO₃) [16].  3. The property to form insoluble salts of fatty acid (soap) [16]. |
 | 1138 | hardpan | This develops when there are secondary calcium carbonate cementations in the lower part of the soil profile [16].  Synonym: mortar bed.  See also caliche; havara; nari. |
@@ -1158,7 +1158,7 @@
 | 1156 | heterogeneity | A characteristic of a medium in which material properties vary from point to point [22]. |
 | 1157 | heterogeneous | The unequal spacial distribution of aquifer properties [16]. |
 | 1158 | hexahydrite | A cave mineral — MgSO₄·6H₂O [11]. |
-| 1159 | hibbenite | A cave mineral — Zn7(PO4)4(OH)2·7H₂O [11]. |
+| 1159 | hibbenite | A cave mineral — Zn7(PO₄)4(OH)2·7H₂O [11]. |
 | 1160 | hibernation | A prolonged dormancy or sleeplike state in which animal body processes such as heartbeat and breathing slow down drastically and the animal neither eats nor drinks.  Nearly all cold-blooded animals and a few warm-blooded animals hibernate during the winter in cold climates.  Extremely large aggregations of bats, crickets, and spiders hibernate in some caves [23]. |
 | 1161 | histo, histoplasmosis | The disease caused by the fungus Histoplasma capsulatum, found in bird and bat guano, especially in the southern USA and the tropics.  An occupational disease of cavers, aviary and poultry workers, guano miners, and maintenance workers. Infection is usually caused by breathing the microscopic spores, which infect the lungs, or sometimes the eye. Flu-like symptoms accompanied by low-grade fever, breathing difficulties and pain, and miasma may start about 14 days after exposure and continue for weeks, months, or rarely until death, usually from complications.  Treatable with various anti-fungals, such as itroconazole.  Often misdiagnosed, as the standard tests may give a false negative [23]. |
 | 1162 | hod | See aisle. |
@@ -1167,7 +1167,7 @@
 | 1165 | homogeneous | The even spacial distribution of aquifer properties [16]. |
 | 1166 | homogeneous fluid | A fluid that occurs in a single phase [16]. |
 | 1167 | hook gage | A gage for the precise position measurement of liquid levels [16]. |
-| 1168 | hopeite | A cave mineral — Zn3(PO4)2·4H₂O [11]. |
+| 1168 | hopeite | A cave mineral — Zn3(PO₄)2·4H₂O [11]. |
 | 1169 | horizontal angle | The difference in direction of two survey lines measured clockwise in a horizontal plane [25]. |
 | 1170 | horst | A block having been uplifted along its boundary faults [16]. |
 | 1171 | Horton number | Expresses the relative intensity of erosion process in a drainage basin [16]. |
@@ -1217,7 +1217,7 @@
 | 1215 | hydrosphere | That part of the earth that contains liquid or solid water [16]. |
 | 1216 | hydrostatic pressure | The pressure due to a column of water [25]. |
 | 1217 | hydrostratigraphic unit | See hydrogeologic unit. |
-| 1218 | hydroxylapatite | A cave mineral — Ca5(PO4)3(OH) [11]. |
+| 1218 | hydroxylapatite | A cave mineral — Ca5(PO₄)3(OH) [11]. |
 | 1219 | hydrozincite | A cave mineral — Zn(CO₃)2(OH)6 [11]. |
 | 1220 | hyetograph | A graph of rainfall intensity against time [16]. |
 | 1221 | hygrometer | 1. An instrument that reads the humidity in the air directly; some are based on a hair's ability to shrink or expand with humidity, or on certain electronic chips.  Generally, a psychrometer is more accurate at higher humidities (above 95%) [23].  2. Apparatus for the direct measurement of the relative humidity in the atmosphere [16].  See also psychrometer. |
@@ -1564,10 +1564,10 @@
 | 1562 | molecular diffusion, coefficient of | The component of mass transport flux of solutes (at the microscopic level) due to variations in solute concentrations within the fluid phases. Synonymous with diffusion coefficient [22]. |
 | 1563 | molecule | A stable configuration of atomic nuclei and electrons bound together by electrostatic and electromagnetic forces.  It is the simplest structural unit that displays the characteristic physical and chemical properties of a compound [6]. |
 | 1564 | mollisol | A soil layer subject annual thawing and freezing, often becoming mobile upon thawing [16]. |
-| 1565 | monetite | A cave mineral — CaHPO4 [11]. |
+| 1565 | monetite | A cave mineral — CaHPO₄ [11]. |
 | 1566 | monohydrocalcite | A cave mineral — CaCO₃·H₂O [11]. |
 | 1567 | monomolecular film | A layer of monomolecular thickness of a polar substance spread over a free water surface to prevent evaporation. |
-| 1568 | montgomeryite | A cave mineral — Ca4MgAl4(PO4)6(OH)4·12H₂O [11]. |
+| 1568 | montgomeryite | A cave mineral — Ca4MgAl4(PO₄)6(OH)4·12H₂O [11]. |
 | 1569 | montmorillonite | A clay mineral containing magnesium oxide (MgO) in its structure [16]. |
 | 1570 | moonmilk | 1. A white plastic calcareous cave deposit composed of calcite, huntite, or magnesite. From Swiss dialect moonmilch, elf’s milk.  Corrupt spelling mondmilch is common [10].  2. Deposits consisting mainly of very fine particles of calcium and magnesium carbonate precipitated from water in caves and caverns.  When in suspension, they give the water the appearance of milk.  Name originated in 1714 by M. B. Valentini (Fénelon) [20].  3. Moonmilk consists of a variety of hydrocarbonates some of which are associated with particular species of bacteria.  A common mineral in moonmilk from temperate caves is hydromagnesite; cold caves yield moonmilk of calcite after hydrocalcite [20].  Synonyms: (French) mondmilch; (German) Bergmilch, Montmilch; (Greek) speleogala; (Italian) latte di monte; (Russian) kamennce moloko; (Spanish) mondmilch, leche de luna; (Turkish) dik karstik kalıntı; (Yugoslavian) gorsko mlijeko (mleko).  Also mountain milk. |
 | 1571 | moor | A wet peat bog [16]. |
@@ -1687,7 +1687,7 @@
 | 1685 | pan coefficient | Coefficient to correlate a high rate of evaporation in a pan to an evaporation rate from larger water bodies [16]. |
 | 1686 | panhole | See solution pan. |
 | 1687 | paragenesis | A type of cave passage development in which erosion of the passage floor is inhibited by the presence of an armoring layer of sediment, such that any dissolutional enlargement is dominantly upwards [9].  Generally, an unproven and unsupported theory. |
-| 1688 | paragenetic cave | Cave passage, usually of canyon form, believed to be created by paragenesis. Passage formation by paragenesis is normally very difficult to prove, as later sediment removal leaves a passage that looks very similar to the far more common vadose canyon.  It is thought that some of the larger canyons in the Flint Mammoth Cave System, USA, may have formed in this way [9]. . parahopeite.  A cave mineral — Zn3(PO4)2·4H₂O [11]. |
+| 1688 | paragenetic cave | Cave passage, usually of canyon form, believed to be created by paragenesis. Passage formation by paragenesis is normally very difficult to prove, as later sediment removal leaves a passage that looks very similar to the far more common vadose canyon.  It is thought that some of the larger canyons in the Flint Mammoth Cave System, USA, may have formed in this way [9]. . parahopeite.  A cave mineral — Zn3(PO₄)2·4H₂O [11]. |
 | 1689 | paraphreatic | A paraphreatic passage has an air surface under relatively low flow conditions, when drainage is within the capacity of its downstream continuation, but reverts to being water- filled (phreatic) under conditions of high flow or when the downstream drainage is temporarily impeded [9]. |
 | 1690 | parent material | Material from which soil or sediment was formed [16]. |
 | 1691 | parietal fauna | Pertaining to the inhabitants on the walls of the entrance and twilight zones of a cave [23]. |
@@ -2059,7 +2059,7 @@
 | 2057 | scats | Animal droppings, an important source of food in caves [23]. |
 | 2058 | scavenger | An animal that eats the dead remains and wastes of other animals and plants [23].  See also predator. |
 | 2059 | Schichtfugenkarren | (German) See bedding grike. |
-| 2060 | scholzite | A cave mineral — CaZn2(PO4)2·2H₂O [11]. |
+| 2060 | scholzite | A cave mineral — CaZn2(PO₄)2·2H₂O [11]. |
 | 2061 | scour | The erosive action of running water in streams [16]. |
 | 2062 | screen, screen pipe | Slotted well casing that is positioned within the producing horizon to prevent the inflow of detrital particles into a well while allowing the inflow of water.  See also well screen. |
 | 2063 | sea cave | 1. A cave cut in any rock type where a geological weakness is exploited by the highly selective erosion power of wave action.  Fingal’s Cave, cut in the basalt of Staffa, Scotland, is a famous example.  True sea caves should not be confused with dissolutional caves that pre-dated the wave action but were then intersected and revealed as a cliff line was eroded back such as caves in the Chalk at Beachy Head in south-east England.  In some young tropical islands, dissolutional voids have formed below sea-level in the mixing zone between fresh and saline ground water.  Some have subsequently been tectonically uplifted into a shoreline position, to give the misleading impression of having developed due to waver action.  Caves of this type on the coast of Tongatapu, Tonga, have pools that connect with active dissolutional cavities below sea-level that might be related to the mixing zone [9].  2. A cave or cleft in a sea cliff or coastal karst outcrop eroded by waves or currents or dissolved by circulating ground water [20]. Synonyms: (French) grotte marine; (German) Küstenhöhle, Meereshöhle; (Greek) thalassion spelson - paraktion speleon; (Italian) grotta marina; (Russian) morskaja pescera; (Spanish) cueva marina; (Turkish) deniz mağarası; (Yugoslavian) morska pećina (spilja).  See cave. Compare nip.  See also littoral zone. |
@@ -2204,7 +2204,7 @@
 | 2202 | speleothem | 1. General term for all cave mineral deposits, embracing all stalactites, flowstone, flowers, etc.  Most are formed of calcite whose precipitation processes, related mainly to carbon dioxide levels in the water, are the direct reverse of the dissolution of limestone.  Climatic influences on dissolution processes ensure that speleothems are generally larger and more abundant in the caves of the wet tropics, which are typified by thick stalactites and massive stalagmites, in contrast to the straws and flowstones of alpine caves [9].  2. General term for stalactites, stalagmites, moonmilk, helictites, and other secondary mineral deposits in caves and caverns [20].  3. A secondary mineral deposit formed in caves, such as stalactite or stalagmite [10]. Synonyms: (French) concrétions cavernicoles; (German) Höhlenformation; (Greek) speleolithoma; (Italian) concrezione; (Russian) natecnia obrazovanija; (Spanish) concreción (estalagmítica o estalactítica); (Turkish) magara oluşugu; (Yugoslavian) sige. See also cave formation. |
 | 2203 | spelunker | See caver. |
 | 2204 | spelunking | See caving. |
-| 2205 | spencerite | A cave mineral — Zn4(PO4)2(OH)2·3H₂O [11]. |
+| 2205 | spencerite | A cave mineral — Zn4(PO₄)2(OH)2·3H₂O [11]. |
 | 2206 | sphalerite | A cave mineral — ZnS [11]. |
 | 2207 | spillway | A device that allows for the escape of excess water [16]. |
 | 2208 | Spitzkarren | (German) These are isolated projections that may be of a beehive form or may be sharply pointed and tend to lie between grikes and the strike ribs of bedding grikes [8].  See also grike; bedding grike; clint. |
@@ -2403,8 +2403,8 @@
 | 2402 | tailwater | The lower course of a river with respect to a given point of structure [16]. |
 | 2403 | talus cone | A cone-like collection of disintegrated rock material originating from and adjacent to a steeper slope [16]. |
 | 2404 | tape | 1. In survey, a graduated tape of steel, plastic, wire-reinforced cloth, or fibreglass, used for measuring distance.  2. Strips of woven synthetic fibre used for slings and waist bands [25]. |
-| 2405 | taranakite | A cave mineral — KAl3(PO4)3(OH)·9H₂O [11]. |
-| 2406 | tarbuttite | A cave mineral — Zn2(PO4)(OH) [11]. |
+| 2405 | taranakite | A cave mineral — KAl3(PO₄)3(OH)·9H₂O [11]. |
+| 2406 | tarbuttite | A cave mineral — Zn2(PO₄)(OH) [11]. |
 | 2407 | taylorite | A cave mineral — (K,NH4)2SO₄ [11]. |
 | 2408 | tectokarst | Karst formed under the strong influence of tectonic disturbances.  The term is indefinite and its use is not generally recommended [20].  Synonyms: (French) tectokarst; (German) Tektonischer Karst; (Greek) tektonikon karst; (Russian) karst zon tektoniceskih razlomov; (Spanish) tectokarst; (Turkish) tektonik karst; (Yugoslavian) tektokrs̃, tektokras, tektokarst. |
 | 2409 | tectonic | Pertaining to structural features due to the deformation of the crust [16]. |
@@ -2456,7 +2456,7 @@
 | 2455 | time of concentration | The time required for surface runoff produced in the farthest part of a basin to reach a concentration point under consideration [16]. |
 | 2456 | time of rise | The time between the first arrival of runoff and arrival of the peak flow [16]. |
 | 2457 | tinajita | (Spanish) See solution pan. |
-| 2458 | tinticite | A cave mineral — Fe6(PO4)4(OH)6·7H₂O [11]. |
+| 2458 | tinticite | A cave mineral — Fe6(PO₄)4(OH)6·7H₂O [11]. |
 | 2459 | toadstone | Local term in the Peak District, England for lavas, tuffs and igneous intrusions within the local Carboniferous carbonate sequence. |
 | 2460 | topofil | A mechanical cave survey device that uses a roll of thread and a distance counter, a protractor to measure inclination and a compass to measure the bearing [25]. |
 | 2461 | topographic divide | A crest line dividing one drainage basin from another [16].  See also divide. |
@@ -2579,7 +2579,7 @@
 | 2578 | vaporization | The process by which liquid or solid water changes into the gaseous state [16]. |
 | 2579 | variable-temperature zone | The area of a cave where air temperature fluctuates with the seasons. See also zonation. |
 | 2580 | variance | The square of the standard deviation [16]. |
-| 2581 | variscite | A cave mineral — AlPO4·2H₂O [11]. |
+| 2581 | variscite | A cave mineral — AlPO₄·2H₂O [11]. |
 | 2582 | varve | The alternating of coarse and fine grained layers in glacial lake sediments [16]. |
 | 2583 | vasque | A large, shallow solution pan formed in the intertidal zone of warm seas by the action of brine and marine organisms [19]. |
 | 2584 | vauclusian spring; vauclusian rising | See spring, vauclusian. |
@@ -2674,7 +2674,7 @@
 | 2673 | wetted perimeter | The perimeter over which flowing water is in actual contact with the channel walls and bottom [16]. |
 | 2674 | wetting period | The period of contact between a liquid and a solid surface during which wetting occurs [16]. |
 | 2675 | whaletail | A descender consisting of an aluminium block with slots, knobs and a safety gate [25]. |
-| 2676 | whitlockite | A cave mineral — Ca9(Mg,Fe)H(PO4)7 [11]. |
+| 2676 | whitlockite | A cave mineral — Ca9(Mg,Fe)H(PO₄)7 [11]. |
 | 2677 | width of contribution | The width of the contributing region between the ground-water divide from which water enters a well.  This usually occurs with an inclined piezometric surface [16]. |
 | 2678 | wilt, to | The shrinking of cell walls due to loss in turgor as a result of water deficiency in the plant [16]. |
 | 2679 | wilting coefficient, wilting point | The soil moisture content at which plants wilt [16]. |
