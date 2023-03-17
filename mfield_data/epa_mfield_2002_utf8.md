@@ -154,7 +154,7 @@
 | 152 | attapulgite clay | A colloidal, viscosity-building clay consisting of hydrous magnesium aluminum silicates and used principally in salt-water drilling fluids [6]. |
 | 153 | attrition | The wearing away of rocks by friction [16]. |
 | 154 | auger | A rotary drilling device where the dry cuttings are removed continuously by helical grooves on the drill pipe [16]. |
-| 155 | aurichalcite | A cave mineral — (Zn,Cu)5(CO₃)₂(OH)₆. |
+| 155 | aurichalcite | A cave mineral — (Zn,Cu)₅(CO₃)₂(OH)₆. |
 | 156 | autochthonous | Property pertaining to sedimentary material originating and deposited at about the same location [16]. See also allochthonous. |
 | 157 | autochthonous drainage | Less common synonym for autogenic drainage [9]. |
 | 158 | autogenic, authigenic | Formed or generated in place [1].  See also allogenic; recharge, autogenic; recharge, allogenic. |
@@ -609,7 +609,7 @@
 | 607 | covered karst | 1. A fossil or currently developing karst in karst limestone which underlies superficial deposits or other rock, and which may produce landforms at the surface which reflect subsurface karstification [19]; contrasted with naked karst, which is soil free.  See also buried karst; interstratal karst; mantled karst; subsoil karst; sulfate-reduction karst.   2. A generally subdued karst landscape developed where carbonate rocks are affected by dissolutional processes beneath a soil cover (see bare karst) [9]. Synonyms: (French) karst couvert; (German) Bedeckter karst; (Greek) kekalymenon karst; (Italian) carso coperto; (Russian) pokrytyĭ karst, pokritij karst; (Spanish) karst cubierto; (Turkish) örtülü karst; (Yugoslavian) pokriveni krš, pokriti kras. |
 | 608 | cow’s tail | A length of rope used as a safety when crossing a rebelay [25]. |
 | 609 | crack | 1. Tight joint [16].  2. A small fracture (i.e. small with respect to the scale of the feature in which it occurs). |
-| 610 | crandallite | A cave mineral — CaAl₃(PO₄)₂(OH)5·H₂O [11]. |
+| 610 | crandallite | A cave mineral — CaAl₃(PO₄)₂(OH)₅·H₂O [11]. |
 | 611 | crawl, crawlway | A cave passage that is large enough to be negotiated on hands and knees [10] or so small as to require a caver to squeeze through on his/her back or belly [13]. |
 | 612 | creek, brook | Watercourse of lesser volume than a river. |
 | 613 | crescentic wall niche | See meander niche. |
@@ -968,7 +968,7 @@
 | 966 | flowstone | Deposits of calcium carbonate, gypsum, and other mineral matter which have accumulated on the walls or floors of caves at places where water trickles or flows over the rock [10].  Layered deposits of calcium carbonate precipitated on rocks from water trickling over them [20].  (French) coulée stalagmitique; (German) Sinterfall, Sinter; (Greek) asvestolithikon epiphlioma; (Italian) colata stalagmitica, deposito, concrezione, stalagmite; (Russian) nateki; (Spanish) colada estalagmítica; (Turkish) akmataşı; (Yugoslavian) kaskade.  See also dripstone. |
 | 967 | fluid potential | The mechanical energy per unit mass of a fluid at any given point in space and time with regard to an arbitrary state and datum [22]. |
 | 968 | fluorapatite | A cave mineral — Ca₅(PO₄)₃F [11]. |
-| 969 | fluorite | A cave mineral — CaF2 [11]. |
+| 969 | fluorite | A cave mineral — CaF₂ [11]. |
 | 970 | flume | A channel supported on or above ground [16]. |
 | 971 | fluorescein | A reddish-yellow crystalline compound that imparts a brilliant green fluorescent color to water in very dilute solutions; used to label underground water for identification of an emergence [10]. Also commonly known as uranine. Dye type: Xanthene. |
 | 972 | fluorescent dyes | Material used in environmental tracing studies that may be detected and measured in small concentrations (≈10–12 mg/L), are inexpensive, relatively nontoxic, and are relatively miscible with the water being traced. |
