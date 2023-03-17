@@ -297,7 +297,7 @@
 | 295 | bridging effect | The forming of arches in a packing of materials [16]. |
 | 296 | brine | Water containing more than 100,000 ppm of total dissolved solids [16]. |
 | 297 | brittle deformation | The sudden failure of a rock with complete loss of cohesion across a plane. |
-| 298 | brochantite | A cave mineral — Cu4(SO₄)(OH)₆ [11]. |
+| 298 | brochantite | A cave mineral — Cu₄(SO₄)(OH)₆ [11]. |
 | 299 | brushite | A cave mineral — CaHPO₄·2H₂O [11]. |
 | 300 | bubble gage | A stage recorder based on the principle of equating a gas pressure to water level [16]. |
 | 301 | bucket | A measuring reservoir in liquid gaging instruments [16]. |
@@ -649,7 +649,7 @@
 | 647 | curve fitting | The fitting of experimental data points to a theoretical type curve [16]. |
 | 648 | cutter | 1. (Tennessee) Solution crevice in limestone underlying residual phosphate deposits.  2. A karren-like groove formed beneath the soil, more commonly referred to as subsoil karren [10].  See also karren. |
 | 649 | cuttings | Rock chips loosened from the bottom of a borehole by drilling [16]. |
-| 650 | cyanotrichite | A cave mineral — Cu4Al2(SO₄)(OH)12·2H₂O [11]. |
+| 650 | cyanotrichite | A cave mineral — Cu₄Al₂(SO₄)(OH)₁₂·2H₂O [11]. |
 | 651 | cycle | Regular periodic occurrence of an event [16]. |
 | 652 | dam | A structure across a watercourse that impounds water; may be natural or artificial [16]. |
 | 653 | damping | The process of gradually reducing amplitude of a periodic event such as acoustic oscillations in velocity logging [16]. |
