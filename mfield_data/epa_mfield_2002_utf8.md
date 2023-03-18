@@ -1870,7 +1870,7 @@
 | 1868 | pumping test | A test designed to determine aquifer characteristics by pumping a well and plotting the drawdown curves of observation wells for comparison with theoretical curves. |
 | 1869 | pupa (plural pupae) | The inactive stage in the life history of certain insects during which the larva undergoes a gradual reorganization of its tissues in the process of becoming an adult.  See also metamorphosis. |
 | 1870 | pycnometer | A bottle with an accurately determined volume for density determinations [16]. |
-| 1871 | pyrite | Iron sulfide mineral (FeS2) also known as iron pyrites and fool’s gold.  Pyrite occurs in trace amounts in many sedimentary rocks.  It may be locally common in dark carbonaceous limestone and in thin non-carbonate beds such as shales, coals and wayboards.  Pyrite may break down spontaneously, with or without bacterial mediation, to form sulfates, particularly sulphuric acid, that may be involved in early speleogensis [9]. |
+| 1871 | pyrite | Iron sulfide mineral (FeS₂) also known as iron pyrites and fool’s gold.  Pyrite occurs in trace amounts in many sedimentary rocks.  It may be locally common in dark carbonaceous limestone and in thin non-carbonate beds such as shales, coals and wayboards.  Pyrite may break down spontaneously, with or without bacterial mediation, to form sulfates, particularly sulphuric acid, that may be involved in early speleogensis [9]. |
 | 1872 | pyrrhotite | A cave mineral — FeS [11]. |
 | 1873 | quagmire | A wet unstable land area [16]. |
 | 1874 | quartz | A crystal form of silicon dioxide (SiO₂) [16]. |
@@ -2002,7 +2002,7 @@
 | 2000 | rockhole | A shallow, small hole in rock outcrops, often rounded in form and holding water after rains.  Well known on the Nullarbor Plain, Australia [25]. |
 | 2001 | rockpile | A heap of blocks in a cave, roughly conical or part-conical in shape [25]. |
 | 2002 | rockfall | The falling of bedrock from a cliff or steep slope [16]. |
-| 2003 | romanechite | A cave mineral — BaMn9O16(OH)₄ [11]. |
+| 2003 | romanechite | A cave mineral — BaMn₉O₁₆(OH)₄ [11]. |
 | 2004 | roof crust | Flowstone deposited on ceilings of caves from thin films of water, which have crept over the rock from pore or crack sources [10]. |
 | 2005 | roof drainage | Precipitation runoff from roofs. |
 | 2006 | roof pocket | Blind upward extension into the ceiling of a cave passage, commonly enlarged by dissolution along a transverse fracture, and less extensive than an aven or chimney [9]. |
@@ -2090,7 +2090,7 @@
 | 2088 | self-cleaning capacity | The capacity of a river to clean its water of pollutants over a given length of water course [16]. |
 | 2089 | selenite needles | A sulfate speleothem having the shape of a needle that grows from gypsiferous cave soils [13].  See also speleothem. |
 | 2090 | semiconfined aquifer | See leaky aquifer. |
-| 2091 | sepiolite | A cave mineral — Mg4Si6O15(OH)₂·6H₂O [11]. |
+| 2091 | sepiolite | A cave mineral — Mg₄Si₆O₁₅(OH)₂·6H₂O [11]. |
 | 2092 | series | A subdivision of rock according to age at which they were laid down in a geologic epoch [16]. |
 | 2093 | setting of cement | The process of hardening of cement [16]. |
 | 2094 | settling basin | A basin used for the settling out of solids from suspension [16]. |
@@ -2184,7 +2184,7 @@
 | 2182 | sonar | A system for detecting obstacles by emitting sound and intercepting and interpreting echoes that bounce back.  It is used by bats and also by oilbirds and some swiftlets when they fly in the darkness of caves [23]. |
 | 2183 | sorption | 1. A general term used to encompass the process of absorption and adsorption [22].  2. All processes which remove solutes from the fluid phase and concentrate then on the solid phase of the medium [22]. |
 | 2184 | sótano | (Spanish for cellar or basement.) Term used in Mexico for deep vertical shafts in limestone, which may or may not lead to a cave [10]. |
-| 2185 | spangolite | A cave mineral — Cu6Al(SO₄)(OH)12·3H₂O [11]. |
+| 2185 | spangolite | A cave mineral — Cu₆Al(SO₄)(OH)₁₂·3H₂O [11]. |
 | 2186 | species (singular or plural) | A group of plants or animals whose members breed naturally only with each other and resemble each other more closely than they resemble members of any similar group [23]. |
 | 2187 | specific capacity | The rate of discharge of water from a well per unit of drawdown.  It is commonly expressed as gpm/ft or m3/day/m and varies with pumping test duration [6]. |
 | 2188 | specific conductance | A measure of the ability of water to conduct an electrical current expressed in micromhos per centimeter at 25°C [22]. |
@@ -2352,7 +2352,7 @@
 | 2351 | sulfate | A mineral compound characterized by the sulfate radical SO₄²⁻.  Anhydrous sulfates, such as barite, BaSO₄, have divalent cations linked to the sulfate radical; hydrous and basic sulfates, such as gypsum, CaSO₄.2H₂O, contain water molecules [1]. |
 | 2352 | sulfate minerals | Minerals containing the SO₄²⁻ radical, formed by precipitation from water.  The most common are the anhydrous and hydrated calcium sulfates, anhydrite (CaSO₄) and gypsum (CaSO₄.2H₂O).  Sulfates are deposited as a generally minor component of most carbonate successions, but due to their high solubility they may not survive subsequent dissolution by ground water.  Even if they survive subsequent dissolution by ground water.  Even if they survive at depth, they tend to dissolve as they are raised nearer to the surface following uplift and erosion of overburden.  Removal of sulfates by dissolution may contribute to the early establishment of secondary permeability in limestone sequences. Sulfate solutions have a limited corrosional effect upon calcium carbonate, but may also be oxidized to produce sulphuric acid, which is highly corrosive of limestone. |
 | 2353 | sulfate-reduction karst | Karst topography developed in the subsurface where solution of bedrock is chiefly a result of sulfate reduction by petroleum hydrocarbons aided by bacterial processes that oxidize hydrocarbons to yield carbon dioxide.  Little, if any of the water that dissolves the rock is meteoric [17]. |
-| 2354 | sulfide | A mineral compound characterized by the linkage of sulfur with a metal or semimetal, such as galena, PbS, or pyrite, FeS2 [1].  See also gypsum and pyrite. |
+| 2354 | sulfide | A mineral compound characterized by the linkage of sulfur with a metal or semimetal, such as galena, PbS, or pyrite, FeS₂ [1].  See also gypsum and pyrite. |
 | 2355 | sulfide minerals | Minerals that are composed of one or more metals combined with sulphur.  The most common is pyrite.  They are believed to be produced by the metabolic action of micro- organisms, and are found in many sedimentary rocks, usually in trace amounts. |
 | 2356 | sumidero | (Spanish) 1. A swallow hole.  2. In Latin America, any closed depression caused by solution [10]. |
 | 2357 | summation curve | A curve of cumulated values [16]. |
@@ -2394,7 +2394,7 @@
 | 2393 | synclinal valley | A valley following the axis of a syncline [16]. |
 | 2394 | syncline | Downfolded stratum [16]. |
 | 2395 | syngenetic karst | 1. Karst developed contemporaneously with the lithification of the formation, as in eolian calcarenite where lithification and karstification of dune sands may proceed simultaneously [10].  2. Karst landforms that developed upon young, porous carbonate rocks, such as aeolianites, as they underwent lithification [9].  Synonyms: (French) karst syngénétique; (German) Syngenetischer Karst; (Greek) synegeticon karst; (Italian) carsismo singenetico; (Spanish) karst singenético; (Turkish) eştürümlü karst; (Yugoslavian) singenetski krs̃ (kras). |
-| 2396 | syngenite | A cave mineral — K2Ca(SO₄)₂·H₂O [11]. |
+| 2396 | syngenite | A cave mineral — K₂Ca(SO₄)₂·H₂O [11]. |
 | 2397 | synoptic network | A network of first order stations permitting the regular observation of weather for all points at the same time [16]. |
 | 2398 | synthetic unit hydrograph | A unit hydrograph constructed by assuming the reaction of a drainage basin will be based on its physical characteristics [16]. |
 | 2399 | table mountain |  A flat topped mountain (mesa) [16]. |
@@ -2524,7 +2524,7 @@
 | 2523 | tubular spring | See spring, tubular. |
 | 2524 | tufa | Soft, porous concretions of carbonate reprecipitated from saturated karst water, often around plants [22].  See also sinter; travertine. |
 | 2525 | tunnel | See natural tunnel. |
-| 2526 | turanite | A cave mineral — Cu5(VO₄)₂(OH)₄ [11]. |
+| 2526 | turanite | A cave mineral — Cu₅(VO₄)₂(OH)₄ [11]. |
 | 2527 | turbidity | A diminishing of light penetration through a water sample due to suspended and colloidal materials. |
 | 2528 | turbulence | An irregular motion of fluid particles in an inertia dominated flow regimen [16]. |
 | 2529 | turbulent flow | 1. Type of flow that begins to develop in a dissolutional sub-conduit as its diameter increases to the point where differences between flow velocity at the bounding wall (slowed due to friction and adhesion) and the maximum velocity in the tube’s center are sufficient to cause development of eddies within the flowing water [9].  2. The flow condition in which inertial forces predominate over viscous forces and in which head loss is not linearly related to velocity [22].  It is typical of flow in surface-water bodies and subsurface conduits in karst terranes provided that the conduits have a minimum diameter of approximately 2–5mm although some research has suggested that 5–15 mm may be more appropriate.  See also laminar flow; Reynolds Number; turbulent threshold. |
@@ -2575,7 +2575,7 @@
 | 2574 | valley fill | Unconsolidated debris accumulated on a valley bottom [16]. |
 | 2575 | valley sink | (American) An elongated closed depression or series of interconnecting depressions forming a valley-like depression.  Compare karst valley; uvala [10]. |
 | 2576 | valley spring | See spring, valley. |
-| 2577 | vanadinite | A cave mineral — Pb5(VO₄)₃Cl [11]. |
+| 2577 | vanadinite | A cave mineral — Pb₅(VO₄)₃Cl [11]. |
 | 2578 | vaporization | The process by which liquid or solid water changes into the gaseous state [16]. |
 | 2579 | variable-temperature zone | The area of a cave where air temperature fluctuates with the seasons. See also zonation. |
 | 2580 | variance | The square of the standard deviation [16]. |
