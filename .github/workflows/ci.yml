@@ -1,7 +1,7 @@
 # This is Mikes CI working copy.
 
 name: Publish Glossary
-run-name: ${{ github.actor }} running a test
+run-name: Publishing glossary by ${{ github.actor }}
 
 # Controls when the action will run.
 on:
