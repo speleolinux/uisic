@@ -1207,7 +1207,7 @@
 | 1205 | hydrologic budget | The quantitative accounting of all water volumes and their changes over time for a given basin or province [16]. |
 | 1206 | hydrologic properties | Those properties of a rock that govern the entrance of water and the capacity to hold transmit, and deliver water, such as porosity, effective porosity, specific retention, permeability, and the directions of maximum and minimum permeabilities [22]. |
 | 1207 | hydrology | The study of atmospheric, surface, and subsurface waters and their connection with the water cycle [16]. |
-| 1208 | hydromagnesite | A cave mineral — Mg5(CO₃)₄(OH)₂·4H₂O [11]. |
+| 1208 | hydromagnesite | A cave mineral — Mg₅(CO₃)₄(OH)₂·4H₂O [11]. |
 | 1209 | hydrometeorology | Meteorology dealing with water in the atmosphere [16]. |
 | 1210 | hydrometric station | A station at which there usually are a number of hydrometric measurements being performed [16]. |
 | 1211 | hydrometry | The science of water measurements [16]. |
@@ -1322,7 +1322,7 @@
 | 1320 | isotropy | The condition in which the property or properties of interest are the same in all directions [22]. |
 | 1321 | izdan | A general Yugoslavian term for a ground-water reservoir from which ground water may readily be extracted; it is not specifically a karst term [20]. |
 | 1322 | jama | 1. (Slavic) Vertical or steeply inclined shaft in limestone, known as abîme or aven in France and as pothole in England.  2. Any cave [10].  Synonyms: (French) jama; (German) Abgrund, Schacht, Schlund; (Greek) karstikon phrear; (Italian) abisso, foiba, pozzo, voragine; (Russian) karstovij kolodec, karstovaja sahta; (Spanish) sima, pozo, avenc; (Turkish) obruk; (Yugoslavian) bezdan, japaga, zvekara, pekel, brezno, prepad, propast.  Related to cenote, doline, obruk, pit, shaft, shake hole. |
-| 1323 | jarosite | A cave mineral — KFe3(SO₄)₂(OH)₆ [11]. |
+| 1323 | jarosite | A cave mineral — KFe₃(SO₄)₂(OH)₆ [11]. |
 | 1324 | joint | 1. A break of geological origin in the continuity of a body of rock occurring either singly, or more frequently in a set or system, but not attended by a visible movement parallel to the surface of the discontinuity.  2. A junction or connection of mechanical elements such as drill pipe [16]. See also fracture. |
 | 1325 | joint diagram | A diagram constructed by accurately plotting the strike and dip of joints to illustrate the geometrical relationship of the joints within a specified area of geologic investigation. |
 | 1326 | joint or fault set | A group of more or less parallel joints or faults. |
@@ -1473,7 +1473,7 @@
 | 1471 | magnesian limestone | Common but loose synonym for dolomitic limestone or dolomite rock.  The magnesian limestone of northern England is a rock sequence of Permian age that includes a locally variable number of beds of dolomitic limestone [9]. |
 | 1472 | magnesite | A cave mineral — MgCO₃ [11]. |
 | 1473 | magnetic north | The direction to the north magnetic pole at a given place and time. This differs from the direction towards which the north end of a compass points by a small individual compass error and by the effect of any local magnetic attraction [25]. |
-| 1474 | malachite | A cave mineral — Cu2(CO₃)(OH)₂ [11]. |
+| 1474 | malachite | A cave mineral — Cu₂(CO₃)(OH)₂ [11]. |
 | 1475 | mammals | The class of animals that includes bats, mice, man, and many others.  They typically have a body covering of hair and give birth to living young, which are nursed on milk from the mother's breast [23]. |
 | 1476 | manatial | (Spanish) Spring.  See also spring. |
 | 1477 | Manning equation | An equation used to compute the velocity of uniform flow in open channel: V=1.486/n R2/3 S1/2, where V is the mean velocity of flow (in cfs units), R is the hydraulic radius in feet, S is the slope of the channel or sine of the slope angle, and n is the Manning roughness coefficient [1].  See also Chézy equation; Froude number; Reynolds number. |
@@ -1636,7 +1636,7 @@
 | 1634 | observation well | A well drilled for the purpose of observations such as water level or pressure recordings [16]. |
 | 1635 | oceanic water | Sea water with a total salt content of about 34,500 ppm [16]. |
 | 1636 | ojo, ojo de agua | (Spanish) An artesian spring in limestone regions, especially one forming a small pond; a vauclusian spring [10]. |
-| 1637 | olivenite | A cave mineral — Cu2(AsO₄)(OH) [11]. |
+| 1637 | olivenite | A cave mineral — Cu₂(AsO₄)(OH) [11]. |
 | 1638 | omnivore | An animal that habitually eats both plants and animals [23].  See also carnivore; herbivore; insectivore. |
 | 1639 | onyx marble | Translucent layers of calcium carbonate from cave deposits, often called Mexican onyx or cave onyx; used as an ornamental stone [10]. |
 | 1640 | oolite | A type of limestone that is composed largely or partly of ooliths.  Also known as oolitic limestone.  The best known examples in Britain, within the Jurassic limestone sequence of the Cotswolds, are of only moderate strength, very porous and only weakly cavernous.  In contrast, oolites of early Carboniferous age have hosted extensive cave development beneath Mymydd Llangattwg and in other parts of South Wales [9]. |
