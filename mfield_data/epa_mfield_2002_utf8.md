@@ -1,5 +1,5 @@
-| Term Number | Term | Definition |
-| ----------- | ---- | ---------- |
+| Term Number | Term(s) | Definition |
+| ----------- | ------- | ---------- |
 | 1 | abîme | (French)  1. An abyss.  2. A wide, deep shaft, in limestone, the walls of which are vertical or overhanging [10]. |
 | 2 | ablation | The wearing away of ice or snow through the process of evaporation [16]. |
 | 3 | abney level | Type of clinometer with a bubble tube used in cave survey to determine vertical angles [25]. |
@@ -1571,7 +1571,7 @@
 | 1569 | montmorillonite | A clay mineral containing magnesium oxide (MgO) in its structure [16]. |
 | 1570 | moonmilk | 1. A white plastic calcareous cave deposit composed of calcite, huntite, or magnesite. From Swiss dialect moonmilch, elf’s milk.  Corrupt spelling mondmilch is common [10].  2. Deposits consisting mainly of very fine particles of calcium and magnesium carbonate precipitated from water in caves and caverns.  When in suspension, they give the water the appearance of milk.  Name originated in 1714 by M. B. Valentini (Fénelon) [20].  3. Moonmilk consists of a variety of hydrocarbonates some of which are associated with particular species of bacteria.  A common mineral in moonmilk from temperate caves is hydromagnesite; cold caves yield moonmilk of calcite after hydrocalcite [20].  Synonyms: (French) mondmilch; (German) Bergmilch, Montmilch; (Greek) speleogala; (Italian) latte di monte; (Russian) kamennce moloko; (Spanish) mondmilch, leche de luna; (Turkish) dik karstik kalıntı; (Yugoslavian) gorsko mlijeko (mleko).  Also mountain milk. |
 | 1571 | moor | A wet peat bog [16]. |
-| 1572 | moulin | The French word for "mill", moulin has been used to describe partially dissolutional, partially scoured pockets cut in rock, particularly the potholes formed in the beds of surface and underground streams.  In some areas sinkholes in the surface of glaciers, which may provide access to glacier caves, are also referred to as moulins [9]. |
+| 1572 | moulin | The French word for "mill", <i>moulin</i>, has been used to describe partially dissolutional, partially scoured pockets cut in rock, particularly the potholes formed in the beds of surface and underground streams.  In some areas sinkholes in the surface of glaciers, which may provide access to glacier caves, are also referred to as moulins [9]. |
 | 1573 | mountain milk | See moonmilk. |
 | 1574 | moraine | A mound, ridge, or other distinct accumulation of unsorted, unstratified glacial drift, predominantly till, deposited chiefly by direct action of glacier ice [6]. |
 | 1575 | morphometric analysis | A geodetic and geometric description of basin and stream network or to a sinkhole plain [16]. |
@@ -2222,7 +2222,7 @@
 | 2220 | spring, cave | A spring rising in a cave [10]. |
 | 2221 | spring, contact | A spring formed at the intersection of the land surface and a permeable water- bearing formation overlying a less permeable formation [16]. |
 | 2222 | spring, depression | A spring originating at the intersection of the land surface with the water table [16]. |
-| 2223 | spring, drowned | A spring which continues to function as a spring after it has become submerged by rising sea or lake levels or by subsidence of the ground [20]. Synonyms: (French) source sous- aquatique, source noyé; (German) submarine Quelle, sublacustre Quelle; (Greek) vethisthesa pigi; (Italian) sorgente sommersa; (Russian) subakvaljnij istoćnik; (Spanish) fuente subacuática; (Turkish) batık kaynak; (Yugoslavian) potopljen izvor, potopljeno vrelo, potopljen izvir (vrelec). Related to spring, sublacustrine, spring, submarine. |
+| 2223 | spring, drowned | A spring which continues to function as a spring after it has become submerged by rising sea or lake levels or by subsidence of the ground [20]. Synonyms: (French) source sous- aquatique, source noyé; (German) submarine Quelle, sublacustre Quelle; (Greek) vethisthesa pigi; (Italian) sorgente sommersa; (Russian) subakvaljnij istoćnik; (Spanish) fuente subacuática; (Turkish) batık kaynak; (Yugoslavian) potopljen izvor, potopljeno vrelo, potopljen izvir (vrelec). Related to spring, sublacustrine, and spring, submarine. |
 | 2224 | spring, ebb-and-flow; ebbing-and-flowing well | A spring (flowing well or borehole) exhibiting periodic variation in volume of flow; this variation, which may be regular or irregular, is often attributed in karst regions to siphonic action.  Ebb-and-flow springs differ from intermittent springs because the latter can be related to seasonal variations in rainfall [20].  Synonyms: (French) source intermittente; (German) intermittierende Quelle; (Greek) pighí ambótidos kai palírrias; (Italian) sorgente carsica intermittente; (Russian) sifonnij istocnik; (Spanish) manatial intermittente, fuente intermittente; (Turkish) sogultkan kaynak; (Yugoslavian)   periodicni ixvor, periodic ̃ni izvir.  See also spring, periodic.  Related to intermittent spring. |
 | 2226 | spring, fracture | A spring with its outflow openings consisting of fractures [16]. |
 | 2227 | spring, fullflow | A spring that is the sole drain of an area. |
@@ -2240,7 +2240,7 @@
 | 2239 | spring, seepage | A spring where surface discharge occurs from numerous small openings [16]. Synonym: filtration spring. |
 | 2240 | spring, subaqueous | A spring that discharges below the surface of a water body (e.g. ocean, lake, river, or stream) [16]. |
 | 2241 | spring, sublacustrine | A spring emerging in the bed of a lake predominantly in karst areas [20]. Synonyms: (French) source sous lacustre; (German) Unterwaßerquelle, sublacustre Quelle; (Greek) ypovrichios pighi; (Italian) sorgente sublacustre; (Russian) istocnik na dne ozera; (Spanish) fuente sublacustre; (Turkish) gölalti kaynagı.  See spring, drowned. |
-| 2242 | spring, submarine | 1. A spring emerging in a sea or lagoon predominantly in karst terranes.  This is a descriptive term generally corresponding to the genetic term "drowned spring [20]".  2. Large offshore emergence, generally from cavernous limestone, but in some areas from beds of lava [10]. Synonyms: (French) source sous marine; (German) Untermeeresquelle, Grundquelle, submarine Quelle; (Greek) ypothalassia pighi; (Italian) sorgente sottomarina; (Russian) submarinnij istocnik; (Spanish) fuente submarina; (Turkish) denizalti kaynagı; (Yugoslavian) vrulja.  See spring, drowned. |
+| 2242 | spring, submarine | 1. A spring emerging in a sea or lagoon predominantly in karst terranes.  This is a descriptive term generally corresponding to the genetic term "drowned spring" [20].  2. Large offshore emergence, generally from cavernous limestone, but in some areas from beds of lava [10]. Synonyms: (French) source sous marine; (German) Untermeeresquelle, Grundquelle, submarine Quelle; (Greek) ypothalassia pighi; (Italian) sorgente sottomarina; (Russian) submarinnij istocnik; (Spanish) fuente submarina; (Turkish) denizalti kaynagı; (Yugoslavian) vrulja.  See spring, drowned. |
 | 2243 | spring, thermal | A spring with temperature of the spring water above the average temperature of superficial rock [16]. |
 | 2244 | spring, tubular | A spring issuing from a round channel such as a tubular passage [16]. |
 | 2245 | spring, unconformity | A spring issuing at the contact of an aquifer with an unconformity. |
@@ -2502,7 +2502,7 @@
 | 2501 | tributary | A stream contributing its waters to another stream of higher order [16]. |
 | 2502 | tributary river | A smaller stream entering and contributing to the flow of a larger river [16]. |
 | 2503 | tributary valley | A less important valley joining a larger valley [16]. |
-| 2504 | tri-cam | A metalic device placed in holes or cracks for use as an anchor [25].  Compare chock |
+| 2504 | tri-cam | A metallic device placed in holes or cracks for use as an anchor [25].  Compare chock |
 | 2505 | triple point | A point at which the solid, liquid, and vapor phases are in equilibrium [16]. |
 | 2506 | tripoly | A very fine grained silica sand [16]. |
 | 2507 | tritium | A short-lived isotope of hydrogen (λ = 12.43 y) that is directly incorporated into the water molecule as 1H3HO or 1HTO  [24].  Commonly used for tracing ground water and for age dating of ground water [16].  See also radioisotope; radioactive tracer; tracers. |
