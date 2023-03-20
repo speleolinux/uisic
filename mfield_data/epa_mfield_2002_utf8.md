@@ -480,7 +480,7 @@
 | 478 | C-horizon | Zone of weathered parent material in a soil profile [16]. |
 | 479 | chute | An inclined channel or trough in a cave [10]. |
 | 480 | ciénaga | (Spanish) Wetland.  See also wetland. |
-| 481 | cimolite | A cave mineral — Al₄(SiO₂)₉(OH)12 [11]. |
+| 481 | cimolite | A cave mineral — Al₄(SiO₂)₉(OH)₁₂ [11]. |
 | 482 | cistern | A small water reservoir used to collect surface and rain water [16]. |
 | 483 | classical karst | Originally the region called Kras in Slovenia, which gave its name to the karst landscape.  Used in this sense about 95% of the classical karst lies in Slovenia, with the remaining 5% extending to Italy.  A slightly different area was covered by descriptions of early investigations or karst phenomena, when the name classical karst was applied to a region between Ljubljana, Gorizia and Rijeka, mainly in Slovenia with some parts in Italy and Croatia [9]. |
 | 484 | clastic | Pertaining to a rock or sediment composed principally of broken fragments that are derived from pre-existing rocks or minerals and that have been transported some distance from their places of origin [6]. |

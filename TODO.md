@@ -24,9 +24,7 @@ Will be fixing the scientific equations.
 
 Currently fixing chemical formulas.
 
-UPTO here. 18 March 2023
-
-481 cimolite: the final '12' should be a subscript.
+UPTO here. 20 March 2023
 
 ### Numbering / Ordering Issues
 
