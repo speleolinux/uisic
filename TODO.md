@@ -33,7 +33,6 @@ None currently.
 ### Version and Build Date 
 
 Place a version date at the top and the build data at the bottom of the page.     
-Also build time is incorrect.
 
 ### Continuous Integration
 
