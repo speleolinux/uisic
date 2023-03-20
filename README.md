@@ -27,7 +27,7 @@ contents of that directory.
 | ----                  | ----------- |
 | LICENSE               | Copy of the GNU GPL 3 License.                            |
 | VERSION               | Update this version file to trigger the CI build.         |
-| make_html.sh          | bash script used by the CI build.                         |
+| make_html.sh          | Bash script used by the CI build.                         |
 | generate_dict.py      | Python script reads in lang tables, outputs dict.         |
 | assets/               | Contains HTML code and styles for the CI build.           |
 | docs/                 | Contains the generated HTML index from the CI build.      |
