@@ -26,6 +26,13 @@ Currently fixing chemical formulas.
 
 UPTO here. 18 March 2023
 
+481 cimolite: the final '12' should be a subscript.
+
+### Numbering / Ordering Issues
+
+At the end of entry "1688 paragenetic cave" we have ". parahopeite. A cave mineral 
+Zn3(PO4)2·4H2O[11]." This should be a separate entry with ID 1689, jacking up all following ID entries by one.
+
 ### Version and Build Date 
 
 Place a version date at the top and the build data at the bottom of the page.
