@@ -28,11 +28,12 @@ UPTO here. 20 March 2023
 
 ### Numbering / Ordering Issues
 
-At the end of entry "1688 paragenetic cave" we have ". parahopeite. A cave mineral 
-Zn3(PO4)2·4H2O[11]." This should be a separate entry with the next ID, probably 2700. Existing IDs are not to be changed.
+None currently.
+
 ### Version and Build Date 
 
-Place a version date at the top and the build data at the bottom of the page.
+Place a version date at the top and the build data at the bottom of the page.     
+Also build time is incorrect.
 
 ### Continuous Integration
 
