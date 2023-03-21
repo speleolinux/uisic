@@ -15,12 +15,15 @@ output="epa_mfield_2002_utf8.html"
 # will fail, reporting back that the CI has failed.
 export TZ="Australia/Sydney"
 today=$(date +"%A, %d %B %Y at %H:%M %p")
+version=$(cat VERSION)
 
 cat $header > $output
 echo '<style type="text/css">' >> $output
 cat $styles >> $output
 echo '</style>' >> $output
-cat assets/start.html | sed "s/UPDATE_DATE/$today/" >> $output
+cat assets/start.html \
+| sed "s/VERSION_DATE/$version/" \
+| sed "s/BUILD_DATE/$today/" >> $output
 
 # Create the main HTML table data.
 pandoc $input --columns=10000 > tmp1
