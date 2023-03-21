@@ -1688,6 +1688,7 @@
 | 1686 | panhole | See solution pan. |
 | 1687 | paragenesis | A type of cave passage development in which erosion of the passage floor is inhibited by the presence of an armoring layer of sediment, such that any dissolutional enlargement is dominantly upwards [9].  Generally, an unproven and unsupported theory. |
 | 1688 | paragenetic cave | Cave passage, usually of canyon form, believed to be created by paragenesis. Passage formation by paragenesis is normally very difficult to prove, as later sediment removal leaves a passage that looks very similar to the far more common vadose canyon.  It is thought that some of the larger canyons in the Flint Mammoth Cave System, USA, may have formed in this way [9]. |
+| 2700 | parahopeite |  A cave mineral — Zn₃(PO₄)₂·4H₂O [11]. |
 | 1689 | paraphreatic | A paraphreatic passage has an air surface under relatively low flow conditions, when drainage is within the capacity of its downstream continuation, but reverts to being water- filled (phreatic) under conditions of high flow or when the downstream drainage is temporarily impeded [9]. |
 | 1690 | parent material | Material from which soil or sediment was formed [16]. |
 | 1691 | parietal fauna | Pertaining to the inhabitants on the walls of the entrance and twilight zones of a cave [23]. |
@@ -2698,5 +2699,4 @@
 | 2697 | zone of saturation | The zone in permeable soil or rock that is saturated with water; the phreatic zone [10].  See also phreatic zone. |
 | 2698 | zones of karstification | Cvijič (1926, 1960) distinguishes three zones of karstification: (1) dry zone in the upper part of the karst with caves almost completely dry; (2) transition zone where water flows downstream almost permanently; and (3) deep zone with slow downstream flow and local siphons [20].  Synonyms: (French) zones de karstification; (German) Zone der Verkarstung; (Greek) zoni karstikopiiseos; (Italian) zone idrogeologiche; (Spanish) zona de karstificación; (Turkish) karstlaşma kuşagı; (Yugoslavian) zone karstifikacije. |
 | 2699 | Zwischenhöhle | (German)  Cave in which a river passage, or former river passage, is entered from above or laterally and which can be followed upstream and downstream some distance but not to daylight [10]. |
-| 2700 | parahopeite |  A cave mineral — Zn₃(PO₄)₂·4H₂O [11]. |
 
