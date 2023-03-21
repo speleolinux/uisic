@@ -30,10 +30,6 @@ UPTO here. 20 March 2023
 
 None currently.
 
-### Version and Build Date 
-
-Place a version date at the top and the build data at the bottom of the page.     
-
 ### Continuous Integration
 
 I have commented out the *auto* updating of the glossary at <https://speleolinux.github.io/uisic/>
