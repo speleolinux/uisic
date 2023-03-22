@@ -1,29 +1,106 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<html lang="en">
 <head>
-  <title>UIS Glossary Draft</title>
+  <title>UIS Glossary PM Draft</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="created" content="2022-11-25">
   <meta name="author" content="Peter Matthews, Mike Lake, Malcolm Field">
-  <link rel="stylesheet" href="style-uisic.css">
 </head>
-<style type="text/css">
-/* Styles for the UISIC Glossary */
-body { 
-  margin: 0px 10% 0px 10%; 
-  background-color: #F5F5F5; 
-  font-family: arial, helvetica, sans-serif;
+<style>
+/* Styles for the UISIC Glossary.
+   These styles are included locally so that this page will still present OK when 
+   downloaded without the normal UISIC stylesheet. */
+
+body {
+	margin: 0px 10% 0px 10%; 
+	background-color: #F5F5F5;
+	font-family: arial, helvetica, sans-serif; 
+	font-size: large;
 }
-h1 { color: #E65C00 ; font-size: 140%; }
-h2 { font-size: 120% }
-table { border-collapse: collapse; }
-table { table-layout: fixed; } /* Speeds up displaying the start of a long table. */	
-table, th, td { border: 1px solid black; }
-th { background-color: lightgrey; }
-th, td { padding: 4px; }
-td { vertical-align: top; padding-bottom: 1ex; }
-tr:nth-child(even) { background-color: lightgrey; }
+h1,h2,h3,h4,h5,h6 {
+	color: #E65C00;
+	text-align: left;
+}
+h1 {
+	text-align: center;
+	font-size: 1.8em;
+}
+.center { text-align: center;}
+.headSuperText {
+	font-size: 1em;
+	font-weight: normal;
+	text-align: center;
+	margin: 1em 0em;
+}
+.headSubText {
+	font-size: 1em;
+	font-style: italic;
+	font-weight: normal;
+	text-align: center;
+	margin-bottom: 2em;
+	margin-top: 0em;
+}
+.footer {
+	clear: both;
+	text-align: left;
+	padding: 1em 0em;
+	font-size: 0.8em;
+	font-style: italic;
+	font-weight: normal;
+}
+.date-header {
+	text-align: center;
+	font-style: italic;
+	font-weight: lighter;
+	font-size: 0.9em;
+}
+.date-footer {
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+}
+/* For small horizontal menu strips */
+.menuhoriz {
+	margin: 0.4em 0px;
+	font-size: .8em;
+	text-align: center;
+}
+.menuhoriz a {
+	color: #E65C00 ;
+	text-decoration: none;
+	font-weight: bold;
+}
+table {
+	table-layout: fixed;		<!-- speeds up displaying the start of a long table -->
+}
+table, th, td { 
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+td {
+	vertical-align: top;
+	padding: 0.4em;
+}
+td:first-child {
+	text-align: center;
+	width: 9%;
+}
+th { 
+	background-color: lightgrey; 
+}
+tr:nth-child(even) {
+	background-color: lightgrey;
+}
+.equation {
+	border: none;
+	text-align: center;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+}
+sub,sup {
+	font-size: 0.8em;
+}
 </style>
 <body>
 
@@ -41,7 +118,7 @@ tr:nth-child(even) { background-color: lightgrey; }
 </nav>
 
 <p>This is a preliminary early version of the UIS Cave and Karst Glossary.<br>
-This is glossary version 2023.03.21. This page was built on Tuesday, 21 March 2023 at 20:51 PM Australia/Sydney time.</p>
+This is glossary version 2023.03.21. This page was built on Wednesday, 22 March 2023 at 15:31 PM Australia/Sydney time.</p>
 
 <table>
 <thead>
