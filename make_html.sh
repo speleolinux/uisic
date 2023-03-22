@@ -18,7 +18,7 @@ today=$(date +"%A, %d %B %Y at %H:%M %p")
 version=$(cat VERSION)
 
 cat $header > $output
-echo '<style type="text/css">' >> $output
+echo '<style>' >> $output
 cat $styles >> $output
 echo '</style>' >> $output
 cat assets/start.html \
