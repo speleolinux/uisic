@@ -1,5 +1,5 @@
-| Term Number | Term(s) | Definition |
-| ----------- | ------- | ---------- |
+| Term Number | Terms | Definition/Description |
+| ----------- | ----- | ---------------------- |
 | 1 | abîme | (French)  1. An abyss.  2. A wide, deep shaft, in limestone, the walls of which are vertical or overhanging [10]. |
 | 2 | ablation | The wearing away of ice or snow through the process of evaporation [16]. |
 | 3 | abney level | Type of clinometer with a bubble tube used in cave survey to determine vertical angles [25]. |
@@ -524,7 +524,9 @@
 | 522 | coefficient of permeability | An obsolete term that has been replaced by the term hydraulic conductivity [6]. |
 | 523 | coefficient of storage | See storage coefficient. |
 | 524 | coefficient of transmissivity; coefficient of transmissibility | An obsolete term replaced by the term transmissivity. |
-| 525 | coefficient of volume compressibility | The compression of a clay (aquitard) per unit thickness, due to a unit increase of effective stress, in the load range exceeding preconsolidation stress.  It is expressed by the equation m SUB v~=~{a SUB v} OVER {1~+~e SUB 0} in which e0 is the initial void ratio.  Units are usually cm2/kg [21].  See also coefficient of compressibility. |
+| 525 | coefficient of volume compressibility | The compression of a clay (aquitard) per unit thickness, due to a unit increase of effective stress, in the load range exceeding preconsolidation stress.  It is expressed by the equation 
+<div class=equation>m SUB v = {a SUB v} OVER {1 + e SUB 0}</div>
+in which e<sub>0</sub> is the initial void ratio.  Units are usually cm<sup>2</sup>/kg [21].  See also coefficient of compressibility. |
 | 526 | cohesion | Shear resistance at zero normal stress.  An equivalent term in rock mechanics is intrinsic shear strength. |
 | 527 | coliform organism | A microorganism, the concentration of which is used as an indication of the degree of biological pollution of water [16]. |
 | 528 | collapse breccia | A mass of rock composed of angular to rounded fragments of limestone or dolomite that has formed as the result of the collapse of the roof of a cave, of an underlying cave, or of an overhanging ledge [10].  See also solution breccia. |
