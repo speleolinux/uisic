@@ -20,15 +20,21 @@ Will be fixing the scientific equations.
 
 ## Mike Lake
 
+### Suppress Caching
+
+Try adding these, all will be needed.
+
+meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"     
+meta http-equiv="Pragma" content="no-cache"     
+meta http-equiv="Expires" content="0"
+
 ### Chemical Formulas
 
-Currently fixing chemical formulas.
-
-UPTO here. 20 March 2023
+I think all chemical formulas are now OK.
 
 ### Numbering / Ordering Issues
 
-None currently.
+No current problems.
 
 ### Continuous Integration
 
