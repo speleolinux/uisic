@@ -18,8 +18,6 @@ Inconsistent use of - or – for number range separator e.g.:
 
 Will be fixing the scientific equations.
 
-## Mike Lake
-
 ### Suppress Caching
 
 Try adding these, all will be needed.
@@ -28,13 +26,21 @@ meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"
 meta http-equiv="Pragma" content="no-cache"     
 meta http-equiv="Expires" content="0"
 
-### Chemical Formulas
+## Mike Lake
 
-I think all chemical formulas are now OK.
+- Chemical Formulas: I think all chemical formulas are now OK.
+- Numbering / Ordering Issues: No current problems.
 
-### Numbering / Ordering Issues
+Currently `epa_mfield_2002_utf8.md` is under the `mfield_data` directory. 
+Eventually this should be renamed to `glossary.md` and under a `glosssary` directory.
+Then the `mfield_data` files can be archived.
 
-No current problems.
+Dictionary stuff should be under a `dictionary` directory. We should also rename the
+`lextables` directory and place it under dictionary. The CSV files should have
+lower case filenames.
+
+Documentation will also need to be written for the updating and maintenance
+procedures for the dictionary and glossary.
 
 ### Continuous Integration
 
