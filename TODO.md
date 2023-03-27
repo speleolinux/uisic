@@ -16,17 +16,15 @@ Inconsistent use of - or – for number range separator e.g.:
 
 ## Peter Matthews
 
-Will be fixing the scientific equations.
+Will be fixing the scientific equations -- but note Mike is already doing some as he got impatient :-).
 
 ### Suppress Caching
 
 Try adding these, all will be needed.
 
-meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"     
-meta http-equiv="Pragma" content="no-cache"     
-meta http-equiv="Expires" content="0"
-
 ## Mike Lake
+
+Have added meta tags in header to prevent cachine.
 
 - Chemical Formulas: I think all chemical formulas are now OK.
 - Numbering / Ordering Issues: No current problems.
