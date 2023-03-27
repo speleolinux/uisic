@@ -26,7 +26,7 @@ cat assets/start.html \
 | sed "s/BUILD_DATE/$today/" >> $output
 
 # Create the main HTML table data.
-pandoc $input --columns=10000 > tmp1
+pandoc --mathml -f markdown -t html $input --columns=10000 > tmp1
 
 # This table needs a few things fixed.
 
