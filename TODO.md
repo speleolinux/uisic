@@ -16,18 +16,20 @@ Inconsistent use of - or – for number range separator e.g.:
 
 ## Peter Matthews
 
-Will be fixing the scientific equations -- but note Mike is already doing some as he got impatient :-).
-
-### Suppress Caching
-
-Try adding these, all will be needed.
+PM Will be fixing the scientific equations in the main doc. Mike is doing some tests with a short version of the doc so we can decide 
+if we wish to use standard HTML, MathML or MathJax.
 
 ## Mike Lake
 
-Have added meta tags in header to prevent cachine.
+Done:
 
 - Chemical Formulas: I think all chemical formulas are now OK.
 - Numbering / Ordering Issues: No current problems.
+- Have added meta tags in header to prevent caching.
+- Moved build date into header as a meta tag.
+- Extracted license, notes and references to separate files. To be used later.
+
+TODO: 
 
 Currently `epa_mfield_2002_utf8.md` is under the `mfield_data` directory. 
 Eventually this should be renamed to `glossary.md` and under a `glosssary` directory.
