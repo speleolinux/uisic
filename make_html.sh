@@ -4,7 +4,11 @@
 # Author: Mike Lake
 # Date: March 2023
 
+# This is the complete glossary.
 input="mfield_data/epa_mfield_2002_utf8.md"
+# Uncomment this to use a shortened glossary for testing.
+input="mfield_data/epa_mfield_2002_utf8_short.md"
+
 styles="assets/styles.css"
 header="assets/header.html"
 footer="assets/footer.html"
