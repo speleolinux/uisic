@@ -3,13 +3,13 @@ THIS IS ONLY A SHORT VERSION FOR TESTING
 | Term Number | Terms | Definition/Description |
 | ----------- | ----- | ---------------------- |
 | 1 | abîme | (French)  1. An abyss.  2. A wide, deep shaft, in limestone, the walls of which are vertical or overhanging [10]. |
-| 2 | ablation | The wearing away of ice or snow through the process of evaporation[16]. |
-| 3 | abney level | Type of clinometer with a bubble tube used in cave survey to determine vertical angles[25]. |
+| 2 | ablation | The wearing away of ice or snow through the process of evaporation [16]. |
+| 3 | abney level | Type of clinometer with a bubble tube used in cave survey to determine vertical angles [25]. |
 | 4 | abris sous roche | (French) See rock shelter. |
-| 5 | abseil | 1.  (n.) A controlled descent of a rope using friction obtained by either wrapping the rope around the body in a particular way or passing the rope through a carabiner or passing the rope through a descender[25].  2. (v.) To do an abseil[25].  Synonym: rappel.  |
-| 6 | absorption | The process by which substances in gaseous, liquid or solid form dissolve or mix with other substances[22]. |
+| 5 | abseil | 1.  (n.) A controlled descent of a rope using friction obtained by either wrapping the rope around the body in a particular way or passing the rope through a carabiner or passing the rope through a descender [25].  2. (v.) To do an abseil [25].  Synonym: rappel.  |
+| 6 | absorption | The process by which substances in gaseous, liquid or solid form dissolve or mix with other substances [22]. |
 | 7 | abyss | Extremely great depth [16]. |
-| 8 | accelerated corrosion | A localized concentration of solution intensity, produced by factors favoring greater aggressivity of the water in certain parts of the karstland creating differential solution rates and thereby a marked unevenness in the overall erosion of the karstland[19]. See also corrosion; alluvial corrosion.  |
+| 8 | accelerated corrosion | A localized concentration of solution intensity, produced by factors favoring greater aggressivity of the water in certain parts of the karstland creating differential solution rates and thereby a marked unevenness in the overall erosion of the karstland [19]. See also corrosion; alluvial corrosion.  |
 | 471 | Chézy equation | An equation used to compute the velocity of uniform flow in an open channel: mean velocity of flow equals the Chézy coefficient times the square root of the product of hydraulic radius times the slope of the channel [1].  See also Froude number; Manning equation; Reynolds number. |
 | 525 | coefficient of volume compressibility | **Eqn inline**<br>The compression of a clay (aquitard) per unit thickness, due to a unit increase of effective stress, in the load range exceeding preconsolidation stress. It is expressed by the equation $a_v / (1 + e_0)$ in which e<sub>0</sub> is the initial void ratio. Units are usually cm<sup>2</sup>/kg [21]. See also coefficient of compressibility. |
 | 525 | coefficient of volume compressibility | **Eqn as fraction**<br>The compression of a clay (aquitard) per unit thickness, due to a unit increase of effective stress, in the load range exceeding preconsolidation stress. It is expressed by the equation $\frac{a_v}{1 + e_0}$ in which e<sub>0</sub> is the initial void ratio. Units are usually cm<sup>2</sup>/kg [21]. See also coefficient of compressibility. |
