@@ -14,20 +14,24 @@ header="assets/header.html"
 footer="assets/footer.html"
 output="epa_mfield_2002_utf8.html"
 
-# Added H:M to ensure file is changed.
+# Export our timezone so in the shell on the Github build,
+# the timezone will be correct.
+export TZ="Australia/Sydney"
+
+# Get the date & time now for adding to the HTML header.
+# The H:M also ensures the file is changed.
 # Otherwise the index.html has not changed and the git push
 # will fail, reporting back that the CI has failed.
-export TZ="Australia/Sydney"
-today=$(date +"%A, %d %B %Y at %H:%M %p")
+today=$(date +"%Y-%m-%d %H:%M %Z")
+
+# This will be the version that users see in the HTML page.
 version=$(cat VERSION)
 
-cat $header > $output
+cat $header | sed "s/BUILD_DATE/$today/" > $output
 echo '<style>' >> $output
 cat $styles >> $output
 echo '</style>' >> $output
-cat assets/start.html \
-| sed "s/VERSION_DATE/$version/" \
-| sed "s/BUILD_DATE/$today/" >> $output
+cat assets/start.html | sed "s/VERSION_DATE/$version/" >> $output
 
 # Create the main HTML table data.
 pandoc --mathml -f markdown -t html $input --columns=10000 > tmp1
