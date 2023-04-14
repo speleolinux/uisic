@@ -3,10 +3,12 @@
 This is a test repo for some UISIC projects. Currently its being used to test a
 continuous integration (CI) build of a cave science glossary.
 
-
 Here is a [Cave and Karst Glossary](https://speleolinux.github.io/uisic/) test web page. 
-The raw data for this page comes from the directory `mfield_data/epa_mfield_2002_utf8_short.md`
-in this repository.
+
+The raw data for test web page comes from one of the data pages in the directory 
+`mfield_data/`; either the full data `epa_mfield_2002_utf8.md` or the short data 
+`epa_mfield_2002_utf8_short.md`. Edit the `make_html.sh` script to select the data file.
+
 The raw data is stored in Markdown format which is easy to edit and view. 
 The Markdown data is transformed to this Cave and Karst Glossary test web page
 whenever the raw data and the file `VERSION` in this repository is updated.
