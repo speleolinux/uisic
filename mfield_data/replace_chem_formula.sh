@@ -46,15 +46,34 @@ input="epa_mfield_2002_utf8.md"
 # Fe6       done 
 # Ca9       done 
 
-# Check we have entered char or chars.
+# Check we have entered before and after strings.
 if [[ "$before" == '' || "$after" == '' ]]; then
     echo 'Both before and after strings must be non-empty. Exiting.'    
     echo "before=$before  after=$after"
     exit
 fi
 
-echo -n "$before to $after : instances replaced = "
+# Show the user how many changes will be made.
+echo ""
+echo "Fixing Chemical Formula in $input"
+echo "Changing: $before to $after"
+echo -n "The number of instances that will be replaced will be: "
 cat $input | grep -e "$before" | wc -l
+
+# Provide option for user to bail out.
+echo ""
+echo -n "Continue (y/Y) or press any other key to exit: "
+read REPLY
+if [ -z $REPLY ]; then
+   exit 0
+fi
+
+# If user has NOT selected y/Y then exit.
+if [ $REPLY != "y" ] && [ $REPLY != "Y" ]; then
+    exit 0
+fi
+
+# Proceed to do the replacements.
 
 cat $input | grep -e "$before" > /dev/null
 if [ $? -eq 0 ]; then
