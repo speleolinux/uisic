@@ -34,7 +34,8 @@ echo '</style>' >> $output
 cat assets/start.html | sed "s/VERSION_DATE/$version/" >> $output
 
 # Create the main HTML table data.
-pandoc --mathml -f markdown -t html $input --columns=10000 > tmp1
+# We use columns=10000 to reduce the column width on the term column.
+pandoc --columns=10000 --mathml -f markdown -t html $input > tmp1
 
 # This table needs a few things fixed.
 
