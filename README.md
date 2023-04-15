@@ -68,6 +68,13 @@ the `LC_COLLATE` variable.
 The python code to convert Malcolm Field's karst Lexicon to workable CSV and
 Markdown formats is here: <https://hg.sr.ht/~speleolinux/uisic_glossary>
 
-Mike Lake    
+## License
+
+Note that license for this repository and code is the GNU General Public License v3.0.
+The glossary itself, i.e. the content of the Markdown document, and the generated 
+HTML document is released under the Creative Commons License
+Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
+
+Mike Lake & Peter Matthews        
 November 2022
 
