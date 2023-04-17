@@ -12,7 +12,7 @@ footer="assets/footer.html"
 # Main Content of the Glossary
 
 # This is the complete glossary.
-input="glosssary_content/glossary_table.md"
+input="glossary_content/glossary_table.md"
 # Uncomment this to use a shortened glossary for testing.
 #input="glossary_content/glossary_table_short.md"
 
