@@ -1,7 +1,7 @@
 THIS IS ONLY A SHORT VERSION FOR TESTING
 
 | Terms Number | Terms | Definition / Description |
-| ----- ------ | ----- | ------------------------ |
+| ------------ | ----- | ------------------------ |
 | 1 | abîme | (French)  1. An abyss.  2. A wide, deep shaft, in limestone, the walls of which are vertical or overhanging [10]. |
 | 2 | ablation | The wearing away of ice or snow through the process of evaporation [16]. |
 | 3 | abney level | Type of clinometer with a bubble tube used in cave survey to determine vertical angles [25]. |
