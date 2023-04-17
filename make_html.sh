@@ -18,7 +18,7 @@ license="assets/license.md"
 contact="assets/contact.html"
 footer="assets/footer.html"
 
-output="epa_mfield_2002_utf8.html"
+output="UIS_Glossary.html"
 
 # Export our timezone so in the shell on the Github build,
 # the timezone will be correct.
@@ -65,7 +65,10 @@ cat $contact  >> $output
 
 cat $footer >> $output
 
+# Use this for Git CI. 
 mv $output docs/index.html
+# Use this for local updating and comment out the above.
+#mv $output tmp/
 
 # Cleanup
 rm -f tmp1
