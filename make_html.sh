@@ -9,9 +9,15 @@ input="mfield_data/epa_mfield_2002_utf8.md"
 # Uncomment this to use a shortened glossary for testing.
 #input="mfield_data/epa_mfield_2002_utf8_short.md"
 
-styles="assets/styles.css"
+# This is the order of the sections.
 header="assets/header.html"
+styles="assets/styles.css"
+references="assets/references.md"
+epa_intro="assets/epa_intro.md"
+license="assets/license.md"
+contact="assets/contact.html"
 footer="assets/footer.html"
+
 output="epa_mfield_2002_utf8.html"
 
 # Export our timezone so in the shell on the Github build,
@@ -49,6 +55,14 @@ cat tmp1 | sed 's/ class="odd"//' > tmp2
 
 # Append to the output.
 cat tmp2 >> $output
+
+pandoc -f markdown -t html $references > tmp1
+cat tmp1 >> $output
+
+pandoc -f markdown -t html $epa_intro >> $output
+pandoc -f markdown -t html $license   >> $output
+cat $contact  >> $output
+
 cat $footer >> $output
 
 mv $output docs/index.html
