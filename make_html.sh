@@ -66,9 +66,9 @@ pandoc -f markdown -t html $contact   >> $output
 cat $footer >> $output
 
 # Use this for Git CI. 
-#mv $output docs/index.html
+mv $output docs/index.html
 # Use this for local updating and comment out the above.
-mv $output tmp/
+#mv $output tmp/
 
 # Cleanup
 rm -f tmp1
