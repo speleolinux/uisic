@@ -5,111 +5,157 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="A glossary of speleological terms.">
   <meta name="author" content="Peter Matthews, Mike Lake, Malcolm Field">
-  <meta name="date.modified" content="2023-04-15 23:41 AEST">
+  <meta name="date.modified" content="2023-04-17 23:41 AEST">
   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
   <meta http-equiv="Pragma" content="no-cache">
   <meta http-equiv="Expires" content="0">
   <title>UIS Glossary of Speleology</title>
 
 <style>
-/* Styles for the UISIC Glossary.
-   These styles are included locally so that this page will still display
-   the same when downloaded. */
+/* General stylesheet for UISIC website - P. Matthews */
 
 body {
-  margin: 0px 10% 0px 10%; 
-  background-color: #F5F5F5;
-  font-family: arial, helvetica, sans-serif; 
-  font-size: large;
+	margin: 0px 10% 0px 10%; 
+	background-color: #F5F5F5;
+	font-family: arial, helvetica, sans-serif; 
+	font-size: large;
 }
-h1 { text-align: center; font-size: 1.8em; }
-h1,h2,h3,h4,h5,h6 { color: #E65C00; text-align: left; }
-.center { text-align: center;}
+h1,h2,h3,h4,h5,h6 { color:#E65C00; text-align:left; }
+h1 { text-align:center; font-size:1.8em; }
+.center { text-align: center; }
 .headSuperText {
-  font-size: 1em;
-  font-weight: normal;
-  text-align: center;
-  margin: 1em 0em;
+	font-size: 1em;
+	font-weight: normal;
+	text-align: center;
+	margin: 1em 0em;
 }
 .headSubText {
-  font-size: 1em;
-  font-style: italic;
-  font-weight: normal;
-  text-align: center;
-  margin-bottom: 2em;
-  margin-top: 0em;
+	font-size: 1em;
+	font-style: italic;
+	font-weight: normal;
+	text-align: center;
+	margin-bottom: 2em;
+	margin-top: 0em;
 }
 .footer {
-  clear: both;
-  text-align: left;
-  padding: 1em 0em;
-  font-size: 0.8em;
-  font-style: italic;
-  font-weight: normal;
+	clear: both;
+	text-align: left;
+	padding: 1em 0em;
+	font-size: 0.8em;
+	font-style: italic;
+	font-weight: normal;
 }
 .date-header {
-  text-align: center;
-  font-style: italic;
-  font-weight: lighter;
-  font-size: 0.9em;
+	text-align: center;
+	font-style: italic;
+	font-weight: lighter;
+	font-size: 0.9em;
 }
 .date-footer {
-  text-align: left;
-  font-style: normal;
-  font-weight: normal;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
 }
 /* For small horizontal menu strips */
 .menuhoriz {
-  margin: 0.4em 0px;
-  font-size: .8em;
-  text-align: center;
+	margin: 0.4em 0px;
+	font-size: .8em;
+	text-align: center;
 }
 .menuhoriz a {
-  color: #E65C00 ;
-  text-decoration: none;
-  font-weight: bold;
+	color: #E65C00 ;
+	text-decoration: none;
+	font-weight: bold;
 }
 /* Using layout:fixed speeds up displaying the start of a long table */
 table { table-layout: fixed; }
 table, th, td { border: 1px solid black; border-collapse: collapse; }
-td { vertical-align: top; padding: 0.4em; }
-td:first-child { text-align: center; width: 9%; }
+th:first-child { width: 9%; }
+th:nth-child(2) { width: 20%; }
 th { background-color: lightgrey; }
 tr:nth-child(even) { background-color: lightgrey; }
+td { vertical-align: top; padding: 0.4em; }
+td:first-child { text-align: center; }
 .equation {
-  border: none;
-  text-align: center;
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
+	border: none;
+	text-align: center;
+	padding-top: 0.4em;
+	padding-bottom: 0.4em;
 }
 sub,sup { font-size: 0.8em; }
+/* Set page breaks for printing: */
+@media print {
+	h2.pagebreak { page-break-before: always; }
+	tr,p { page-break-inside: avoid; }
+}
+
+
 </style>
 </head>
-
 <body>
+<p class="headSuperText" id="top">International Union of Speleology
+<br>Informatics Commission - Dictionary Sub-commission</p>
 
-<h1>Cave and Karst Glossary Project</h1>
-<h2>The UIS Glossary - Draft 1</h2>
+<h1>The UIS Cave and Karst Glossary<br>Stage 1</h1>
 
+<p class="date-header">Published: 2023-04-15</p>
+
+<!-- Top menu -->
 <nav class="menuhoriz">
 <p>
-<a href="#origintro">Original introduction</a> | 
-<a href="#refs">References</a> | 
-<a href="lexgloss.html" target="_blank">The Project</a> | 
-<a href="index.html" target="_blank">UISIC</a> | 
-<a href="https://www.uis-speleo.org" target="_blank">UIS</a> 
+<!-- <a href="#draftglossary">Glossary</a> | -->
+<a href="#references">References</a> | 
+<a href="#epaintro">EPA Introduction</a> | 
+<a href="#license">License</a> | 
+<a href="http://uisic.uis-speleo.org/lexgloss.html">The Project</a> | 
+<a href="http://uisic.uis-speleo.org/forum/viewforum.php?f=19">Forum</a> | 
+<a href="http://uisic.uis-speleo.org/lexintro.html">Dictionary</a> | 
+<a href="http://uisic.uis-speleo.org/index.html">UISIC</a> | 
+<a href="http://uis-speleo.org">UIS</a> | 
+<a href="#contact">Contact</a> 
 </p>
-</nav>
+</nav> <!-- end of menuhoriz -->
 
-<p>This is a preliminary early version of the UIS Cave and Karst Glossary.<br>
-This is glossary version 2023-04-15.</p>
+<p>
+This is a works-in-progress Stage 1 of introducing the English version of the UIS Cave and Karst Glossary. 
+At this stage of the project it is effectively just a direct conversion of Malcolm Field's 2002 Second Edition 
+<a href="https://cfpub.epa.gov/ncea/risk/recordisplay.cfm?deid=54964">PDF</a> US-EPA publication 
+(<cite>A Lexicon of Cave and Karst Terminology with Special Reference to Environmental Karst Hydrology</cite>), 
+but with our Term Numbers added. With Malcolm's assistance we are using it as the starting point for a 
+major UIS Glossary resource. It replaces our initial Draft 1 of 2022-11-30 and fixes most of the conversion problems in that draft.
+</p>
+
+<p>Later stages will include internal cross-referencing, term-linking between the existing 
+<a href="http://uisic.uis-speleo.org/lexintro.html">UIS Multi-lingual Dictionary</a> and 
+the Glossary to provide definitions for the Dictionary's concepts, integration of 
+his non-English terms and synonyms with the Multi-lingual Dictionary, and the proper presentation of scientific equations. 
+We will of course be inviting improvements to Malcolm's terms, additional terms, the incorporation of other specialist 
+glossaries, and expansion into glossaries in other languages. The Glossary will also be integrated into the 
+<a href="http://uisic.uis-speleo.org/exchange/karstlink/index-en.html">UIS <cite>KarstLink</cite> Ontology</a> for Linked Data.
+</p>
+
+<p>
+Each term can be directly accessed or linked to by appending for example, #33, to the address of this page 
+in order to go directly to Term Number 33. These Term Numbers are now stable and are independent 
+from the Concept Numbers used in the Multi-lingual Dictionary. Similarly, details of references can be accessed: e.g. for 
+Reference [10], append #ref10 to the page address and press &lt;Enter&gt;. This web page can also be downloaded for offline use 
+(675KB). Printing or producing a PDF of this web page will run to about 207 A4 pages, with intelligent page breaks.
+</p>
+
+<p>
+The <a href="http://uisic.uis-speleo.org/lexgloss.html#conversion">conversion</a> from 
+the 2700-term PDF <cite>Lexicon</cite> to this web page has involved 
+quite a lot of detailed work, and there could be things we missed, so if you notice anything that needs fixing, please do 
+<a href="mailto:Peter Matthews - Glossary <matthews&#000000064;melbpc.org.au>"> email us</a> with the details. 
+Any temporary editorial comments added by the Glossary Project will show as [GP: .... ].
+</p>
 
 <table>
 <thead>
 <tr class="header">
-<th>Term Number</th>
+<th>Terms Number</th>
 <th>Terms</th>
-<th>Definition/Description</th>
+<th>Definition / Description</th>
 </tr>
 </thead>
 <tbody>
@@ -13610,21 +13656,93 @@ This is glossary version 2023-04-15.</p>
 </tr>
 </tbody>
 </table>
-<h2 id="refs">References</h2>
-
-TODO later
+<h2 id="references">References</h2>
+<p>As extracted from Field’s 2nd Edition 2002 Lexicon.</p>
+<ol type="1">
+<li><p>Bates, R. L. and J. A. Jackson. 1980. Glossary of Geology. American Geological Institute. Falls Church, Va. 751 pp.</p></li>
+<li><p>Bear, J. 1979. Hydraulics of Groundwater. McGraw-Hill Inc. New York, NY. 569 pp.</p></li>
+<li><p>Bögli, A. 1980. Karst Hydrology and Physical Speleology. Springer-Verlag. Berlin, West Germany. 284 pp.</p></li>
+<li><p>Daoxian, Y. 1985. New Observations on Tower Karst. Paper presented at the 1st International Conference on Geomorphology (Manchester, England). 14 pp.</p></li>
+<li><p>Dreybrodt, W. 1988. Processes in Karst Systems: Physics, Chemistry, and Geology. Springer-Verlag. New York, N.Y. 288 pp.</p></li>
+<li><p>Driscoll, F. G. 1986. Groundwater and Wells. Johnson Division. St. Paul, Minn. 1089 pp.</p></li>
+<li><p>Ford, D. C. and P. W. Williams. 1989. Karst Geomorphology and Hydrology. Unwin Hyman Inc. Lakeland, Fla. 601 pp.</p></li>
+<li><p>Jennings, J. N. 1985. Karst Geomorphology. Basil Blackwell Inc. New York, N.Y. 293 pp.</p></li>
+<li><p>Lowe, D. and T. Waltham. 1995. A Dictionary of Karst and Caves: A Brief Guide to the Terminology and Concepts of Cave and Karst Science. Cave Studies Series Number 6. British Cave Research Association. London, Britain. 41 pp.</p></li>
+<li><p>Monroe, W. H. (Compiler). 1970. A Glossary of Karst Terminology. Geological Survey Water-Supply Paper 1899-K. U.S. Geological Survey. U.S. Government Printing Office. Washington, D.C. 26 pp.</p></li>
+<li><p>Moore, G. W. and G. N. Sullivan. 1978. Speleology: The Study of Caves. Cave Books. 2nd Edition. St. Louis, Missouri. 150 pp.</p></li>
+<li><p>Mylroie, J. E. 1984. Hydrologic classification of caves and karst. Groundwater as a Geomorphic Agent. R. G. LaFleur, Editor. Allen &amp; Unwin. Inc.  Boston, Mass. pp. 157-172.</p></li>
+<li><p>NSS. 1982. Glossary of caving terms used in this manual. Caving Basics. J. Hassemer, Editor. National Speleological Society. Huntsville, Ala. pp. 124-125.</p></li>
+<li><p>Palmer, A. N. 1972. Dynamics of a sinking stream system: Onesquethaw Cave, New York. National Speleological Society Bulletin. 34. pp. 89-110.</p></li>
+<li><p>Palmer, A. N. 1981. A Geological Guide to Mammoth Cave National Park. Zephyrus Press. Teaneck, N.J. 196 pp.</p></li>
+<li><p>Pfannkuch, H. O. 1971. Elsevier’s Dictionary of Hydrogeology. American Elsevier Publishing Company. Inc. New York, N.Y. 168 pp.</p></li>
+<li><p>Quinlan, J. F. 1978. Types of Karst with Emphasis on Cover Beds in their Classification and Development. Unpublished Ph.D. Dissertation. The University of Texas at Austin. 323 pp.</p></li>
+<li><p>Quinlan, J. F., P. L. Smart, G. M. Schindel, E. C. Alexander, A. J. Edwards, and A. Richard Smith. 1991. Recommended administrative/regulatory definition of karst aquifer, principles for classification of carbonate aquifers, practical evaluation of vulnerability of karst aquifers, and determination of optimum sampling frequency at springs. Hydrology. Ecology. Monitoring. and Management of Ground Water in Karst Terranes Conference (3rd. Nashville. Tenn. 1991). J. F. Quinlan and A. Stanley, Editors. National Ground Water Association. Dublin, Ohio. pp. 573-635.</p></li>
+<li><p>Sweeting, M. M. 1973. Karst Landforms. Selected Glossary. Compiled by K. Addison. Columbia University Press. New York, N.Y. 362 pp.</p></li>
+<li><p>UNESCO. 1972. Glossary and Multilingual Equivalents of Karst Terms. United Nations Educational. Scientific. and Cultural Organization. Paris, France. 72 pp.</p></li>
+<li><p>UNESCO. 1984. Guidebook to Studies of Land Subsidence due to Ground-Water withdrawal. Prepared for the International Hydrological Programme. Working Group 8.4. J. F. Poland, Editor. United Nations Education. Scientific and Cultural Organization. Paris, France. 305 pp. (plus appendices).</p></li>
+<li><p>USGS. (date ?). Federal Glossary of Selected Terms: Subsurface-Water Flow and Solute Transport. Prepared by the Subsurface-Water Glossary Working Group. Ground-Water Subcommittee. Interagency Advisory Committee on Water Data. Dept. of the Interior. U.S. Geological Survey. Office of Water Data Coordination. 38 pp.</p></li>
+<li><p>William R. Elliott, Ph.D. of the Natural History Division of the Missouri Department of Conservation. The list of definitions were obtained directly from the Biospeleology web site: www.utexas.edu/depts/tnhc/.www/biospeleology which is based on “The Life of the Cave” by Charles E. Mohr and Thomas L. Poulson (1966, McGraw-Hill) with additions from Dr. Elliott.</p></li>
+<li><p>Clark, I. and P. Fritz. 1997. Environmental Isotopes in Hydrology. Lewis Publishers, Boca Raton, Fla. p. 174.</p></li>
+<li><p>Australian Speleological Federation. 1996. Cave and Karst Terminology. The list of definitions were obtained directly from the Western Australia Speleology web site: http://wasg.iinet.net.au/terminol.html which contains a listing of terminology commonly used in Australia. [GP: New address <a href="https://wasg.org.au/index.php/specialties/terminologies/karst-terminology">https://wasg.org.au/index.php/specialties/terminologies/karst-terminology</a>]</p></li>
+</ol>
+<h2 id="epaintro">The Introduction to Field’s Published Lexicon</h2>
+<p>As extracted from Field’s 2002, 2nd Edition, Lexicon</p>
+<p>United States Environmental Protection Agency Office of Research and Development Washington, D.C. 20460 EPA/600/R-02/003 February 2002 <a href="https://www.epa.gov/ncea" class="uri">https://www.epa.gov/ncea</a></p>
+<p>Research and Development</p>
+<p>A Lexicon of Cave and Karst Terminology with Special Reference to Environmental Karst Hydrology</p>
+<p>(Supercedes EPA/600/R-99/006, 1/’99)</p>
+<p>National Center for Environmental Assessment-Washington Office Office of Research and Development U.S. Environmental Protection Agency Washington, DC 20460</p>
+<p>DISCLAIMER</p>
+<p>This document has been reviewed in accordance with U.S. Environmental Protection Agency policy and approved for publication. Mention of trade names or commercial products does not constitute endorsement or recommendation for use.</p>
+<p>CONTENTS</p>
+<p>PREFACE TO THE SECOND EDITION<br />
+PREFACE TO THE FIRST EDITION<br />
+AUTHOR AND REVIEWERS<br />
+INTRODUCTION<br />
+GLOSSARY<br />
+REFERENCES</p>
+<p>PREFACE TO THE SECOND EDITION</p>
+<p>Release of the first edition of this lexicon was well received and resulted in two printings. The first edition is again in short supply, but rather than going through a third printing, an updated edition was deemed appropriate. Since the release of the first edition, additional definitions related to biospeleology, courtesy of Dr. William R. Elliott of the Natural History Division of the Missouri Department of Conservation, have been added. Additional definitions obtained from the Australian Speleological Federation also have been added.</p>
+<p>Researchers and the general public alike will find these additions useful as they work their way through the published literature. For this second edition, the literature search is current to 2002. To be sure, this updated lexicon is far from complete and will more than likely be updated in a few years.</p>
+<p>PREFACE TO THE FIRST EDITION</p>
+<p>The National Center for Environmental Assessment-Washington Office (NCEA-W) has prepared this document for the benefit of the regional offices and public in general due to the need to understand the terminology common to the field of karst. It is a glossary of most terms that have some relationship to the field of environmental karst as well as specific karst terms. It includes many foreign terms because much of the karst research is conducted in foreign countries and published using local terminology. In many instances, common environmental terms are defined in such a way as to specifically reference karstic phenomena.</p>
+<p>The purpose of this document is to serve as a technical guide to regional offices and the public in general who must read the karst literature or who must hold discussions with karst researchers. It is intended that this document remove much of the confusion surrounding many of the karst terms.</p>
+<p>The literature search supporting this lexicon is current to 1998.</p>
+<p>AUTHOR AND REVIEWERS</p>
+<p>The National Center for Environmental Assessment-Washington Office within the Office of Research and Development was responsible for the preparation of this document and provided overall direction and coordination during the production effort.</p>
+<p>AUTHOR/COMPILER</p>
+<p>Malcolm S. Field, Ph.D. U.S. Environmental Protection Agency National Center for Environmental Assessment-Washington Office Washington, DC</p>
+<p>REVIEWERS</p>
+<p>Stephen R. Kraemer, Ph.D.<br />
+U.S. Environmental Protection Agency<br />
+National Exposure Research Laboratory<br />
+Ecosystems Research Division<br />
+Athens, GA</p>
+<p>Arthur N. Palmer, Ph.D.<br />
+Department of Earth Sciences<br />
+State University of New York<br />
+Oneonta, NY</p>
+<p>INTRODUCTION</p>
+<p>Several attempts to classify karst terminology in an organized manner have been attempted in the past. The last few glossaries of karst terminology were organized in the late 1960s and published in the early 1970s. Since that time, many new terms related to karst in general have come into use throughout the world while other older karst terms are seldom used nowadays. In the mid 1990s the British Cave Research Association (BCRA) published and updated a dictionary that covers the general area of karst and caves, but did not focus on environmental issues.</p>
+<p>Many of the more recent karst terms are related to the upsurge in environmentalism and the recognition among karst cognoscenti that karst terranes are much more sensitive to man-induced effects on the environment than are other types of landscapes. In an attempt to be as broad as possible in this glossary, terms related to general hydrology and hydrogeology, common karst rock and mineral types, and many of the descriptive terms used in speleology even where they relate to specific localities, have been included. No attempt was made to exclude foreign karst terms although many are no doubt, missing. This has led to a much larger manuscript than was originally intended when this project was initiated, but it has provided for a more comprehensive document.</p>
+<p>Because many non-karst professionals, whether working on basic research or on environmental problems, need to have a general working knowledge of karst terminology, this glossary was developed to provide an up-to-date reference for more modern definitions of karst terms both currently in usage and now defunct. As with any undertaking of this sort, numerous omissions will be shown to be evident. In other instances, disagreements regarding definitions will arise. In the event that readers of this glossary find various omissions or incorrect definitions, it would be greatly appreciated if the necessary corrections be forwarded to the author so that the glossary may be updated in the future.</p>
+<p>As a final note, it should be pointed out that a list of references for the definitions are included at the back of this glossary and citations are provided when appropriate. In many instances, duplication of definitions from previous glossaries were employed to avoid changing the original definitions. However, efforts were not always attempted to cite the exact source for each definition as this would have greatly lengthened this already excessively long manuscript; secondary citations have been provided. Exact citations would also have resulted in confusion where several definitions were utilized in the writing of a single clear definition for any particular term. In no instance was it intended that the work of others be appropriated, only that this glossary be as comprehensive and clear as possible while avoiding excessive clutter. Also, where definitions were deemed to be incorrect or poorly worded, alternatives have been written.</p>
+<h2 id="license">License</h2>
+<p>The term definitions from Field’s original <a href="https://cfpub.epa.gov/ncea/risk/recordisplay.cfm?deid=54964">Lexicon</a> as a US Govt Agency publication, are in the Public Domain. This UIS adaptation is freely available under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons License</a> Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).</p>
 
 <!-- Bottom menu -->
 <nav class="menuhoriz">
 <p>
 <a href="#top">Top</a> | 
-<a href="#draftglossary">Glossary</a> | 
-<a href="#origintro">Original introduction</a> | 
+<a href="#glossary">Glossary</a> | 
 <a href="#refs">References</a> | 
-<a href="lexgloss.html" target="_blank">The Project</a> | 
-<a href="index.html" target="_blank">UISIC</a> | 
-<a href="https://www.uis-speleo.org" target="_blank">UIS</a> 
-</p>
+<a href="#epaintro">EPA introduction</a> | 
+<a href="#licence">Licence</a> | 
+<a href="http://uisic.uis-speleo.org/lexgloss.html">The Project</a> | 
+<a href="http://uisic.uis-speleo.org/forum/viewforum.php?f=19">Forum</a> | 
+<a href="http://uisic.uis-speleo.org/lexintro.html">Dictionary</a> | 
+<a href="http://uisic.uis-speleo.org/index.html">UISIC</a> | 
+<a href="http://uis-speleo.org">UIS</a> </p>
 </nav>  <!-- end of menuhoriz -->
 
 <hr>
