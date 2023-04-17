@@ -4,21 +4,29 @@
 # Author: Mike Lake
 # Date: March 2023
 
-# This is the complete glossary.
-input="mfield_data/epa_mfield_2002_utf8.md"
-# Uncomment this to use a shortened glossary for testing.
-#input="mfield_data/epa_mfield_2002_utf8_short.md"
-
-# This is the order of the sections.
-header="assets/header.html"
+# Assets such as styles, icons etc, plus header and footer.
 styles="assets/styles.css"
-references="assets/references.md"
-epa_intro="assets/epa_intro.md"
-license="assets/license.md"
-contact="assets/contact.md"
+header="assets/header.html"
 footer="assets/footer.html"
 
+# Main Content of the Glossary
+
+# This is the complete glossary.
+input="glosssary_content/glossary_table.md"
+# Uncomment this to use a shortened glossary for testing.
+input="glossary_content/glossary_table_short.md"
+
+references="glossary_content/references.md"
+epa_intro="glossary_content/epa_intro.md"
+license="glossary_content/license.md"
+contact="glossary_content/contact.md"
+
+# Final output file for publishing.
 output="UIS_Glossary.html"
+
+######
+# Main
+######
 
 # Export our timezone so in the shell on the Github build,
 # the timezone will be correct.
@@ -66,9 +74,9 @@ pandoc -f markdown -t html $contact   >> $output
 cat $footer >> $output
 
 # Use this for Git CI. 
-mv $output docs/index.html
+#mv $output docs/index.html
 # Use this for local updating and comment out the above.
-#mv $output tmp/
+mv $output tmp/
 
 # Cleanup
 rm -f tmp1
