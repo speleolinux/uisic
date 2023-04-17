@@ -14,7 +14,7 @@ footer="assets/footer.html"
 # This is the complete glossary.
 input="glosssary_content/glossary_table.md"
 # Uncomment this to use a shortened glossary for testing.
-input="glossary_content/glossary_table_short.md"
+#input="glossary_content/glossary_table_short.md"
 
 references="glossary_content/references.md"
 epa_intro="glossary_content/epa_intro.md"
@@ -74,9 +74,9 @@ pandoc -f markdown -t html $contact   >> $output
 cat $footer >> $output
 
 # Use this for Git CI. 
-#mv $output docs/index.html
+mv $output docs/index.html
 # Use this for local updating and comment out the above.
-mv $output tmp/
+#mv $output tmp/
 
 # Cleanup
 rm -f tmp1
