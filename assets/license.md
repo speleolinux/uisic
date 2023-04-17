@@ -1,4 +1,4 @@
-Licence
+## License
 
 The term definitions from Field's original 
 [Lexicon](https://cfpub.epa.gov/ncea/risk/recordisplay.cfm?deid=54964)
