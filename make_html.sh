@@ -15,7 +15,7 @@ styles="assets/styles.css"
 references="assets/references.md"
 epa_intro="assets/epa_intro.md"
 license="assets/license.md"
-contact="assets/contact.html"
+contact="assets/contact.md"
 footer="assets/footer.html"
 
 output="UIS_Glossary.html"
