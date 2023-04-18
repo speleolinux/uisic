@@ -1,3 +1,5 @@
+## The Glossary
+
 THIS IS ONLY A SHORT VERSION FOR TESTING
 
 | Terms Number | Terms | Definition / Description |

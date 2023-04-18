@@ -1,3 +1,5 @@
+## The Glossary
+
 | Terms Number | Terms | Definition / Description |
 | ------------ | ----- | ------------------------ |
 | 1 | abîme | (French)  1. An abyss.  2. A wide, deep shaft, in limestone, the walls of which are vertical or overhanging [10]. |
