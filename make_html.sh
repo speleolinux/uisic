@@ -9,6 +9,8 @@ styles="assets/styles.css"
 header="assets/header.html"
 footer="assets/footer.html"
 
+intro="glossary_content/intro.html"
+
 # The main glossary table.
 glossary="glossary_content/glossary_table.md"
 # Uncomment this to use a shorter version of the glossary for testing.
@@ -40,10 +42,10 @@ today=$(date +"%Y-%m-%d %H:%M %Z")
 version=$(cat VERSION)
 
 cat $header | sed "s/BUILD_DATE/$today/" > $output
-echo '<style>' >> $output
+echo '<style type="text/css">' >> $output
 cat $styles >> $output
 echo '</style>' >> $output
-cat assets/start.html | sed "s/VERSION_DATE/$version/" >> $output
+cat $intro | sed "s/VERSION_DATE/$version/" >> $output
 
 # Create the main HTML table data.
 # We use columns=10000 to reduce the column width on the term column.
