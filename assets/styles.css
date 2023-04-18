@@ -1,57 +1,57 @@
 /* General stylesheet for UISIC website - P. Matthews */
 
 body {
-	margin: 0px 10% 0px 10%; 
-	background-color: #F5F5F5;
-	font-family: arial, helvetica, sans-serif; 
-	font-size: large;
+    margin: 0px 10% 0px 10%; 
+    background-color: #F5F5F5;
+    font-family: arial, helvetica, sans-serif; 
+    font-size: large;
 }
 h1,h2,h3,h4,h5,h6 { color:#E65C00; text-align:left; }
 h1 { text-align:center; font-size:1.8em; }
 .center { text-align: center; }
 .headSuperText {
-	font-size: 1em;
-	font-weight: normal;
-	text-align: center;
-	margin: 1em 0em;
+    font-size: 1em;
+    font-weight: normal;
+    text-align: center;
+    margin: 1em 0em;
 }
 .headSubText {
-	font-size: 1em;
-	font-style: italic;
-	font-weight: normal;
-	text-align: center;
-	margin-bottom: 2em;
-	margin-top: 0em;
+    font-size: 1em;
+    font-style: italic;
+    font-weight: normal;
+    text-align: center;
+    margin-bottom: 2em;
+    margin-top: 0em;
 }
 .footer {
-	clear: both;
-	text-align: left;
-	padding: 1em 0em;
-	font-size: 0.8em;
-	font-style: italic;
-	font-weight: normal;
+    clear: both;
+    text-align: left;
+    padding: 1em 0em;
+    font-size: 0.8em;
+    font-style: italic;
+    font-weight: normal;
 }
 .date-header {
-	text-align: center;
-	font-style: italic;
-	font-weight: lighter;
-	font-size: 0.9em;
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 0.9em;
 }
 .date-footer {
-	text-align: left;
-	font-style: normal;
-	font-weight: normal;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
 }
 /* For small horizontal menu strips */
 .menuhoriz {
-	margin: 0.4em 0px;
-	font-size: .8em;
-	text-align: center;
+    margin: 0.4em 0px;
+    font-size: .8em;
+    text-align: center;
 }
 .menuhoriz a {
-	color: #E65C00 ;
-	text-decoration: none;
-	font-weight: bold;
+    color: #E65C00 ;
+    text-decoration: none;
+    font-weight: bold;
 }
 /* Using layout:fixed speeds up displaying the start of a long table */
 table { table-layout: fixed; }
@@ -63,16 +63,16 @@ tr:nth-child(even) { background-color: lightgrey; }
 td { vertical-align: top; padding: 0.4em; }
 td:first-child { text-align: center; }
 .equation {
-	border: none;
-	text-align: center;
-	padding-top: 0.4em;
-	padding-bottom: 0.4em;
+    border: none;
+    text-align: center;
+    padding-top: 0.4em;
+    padding-bottom: 0.4em;
 }
 sub,sup { font-size: 0.8em; }
 /* Set page breaks for printing: */
 @media print {
-	h2.pagebreak { page-break-before: always; }
-	tr,p { page-break-inside: avoid; }
+    h2.pagebreak { page-break-before: always; }
+    tr,p { page-break-inside: avoid; }
 }
 
 
