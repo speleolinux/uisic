@@ -65,7 +65,10 @@ cat tmp1 | sed 's/ class="odd"//' > tmp2
 cat tmp2 >> $output
 
 pandoc -f markdown -t html $references > tmp1
-cat tmp1 >> $output
+# Replace line like this: <p>1. Bates, R. L. and J. A. Jackson.
+# with line like this:    <p id="ref1">Bates, R. L. and J. A. Jackson.
+cat tmp1 | sed 's/<p>\([0-9]*\)/<p id="ref\1">\1/' > tmp2
+cat tmp2 >> $output
 
 pandoc -f markdown -t html $epa_intro >> $output
 pandoc -f markdown -t html $license   >> $output
