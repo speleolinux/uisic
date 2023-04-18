@@ -38,6 +38,57 @@ function minify_css {
     | sed 's/: /:/g' | sed 's/; /;/g' | sed 's/ { /{/g'
 }
 
+function print_header {
+    # Print the HTML header.
+
+    # This will be a build date that will be in the HTML header.
+    # The H:M also ensures the file is changed.
+    # Otherwise the index.html has not changed and the git push
+    # will fail, reporting back that the CI has failed.
+    today=$(date +"%Y-%m-%d %H:%M %Z")
+    
+    cat $header | sed "s/BUILD_DATE/$today/"
+    echo '<style type="text/css">'
+    minify_css
+    echo '</style>'
+    echo '</head>'
+}
+
+function print_intro {
+    # Begin body of HTML.
+    # This will be the version that users see in the HTML page.
+    version=$(cat VERSION)
+    cat $intro | sed "s/VERSION_DATE/$version/"
+}
+
+function print_glossary {
+    # Print the glossary table.
+
+    # We use columns=10000 to reduce the column width on the term column.
+    pandoc --columns=10000 --mathml -f markdown -t html $glossary > tmp1
+    
+    # This table needs a few things fixed.
+    
+    # 1. Replace line like this: <td>7</td>
+    #    with line like this:    <td id="7">7</td>
+    cat tmp1 | sed 's/<td>\([0-9]*\)<\/td>/<td id="\1">\1<\/td>/' > tmp2
+    
+    # 2. Remove the even/odd classes on the rows.
+    cat tmp2 | sed 's/ class="even"//' > tmp1
+    cat tmp1 | sed 's/ class="odd"//' > tmp2
+    
+    # Print output
+    cat tmp2
+}
+
+function print_references {
+    # Print the references as HTML.
+    pandoc -f markdown -t html $references > tmp1
+    # Replace line like this: <p>1. Bates, R. L. and J. A. Jackson.
+    # with line like this:    <p id="ref1">Bates, R. L. and J. A. Jackson.
+    cat tmp1 | sed 's/<p>\([0-9]*\)/<p id="ref\1">\1/'
+}
+
 ######
 # Main
 ######
@@ -57,52 +108,20 @@ fi
 # the timezone will be correct.
 export TZ="Australia/Sydney"
 
-# This will be a build date that will be in the HTML header.
-# The H:M also ensures the file is changed.
-# Otherwise the index.html has not changed and the git push
-# will fail, reporting back that the CI has failed.
-today=$(date +"%Y-%m-%d %H:%M %Z")
-
-# Begin the HTML header.
-cat $header | sed "s/BUILD_DATE/$today/" > $output
-echo '<style type="text/css">' >> $output
-minify_css >> $output
-echo '</style>' >> $output
-echo '</head>' >> $output
-
-# Begin body of HTML.
-# This will be the version that users see in the HTML page.
-version=$(cat VERSION)
-cat $intro | sed "s/VERSION_DATE/$version/" >> $output
-
-# Create the main HTML table data.
-# We use columns=10000 to reduce the column width on the term column.
-pandoc --columns=10000 --mathml -f markdown -t html $glossary > tmp1
-
-# This table needs a few things fixed.
-
-# 1. Replace line like this: <td>7</td>
-#    with line like this:    <td id="7">7</td>
-cat tmp1 | sed 's/<td>\([0-9]*\)<\/td>/<td id="\1">\1<\/td>/' > tmp2
-
-# 2. Remove the even/odd classes on the rows.
-cat tmp2 | sed 's/ class="even"//' > tmp1
-cat tmp1 | sed 's/ class="odd"//' > tmp2
-
-# Append to the output.
-cat tmp2 >> $output
-
-pandoc -f markdown -t html $references > tmp1
-# Replace line like this: <p>1. Bates, R. L. and J. A. Jackson.
-# with line like this:    <p id="ref1">Bates, R. L. and J. A. Jackson.
-cat tmp1 | sed 's/<p>\([0-9]*\)/<p id="ref\1">\1/' > tmp2
-cat tmp2 >> $output
-
+# Write the HTML sections.
+cat /dev/null    >  $output
+print_header     >> $output
+print_intro      >> $output
+print_glossary   >> $output
+print_references >> $output
 pandoc -f markdown -t html $epa_intro >> $output
 pandoc -f markdown -t html $license   >> $output
 pandoc -f markdown -t html $contact   >> $output
-
 cat $footer >> $output
+
+# Cleanup
+rm -f tmp1
+rm -f tmp2
 
 if [ -z "${CI+x}" ]; then
     # CI is unset or zero so we are running locally.
@@ -113,8 +132,4 @@ else
     # output to the directory for Github pages.
     mv $output docs/index.html
 fi
-
-# Cleanup
-rm -f tmp1
-rm -f tmp2
 
