@@ -2,6 +2,7 @@
 
 # Script to generate HTML Glossary page from the Markdown input.
 # Author: Mike Lake
+# Git repo: https://github.com/speleolinux/uisic
 # Date: March 2023
 
 # Assets such as styles, icons etc, plus header and footer.
@@ -9,11 +10,11 @@ styles="assets/styles.css"
 header="assets/header.html"
 footer="assets/footer.html"
 
-intro="glossary_content/intro.html"
-
 # The main glossary table.
-glossary="glossary_content/glossary_table.md"
+glossary_full="glossary_content/glossary_table.md"
+glossary_short="glossary_content/glossary_table_short.md"
 
+intro="glossary_content/intro.html"
 references="glossary_content/references.md"
 epa_intro="glossary_content/epa_intro.md"
 license="glossary_content/license.md"
@@ -45,8 +46,11 @@ function minify_css {
 if [ -z "${CI+x}" ]; then
     # CI is unset or zero so we are running locally.
     # Use this shorter version of the glossary for testing.
-    glossary="glossary_content/glossary_table_short.md"
+    glossary="$glossary_short"
     echo "Using short $glossary CI=$CI"
+else
+    # We are running at Gitlab via CI.
+    glossary="$glossary_full"
 fi
 
 # Export our timezone so in the shell on the Github build,
@@ -102,6 +106,8 @@ if [ -z "${CI+x}" ]; then
     echo "Moving output to tmp/$output"
     mv $output tmp/
 else
+    # We are running at Gitlab via CI so move the
+    # output to the directory for Github pages.
     mv $output docs/index.html
 fi
 
