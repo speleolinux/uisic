@@ -1,9 +1,9 @@
 /* General stylesheet for UISIC website - P. Matthews */
 
 body {
-    margin: 0px 10% 0px 10%; 
+    margin: 0px 10% 0px 10%;
     background-color: #F5F5F5;
-    font-family: arial, helvetica, sans-serif; 
+    font-family: arial, helvetica, sans-serif;
     font-size: large;
 }
 h1,h2,h3,h4,h5,h6 { color:#E65C00; text-align:left; }
