@@ -57,17 +57,20 @@ fi
 # the timezone will be correct.
 export TZ="Australia/Sydney"
 
-# This is a build date that will be in the HTML header.
+# This will be a build date that will be in the HTML header.
 # The H:M also ensures the file is changed.
 # Otherwise the index.html has not changed and the git push
 # will fail, reporting back that the CI has failed.
 today=$(date +"%Y-%m-%d %H:%M %Z")
-cat $header | sed "s/BUILD_DATE/$today/" > $output
 
+# Begin the HTML header.
+cat $header | sed "s/BUILD_DATE/$today/" > $output
 echo '<style type="text/css">' >> $output
 minify_css >> $output
 echo '</style>' >> $output
+echo '</head>' >> $output
 
+# Begin body of HTML.
 # This will be the version that users see in the HTML page.
 version=$(cat VERSION)
 cat $intro | sed "s/VERSION_DATE/$version/" >> $output
