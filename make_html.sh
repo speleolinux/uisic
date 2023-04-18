@@ -28,7 +28,7 @@ output="UIS_Glossary.html"
 ###########
 
 function minify_css {
-    # This just minifies the styles.css
+    # This minifies the CSS styles.
     # The first sed removes the block css comments.
     # The tr squeezes spaces and removes new lines.
     # The final sed removes spaces after : and ; and {.
@@ -55,38 +55,47 @@ function print_header {
 }
 
 function print_intro {
-    # Begin body of HTML.
+    # Print the introduction as HTML.
+
     # This will be the version that users see in the HTML page.
     version=$(cat VERSION)
     cat $intro | sed "s/VERSION_DATE/$version/"
 }
 
 function print_glossary {
-    # Print the glossary table.
+    # Print the glossary table as HTML.
+
+    local tmp="tmp.txt"
 
     # We use columns=10000 to reduce the column width on the term column.
-    pandoc --columns=10000 --mathml -f markdown -t html $glossary > tmp1
+    pandoc --columns=10000 --mathml -f markdown -t html $glossary > $tmp
     
     # This table needs a few things fixed.
     
     # 1. Replace line like this: <td>7</td>
     #    with line like this:    <td id="7">7</td>
-    cat tmp1 | sed 's/<td>\([0-9]*\)<\/td>/<td id="\1">\1<\/td>/' > tmp2
+    sed -i 's/<td>\([0-9]*\)<\/td>/<td id="\1">\1<\/td>/' $tmp
     
     # 2. Remove the even/odd classes on the rows.
-    cat tmp2 | sed 's/ class="even"//' > tmp1
-    cat tmp1 | sed 's/ class="odd"//' > tmp2
+    sed -i 's/ class="even"//' $tmp
+    sed -i 's/ class="odd"//'  $tmp
     
     # Print output
-    cat tmp2
+    cat $tmp
+    rm -f $tmp
 }
 
 function print_references {
     # Print the references as HTML.
-    pandoc -f markdown -t html $references > tmp1
+
+    local tmp="tmp.txt"
+
+    pandoc -f markdown -t html $references > $tmp
     # Replace line like this: <p>1. Bates, R. L. and J. A. Jackson.
     # with line like this:    <p id="ref1">Bates, R. L. and J. A. Jackson.
-    cat tmp1 | sed 's/<p>\([0-9]*\)/<p id="ref\1">\1/'
+    cat $tmp | sed 's/<p>\([0-9]*\)/<p id="ref\1">\1/'
+
+    rm -f $tmp
 }
 
 ######
@@ -119,10 +128,7 @@ pandoc -f markdown -t html $license   >> $output
 pandoc -f markdown -t html $contact   >> $output
 cat $footer >> $output
 
-# Cleanup
-rm -f tmp1
-rm -f tmp2
-
+# Move the HTML doc into the appropriate location.
 if [ -z "${CI+x}" ]; then
     # CI is unset or zero so we are running locally.
     echo "Moving output to tmp/$output"
