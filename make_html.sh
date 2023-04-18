@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script to generate HTML page from the Markdown document.
+# Script to generate HTML Glossary page from the Markdown input.
 # Author: Mike Lake
 # Date: March 2023
 
@@ -9,12 +9,10 @@ styles="assets/styles.css"
 header="assets/header.html"
 footer="assets/footer.html"
 
-# Main Content of the Glossary
-
-# This is the complete glossary.
-input="glossary_content/glossary_table.md"
-# Uncomment this to use a shortened glossary for testing.
-#input="glossary_content/glossary_table_short.md"
+# The main glossary table.
+glossary="glossary_content/glossary_table.md"
+# Uncomment this to use a shorter version of the glossary for testing.
+#glossary="glossary_content/glossary_table_short.md"
 
 references="glossary_content/references.md"
 epa_intro="glossary_content/epa_intro.md"
@@ -49,7 +47,7 @@ cat assets/start.html | sed "s/VERSION_DATE/$version/" >> $output
 
 # Create the main HTML table data.
 # We use columns=10000 to reduce the column width on the term column.
-pandoc --columns=10000 --mathml -f markdown -t html $input > tmp1
+pandoc --columns=10000 --mathml -f markdown -t html $glossary > tmp1
 
 # This table needs a few things fixed.
 
