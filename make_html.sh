@@ -22,6 +22,21 @@ contact="glossary_content/contact.md"
 # Final output file for publishing.
 output="UIS_Glossary.html"
 
+###########
+# Functions
+###########
+
+function minify_css {
+    # This just minifies the styles.css
+    # The first sed removes the block css comments.
+    # The tr squeezes spaces and removes new lines.
+    # The final sed removes spaces after : and ; and {.
+    cat $styles | \
+    sed -r ':a; s%(.*)/\*.*\*/%\1%; ta; /\/\*/ !b; N; ba' \
+    | tr -s '\t' ' ' | tr -s ' ' | tr -d '\n' \
+    | sed 's/: /:/g' | sed 's/; /;/g' | sed 's/ { /{/g'
+}
+
 ######
 # Main
 ######
@@ -49,7 +64,7 @@ version=$(cat VERSION)
 
 cat $header | sed "s/BUILD_DATE/$today/" > $output
 echo '<style type="text/css">' >> $output
-cat $styles >> $output
+minify_css >> $output
 echo '</style>' >> $output
 cat $intro | sed "s/VERSION_DATE/$version/" >> $output
 
