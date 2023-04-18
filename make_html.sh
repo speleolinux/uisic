@@ -13,8 +13,6 @@ intro="glossary_content/intro.html"
 
 # The main glossary table.
 glossary="glossary_content/glossary_table.md"
-# Uncomment this to use a shorter version of the glossary for testing.
-#glossary="glossary_content/glossary_table_short.md"
 
 references="glossary_content/references.md"
 epa_intro="glossary_content/epa_intro.md"
@@ -27,6 +25,14 @@ output="UIS_Glossary.html"
 ######
 # Main
 ######
+
+# If $CI is set then we are running under Github's CI.
+if [ -z "${CI+x}" ]; then
+    # CI is unset or zero so we are running locally.
+    # Use this shorter version of the glossary for testing.
+    glossary="glossary_content/glossary_table_short.md"
+    echo "Using short $glossary CI=$CI"
+fi
 
 # Export our timezone so in the shell on the Github build,
 # the timezone will be correct.
@@ -76,10 +82,13 @@ pandoc -f markdown -t html $contact   >> $output
 
 cat $footer >> $output
 
-# Use this for Git CI.
-mv $output docs/index.html
-# Use this for local updating and comment out the above.
-#mv $output tmp/
+if [ -z "${CI+x}" ]; then
+    # CI is unset or zero so we are running locally.
+    echo "Moving output to tmp/$output"
+    mv $output tmp/
+else
+    mv $output docs/index.html
+fi
 
 # Cleanup
 rm -f tmp1
