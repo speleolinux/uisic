@@ -707,7 +707,7 @@
 | 703 | desiccation crack | A crack formed in soil as a result of shrinkage to a drying volume [16]. |
 | 704 | desorption | The reverse process of sorption [22].  See also sorption. |
 | 705 | detritus | Loose material originating from disintegrated and weathered rock [16]. |
-| 706 | developed section | The result of straightening out a section composed of several parts with differing directions into one common plane. Usually the plane is vertical and the length of the section equals the plan lengths of the passages and chambers comprising [25]. |
+| 706 | developed section | The result of straightening out a section composed of several parts with differing directions into one common plane. Usually the plane is vertical and the length of the section equals the sum of the plan lengths of the passages and chambers [25]. |
 | 707 | development | The act of repairing damage to the formation caused by drilling procedures and increasing the porosity and permeability of the materials surrounding the intake portion of the well [6]. |
 | 708 | deviation | 1. Deflection of a recording from a base line (e.g., the deviation from vertical of a borehole) [16].  2. Usually a sling of rope or tape attached to a natural anchor at one end and clipped to the rope with a karabiner at the other.  Used to avoid rub points on pitches [25]. Synonym: redirection. |
 | 709 | dew-point | The point at which dew formation starts for given temperature and humidity conditions [16]. |
