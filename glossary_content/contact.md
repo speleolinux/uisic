@@ -1,7 +1,6 @@
 <h2 id="contact">Contact</h2>
 
-<p><a href="mailto:Peter Matthews - Glossary 
-<matthews&#000000064;melbpc.org.au>">Peter Matthews</a> (Project Leader).   &nbsp; 
+<p><a href="mailto:Peter Matthews - Glossary <matthews&#000000064;melbpc.org.au>">Peter Matthews</a> (Project Leader). &nbsp; 
 <a href="mailto:Mike Lake - Glossary <mikel&#000000064;speleonics.com.au>">Mike Lake</a> (Assisting).
 </p>
 <p>
