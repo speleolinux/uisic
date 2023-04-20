@@ -3,7 +3,7 @@
 This is a test repo for some UISIC projects. Currently its being used to test a
 continuous integration (CI) build of a cave science glossary.
 
-Here is a [Cave and Karst Glossary](https://speleolinux.github.io/uisic/) test web page. 
+Here is the [Cave and Karst Glossary](https://speleolinux.github.io/uisic/) test web page. 
 
 The raw data for the glossary comes from the directory `glossary_content`; either 
 the full data `glossary_table.md .md` or the short data `glossary_table_short.md`. 
