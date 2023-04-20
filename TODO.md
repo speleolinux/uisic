@@ -16,10 +16,19 @@ Inconsistent use of - or – for number range separator e.g.:
 
 ## Peter Matthews
 
-PM Will be fixing the scientific equations in the main doc. Mike is doing some tests with a short version of the doc so we can decide 
-if we wish to use standard HTML, MathML or MathJax.
+TODO:
 
 ## Mike Lake
+
+TODO: 
+
+- Create links from glossary to references. Note bug:    
+  `<p id="ref">As extracted from Field’s 2nd Edition 2002 Lexicon.</p>`
+- Dictionary stuff should be under a `dictionary` directory. We should also rename the
+  `lextables` directory and place it under dictionary. The CSV files should have
+  lower case filenames.
+- Documentation will also need to be written for the updating and maintenance
+  procedures for the dictionary and glossary.
 
 Done:
 
@@ -27,20 +36,8 @@ Done:
 - Numbering / Ordering Issues: No current problems.
 - Have added meta tags in header to prevent caching.
 - Moved build date into header as a meta tag.
-- Extracted license, notes and references to separate files. To be used later.
-
-TODO: 
-
-Currently `epa_mfield_2002_utf8.md` is under the `mfield_data` directory. 
-Eventually this should be renamed to `glossary.md` and under a `glosssary` directory.
-Then the `mfield_data` files can be archived.
-
-Dictionary stuff should be under a `dictionary` directory. We should also rename the
-`lextables` directory and place it under dictionary. The CSV files should have
-lower case filenames.
-
-Documentation will also need to be written for the updating and maintenance
-procedures for the dictionary and glossary.
+- Extracted license, notes and references to separate files.
+- Renamed directories to final names.
 
 ### Continuous Integration
 
