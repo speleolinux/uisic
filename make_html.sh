@@ -1,6 +1,12 @@
 #!/bin/bash
 
 # Script to generate HTML Glossary page from the Markdown input.
+# This script is invoked by the CI workflow .github/workflows/ci.yml
+# If it runs on Github as a CI job then it will create "docs/index.html".
+# If it is run locally on your PC it will create "tmp/UIS_Glossary.html"
+# It decides the above based on if the CI variable exists and is set.
+# Usage: ./make_html.sh
+#
 # Author: Mike Lake
 # Git repo: https://github.com/speleolinux/uisic
 # Date: March 2023
