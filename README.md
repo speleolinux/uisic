@@ -8,17 +8,16 @@ Here is a [Cave and Karst Glossary](https://speleolinux.github.io/uisic/) test w
 The raw data for the glossary comes from the directory `glossary_content`; either 
 the full data `glossary_table.md .md` or the short data `glossary_table_short.md`. 
 Edit the `make_html.sh` script to select the data file.
-
 The remaining content of the test web page comes from files in the `glossary_content`
 and the `assets` directories.
-
-The raw data is stored in Markdown format which is easy to edit and view. 
-The Markdown data is transformed to this Cave and Karst Glossary test web page
-whenever the Github action is initiated. 
+The data is stored in Markdown format which is easy to edit and view. 
 
 There is also a `VERSION` file in this repository. That should contain just a
 single line with the date as YYYY-MM-DD e.g. "2023-04-19". This will be shown
 on the web page as the "Published" date.
+
+The Markdown data is transformed to this Cave and Karst Glossary test web page
+whenever the Github action is initiated. 
 
 This status image shows if the build of the Markdown data to the web page job has passed OK.    
 [![Publish Glossary](https://github.com/speleolinux/uisic/actions/workflows/ci.yml/badge.svg)](https://github.com/speleolinux/uisic/actions/)
@@ -50,14 +49,16 @@ contents of that directory.
 There is a CI file `.github/workflows/ci.yml`. At present just read that.
 I'll put more details here shortly. 
 
-Basically the CI will trigger when the file VERSION is updated. It will run the
-script `make_html.sh` which will build the a HTML format glossary from the Markdown format.
+Currently the CI is triggred manually from Github actions. 
+It will run the script `make_html.sh` which will build the a HTML format
+glossary from the Markdown format.
+Later we may set the CI to trigger when the file VERSION is updated. 
 
 This HTML page will then be published from the `gh-pages` branch to the Github
 pages site here: <https://speleolinux.github.io/uisic/>.
 
-This is just to test how in the future it could be auto generated from
-the data in this repo.
+In the future this should be published directly to the UISIC site or just 
+copied from here and uploaded. No other manual HTML editing should be required.
 
 ## Miscellaneous Notes
 
