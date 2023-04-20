@@ -5,13 +5,20 @@ continuous integration (CI) build of a cave science glossary.
 
 Here is a [Cave and Karst Glossary](https://speleolinux.github.io/uisic/) test web page. 
 
-The raw data for test web page comes from one of the data pages in the directory 
-`mfield_data/`; either the full data `epa_mfield_2002_utf8.md` or the short data 
-`epa_mfield_2002_utf8_short.md`. Edit the `make_html.sh` script to select the data file.
+The raw data for the glossary comes from the directory `glossary_content`; either 
+the full data `glossary_table.md .md` or the short data `glossary_table_short.md`. 
+Edit the `make_html.sh` script to select the data file.
+
+The remaining content of the test web page comes from files in the `glossary_content`
+and the `assets` directories.
 
 The raw data is stored in Markdown format which is easy to edit and view. 
 The Markdown data is transformed to this Cave and Karst Glossary test web page
-whenever the raw data and the file `VERSION` in this repository is updated.
+whenever the Github action is initiated. 
+
+There is also a `VERSION` file in this repository. That should contain just a
+single line with the date as YYYY-MM-DD e.g. "2023-04-19". This will be shown
+on the web page as the "Published" date.
 
 This status image shows if the build of the Markdown data to the web page job has passed OK.    
 [![Publish Glossary](https://github.com/speleolinux/uisic/actions/workflows/ci.yml/badge.svg)](https://github.com/speleolinux/uisic/actions/)
@@ -27,13 +34,14 @@ contents of that directory.
 
 | File                  | Description |
 | ----                  | ----------- |
-| LICENSE               | Copy of the GNU GPL 3 License.                            |
-| VERSION               | Update this version file to trigger the CI build.         |
-| make_html.sh          | Bash script used by the CI build.                         |
-| generate_dict.py      | Python script reads in lang tables, outputs dict.         |
-| assets/               | Contains HTML code and styles for the CI build.           |
-| docs/                 | Contains the generated HTML index from the CI build.      |
-| languages/            | Contains short extracts from Malcolm Field's lexicon.     |
+| LICENSE               | Copy of the GNU GPL 3 License.                              |
+| VERSION               | Update this version file to trigger the CI build.           |
+| make_html.sh          | Bash script used by the CI build.                           |
+| generate_dict.py      | Python script reads in lang tables, outputs dict.           |
+| assets/               | Contains HTML code and styles for the CI build.             |
+| glossary_content/     | Contains glossary data, and other content for the web page. |
+| docs/                 | Contains the generated HTML index from the CI build.        |
+| languages/            | Contains short extracts from Malcolm Field's lexicon.       |
 | lextables/            | Contains some language CSV files from the Cavers Multi-lingual Dictionary. |
 | mfield_data/          | Contains CSV & Markdown of Malcolm Field's lexicon. | 
 
@@ -45,7 +53,7 @@ I'll put more details here shortly.
 Basically the CI will trigger when the file VERSION is updated. It will run the
 script `make_html.sh` which will build the a HTML format glossary from the Markdown format.
 
-This HTML page will then be published from the  `gh-pages` branch to the Github
+This HTML page will then be published from the `gh-pages` branch to the Github
 pages site here: <https://speleolinux.github.io/uisic/>.
 
 This is just to test how in the future it could be auto generated from
@@ -54,6 +62,8 @@ the data in this repo.
 ## Miscellaneous Notes
 
 ### Language Files
+
+These are not used here at present. They will be used later for the UISIC Cavers dictionary.
 
 Each language is in a separate file under the directory `languages`. The file
 naming follows the ISO 639-1 codes. Those wishing to translate glossary terms
