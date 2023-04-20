@@ -43,7 +43,7 @@ contents of that directory.
 | docs/                 | Contains the generated HTML index from the CI build.        |
 | languages/            | Contains short extracts from Malcolm Field's lexicon.       |
 | lextables/            | Contains some language CSV files from the Cavers Multi-lingual Dictionary. |
-| mfield_data/          | Contains CSV & Markdown of Malcolm Field's lexicon. | 
+| utils/                | Contains some utility programs.                             |
 
 ## Continuous Integration & Github Pages
 
