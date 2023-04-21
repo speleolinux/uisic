@@ -1,5 +1,10 @@
 ## References
 
+<!-- Note: In this references.md file if you have a 1. at the start this will
+     be interpreted by pandoc as the start of a list. To supress this behavior
+     prefix the dot by a backslash i.e. 1\.
+--> 
+
 As extracted from Field's 2nd Edition 2002 Lexicon.
 
 1\. Bates, R. L. and J. A. Jackson. 1980. Glossary of Geology. American Geological Institute.
