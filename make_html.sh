@@ -34,7 +34,7 @@ output="UIS_Glossary.html"
 ###########
 
 function minify_css {
-    # This minifies the CSS styles.
+    # Minify the CSS styles.
     # The first sed removes the block css comments.
     # The tr squeezes spaces and removes new lines.
     # The final sed removes spaces after : and ; and {.
@@ -61,7 +61,7 @@ function print_header {
 }
 
 function print_intro {
-    # Print the introduction as HTML.
+    # Print the HTML introduction, replacing VERSION_DATE.
 
     # This will be the version that users see in the HTML page.
     version=$(cat VERSION)
@@ -96,11 +96,16 @@ function print_references {
 
     local tmp="tmp.txt"
 
-    pandoc -f markdown -t html $references > $tmp
-    # Replace line like this: <p>1. Bates, R. L. and J. A. Jackson.
-    # with line like this:    <p id="ref1">Bates, R. L. and J. A. Jackson.
-    cat $tmp | sed 's/<p>\([0-9]*\)/<p id="ref\1">\1/'
+    pandoc -f markdown -t html --strip-comments $references > $tmp
 
+    # Replace lines in the temporary HTML file as follows: 
+    #   <p>As extracted from ....              <== Do not change. 
+    #   <p>1. Bates, R. L. and J. A. Jackson.  <== Change this.
+    # with line like this: 
+    #   <p id="ref1">Bates, R. L. and J. A. Jackson.
+    # Match at the start a <p> followed by an integer, one or more times,
+    # followed by a fullstop.
+    cat $tmp | sed 's/^<p>\([0-9]\+\)\./<p id="ref\1">\1./'
     rm -f $tmp
 }
 
