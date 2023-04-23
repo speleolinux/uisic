@@ -6,7 +6,7 @@ continuous integration (CI) build of a cave science glossary.
 Here is the [Cave and Karst Glossary](https://speleolinux.github.io/uisic/) web page created by the CI.
 This can be compared to the published 
 [Cave and Karst Glossary](https://www.uisic.uis-speleo.org/uisglossary-en.html) at the UISIC site.
-This later site si still being maintained manually.
+This later site is still being maintained manually.
 
 The raw data for the glossary comes from the directory `glossary_content`; either 
 the full data `glossary_table.md .md` or the short data `glossary_table_short.md`. 
