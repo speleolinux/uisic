@@ -54,6 +54,8 @@ function print_header {
     today=$(date +"%Y-%m-%d %H:%M %Z")
     
     cat $header | sed "s/BUILD_DATE/$today/"
+    echo "<!-- These CSS styles are included locally so that this page \
+will still display OK when downloaded and used off-line. -->"
     echo '<style type="text/css">'
     minify_css
     echo '</style>'
