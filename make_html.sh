@@ -118,7 +118,7 @@ if [ -z "${CI+x}" ]; then
     # CI is unset or zero so we are running locally.
     # Use this shorter version of the glossary for testing.
     glossary="$glossary_short"
-    echo "Using short $glossary CI=$CI"
+    echo "Using short $glossary as CI=$CI"
 else
     # We are running at Gitlab via CI.
     glossary="$glossary_full"
