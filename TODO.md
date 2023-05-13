@@ -22,8 +22,6 @@ TODO:
 
 TODO: 
 
-- Create links from glossary to references. Note bug:    
-  `<p id="ref">As extracted from Field’s 2nd Edition 2002 Lexicon.</p>`
 - Dictionary stuff should be under a `dictionary` directory. We should also rename the
   `lextables` directory and place it under dictionary. The CSV files should have
   lower case filenames.
@@ -34,12 +32,14 @@ Done:
 
 - Chemical Formulas: I think all chemical formulas are now OK.
 - Numbering / Ordering Issues: No current problems.
-- Have added meta tags in header to prevent caching.
+- Have added temporary meta tags in header to prevent caching.
 - Moved build date into header as a meta tag.
 - Extracted license, notes and references to separate files.
 - Renamed directories to final names.
+- Create links from glossary to references.
+- Finished math formulae.
 
-### Continuous Integration
+### Disabled Continuous Integration
 
 I have commented out the *auto* updating of the glossary at <https://speleolinux.github.io/uisic/>
 until I work out how to stop Github pages from running when it's not required.
